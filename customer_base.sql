@@ -1,0 +1,13 @@
+select customer_id,
+first_name,
+last_name,
+date_of_birth,
+gender,
+email,
+phone_number,
+address,
+city,
+country,
+occupation,
+income_bracket,
+customer_since from GLOBALBANK.raw_data.customer_raw
