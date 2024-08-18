@@ -1,0 +1,1001 @@
+transaction_id,customer_id,transaction_date,amount,currency,transaction_type,channel,merchant_name,merchant_category,location_country,location_city,is_flagged
+70ca31f1-725d-43cc-be61-f7d54b269a26,6a1526e6-838d-4655-aa80-200a44798fa9,2023-03-14 11:41:50,1143.34,INR,deposit,online,Lopez-Taylor,retail,Japan,New Jennifer,False
+b0ad5be4-e0ae-4735-9195-497e9c228825,0e8d90cd-a163-4c9b-a641-aef70168a8a3,2023-10-22 17:54:13,1897.78,INR,deposit,online,"Hurst, Underwood and Patel",entertainment,Japan,Turnerside,False
+bad0cd19-70b4-4fe2-addb-a0a9f927ce19,af5e0d47-e529-49c7-a108-b0053819f9af,2023-07-30 06:29:27,979.89,INR,transfer,ATM,Mathis Group,Electronics,USA,Keithton,False
+9c3e0f7f-47aa-412a-964b-f4a5df5c0cb7,0144511a-bab3-4536-9449-d80690d90511,2023-12-29 15:42:47,1018.43,USD,purchase,in-branch,Acosta Group,utilities,Japan,South Meganland,False
+3836cf48-74a7-49be-b69f-e51023ab4a98,cc49c985-7c20-4cb2-bc16-0aabc0e7e947,2023-07-03 07:40:29,1662.77,GBP,withdrawal,ATM,"Rivera, Gonzalez and Henderson",retail,IND,West Tiffany,False
+d4a1afad-4eb1-41aa-b2f4-7d0008c73963,5ea60bcd-0288-4342-8e4a-9ab19222cc2e,2023-09-18 23:11:54,146.9,USD,transfer,online,Sutton Group,travel,USA,Millermouth,False
+7d426d81-9ebf-4c80-bde6-18f174a5a9bd,e28f7f7b-9028-4a1e-86f9-23bf18d9e139,2024-07-17 00:10:27,584.66,GBP,transfer,in-branch,Cooley Inc,Electronics,UK,New Randy,False
+984e34a3-af70-4323-94c2-c351c4715045,dc987df3-5abf-4609-b994-4176a0b214c1,2023-06-07 03:34:11,181.93,INR,withdrawal,online,Webb Inc,Electronics,Japan,Lake Jacobmouth,False
+37b1d848-8680-46fd-89ed-6ffb588f9148,2fefb6bf-bc7a-4437-ace5-6955e23210de,2024-03-22 03:13:40,37.94,INR,purchase,in-branch,Price Group,entertainment,USA,Matthewfurt,False
+d181c9d9-f327-496d-b207-3e6622b089d3,92a62ff2-6499-49c8-9624-a8de5f1afcb8,2024-03-25 01:20:50,1126.75,EUR,purchase,online,Mckinney-Riley,utilities,UK,Chavezfurt,False
+8031f55b-a7d8-472d-8c63-729e8d1457c2,785fc070-46a4-4e4f-88de-21dc0c1f8282,2023-02-18 22:15:18,1444.46,USD,deposit,mobile,"George, Freeman and Baird",travel,USA,Lake Josephfurt,False
+217a5185-9b54-4fbe-bf20-434c076882c2,f387025d-ff31-4458-862e-68d3ac97c0e0,2023-05-05 19:39:37,1922.57,EUR,purchase,ATM,"Thompson, Campbell and Lewis",entertainment,CANADA,East Robertland,False
+4b92dfaf-ef97-4c92-9cf5-552f9c86aa01,8b9c8726-8904-4229-8967-43e401d05db0,2024-06-25 00:23:12,1372.28,INR,withdrawal,online,Clay Group,entertainment,CANADA,South Christina,True
+3a6c8fd2-895f-4907-bae2-979d647da27b,48483416-ac50-4b76-82af-ffafffe45093,2022-10-23 00:47:34,968.79,EUR,purchase,in-branch,Schwartz PLC,travel,CANADA,Jamesland,False
+7d46c570-1335-4f38-ab18-3330b909e154,7f3605d3-50f2-4189-bba4-e319fe6be767,2024-03-04 17:41:05,1970.54,JPY,withdrawal,in-branch,"Brooks, George and Smith",travel,Germany,Colleenside,False
+71415ab9-2758-498e-b7e5-23ad8b6891aa,6dc52e2d-d933-4c9b-ad9e-3a9ae841cb1d,2023-11-02 04:28:55,1625.91,GBP,transfer,ATM,Medina-Williams,Electronics,UK,North James,False
+490daf49-4f59-4210-b8a1-0b84d4208039,d80a6d97-6d26-4c99-a659-97d352a031fe,2024-07-25 11:48:37,290.82,EUR,transfer,mobile,"Hutchinson, Watkins and Ramos",utilities,Japan,Dylanland,False
+1cb488a1-81bc-4d91-8ba2-ec0d45b677e2,ece5f08a-dbf6-4891-81e1-de048130590b,2023-07-30 05:31:44,497.36,JPY,purchase,in-branch,"Perez, Payne and Warren",travel,USA,North Tonyview,False
+50ca2a67-c679-4354-b14d-eb1dc23d99af,ac181011-d67b-4e00-90e0-4eb5bdbffa4e,2024-01-01 09:58:29,1407.99,JPY,transfer,mobile,"White, Garza and Sloan",utilities,CANADA,Peggybury,False
+62b9b574-56e2-445c-93f2-d0c2621fa010,07c9d428-f194-4d5b-b41f-21f7760ea68f,2024-07-21 12:00:43,791.1,EUR,deposit,mobile,"Mccall, Owens and Fields",travel,Germany,North Kevinville,False
+39ea99c8-bfe9-47bf-acdb-8a284d75298b,89631762-5827-4ef2-bfbf-f5ec0d75022e,2024-07-05 19:54:00,335.62,USD,transfer,in-branch,Bradshaw-Kelly,Electronics,CANADA,South Geoffrey,False
+9baacecb-018b-44ca-a4f4-eebf5c48ddf7,0ecf8182-db32-4979-ba55-024a58cf0b88,2023-04-23 17:41:41,754.34,JPY,transfer,mobile,Johnston Inc,groceries,Japan,Thompsonview,False
+c6ab2b19-adb3-4adf-819d-a48ce6b4d0b2,5f7fa65b-40e5-4145-a688-0e884b0dde36,2023-10-03 13:22:34,1882.12,JPY,purchase,mobile,"Conrad, Sherman and Mendez",groceries,Japan,Martinville,False
+5f3bb2ae-ef92-466f-908a-2efda9354df0,120ae87c-3e56-4fa4-81cf-0562794f217c,2022-11-22 20:59:08,318.3,EUR,purchase,in-branch,Boyd Inc,groceries,Japan,Jodiville,False
+400a5f97-af1c-44f7-8c87-b1a9210b1708,0bd8b9ae-5293-4c15-8d52-6a567b0d61ca,2024-07-19 01:07:36,1031.06,USD,deposit,online,"Hart, Hardy and Eaton",retail,Japan,Morganberg,False
+5b85ef37-19c0-4cad-b9f1-e1cf20a62579,753d7176-545c-4362-9f5e-9592baa341cc,2024-03-11 17:00:57,417.76,USD,transfer,mobile,"Hughes, Hamilton and James",travel,IND,Johnchester,False
+712513d1-dc02-468b-b781-b53c438fa85e,8ad400dd-11a9-4ffb-8b0d-3ff32324a27f,2024-07-29 23:57:43,996.57,JPY,purchase,in-branch,Hahn Inc,retail,IND,North Alexisburgh,False
+589d6b51-f86b-44b1-8839-d5f6ac6cb19a,460da795-88f0-4db1-8480-55e050f8b03e,2023-09-25 10:45:17,257.47,INR,purchase,online,Anderson-Thornton,retail,IND,Castanedaberg,False
+1821a336-0846-4219-a14e-2dd2dc07b85b,35ffc092-eee7-4e9e-9143-3b62390a6d46,2023-04-25 15:40:22,408.15,USD,withdrawal,in-branch,Miles-Fletcher,Electronics,Germany,East Jamieshire,False
+553377a4-2880-4f72-b8e4-421d0c01103c,52e73ac5-cf0b-4ee6-9f50-ddc716066f6e,2024-02-24 03:50:14,910.87,USD,withdrawal,online,"Melton, Sullivan and Davis",travel,USA,Walterborough,False
+6a210721-98c1-4e12-872e-6bae62300d3b,19c57c62-8485-46c2-83ee-93c93f525f4d,2022-10-18 20:05:11,1606.32,GBP,purchase,mobile,Rodriguez Group,utilities,USA,Katelynmouth,False
+fe83cf33-de14-4429-9a5d-1553f0830405,328ac89a-c0de-4c54-9be3-8bf6d1c5c877,2024-04-07 19:10:31,1315.17,EUR,deposit,mobile,"Lee, Chapman and Pratt",retail,Japan,New Christineborough,False
+7f344871-f3c5-4ed3-9e7f-dc45e65046ec,a9aa7180-3a46-4289-becf-bb3866cb6501,2023-07-16 23:07:33,529.42,USD,transfer,in-branch,"Benson, Hunter and Hopkins",entertainment,UK,Prattport,False
+ed33dc33-e03e-4b22-b975-05d01818c5f3,ca0cee22-1b4e-4d23-832b-664fc55fa8b9,2024-03-12 03:52:22,288.67,GBP,deposit,ATM,Leonard Ltd,retail,CANADA,Paulafurt,False
+8591eac0-0076-48df-9a65-3e47dcd7ad23,cb17fa99-7ebd-402b-9867-4c3bcff8b5e0,2023-06-07 02:56:02,587.98,INR,deposit,mobile,Pham-Jones,travel,UK,Mackenziebury,False
+d07d9fc4-8212-4fd9-ab7b-01d16d7ea219,4f841ec6-ba6f-4041-a61e-f021e3fe43af,2022-12-09 23:16:24,22.58,JPY,deposit,online,"Phelps, Palmer and Oneill",groceries,Japan,Christopherhaven,False
+dcee939f-a322-49ed-aae7-8890a1e390bd,823ec0c1-4f02-4923-9a58-6c53c13d7a9c,2022-08-15 10:43:06,648.35,JPY,deposit,online,Larson-Singh,entertainment,Japan,Danieltown,True
+9398b133-086d-4ce5-a3eb-1d47daf6dc9b,623236e4-0aa3-490d-834c-54bfcf75a7b7,2023-04-27 20:32:03,1957.49,JPY,withdrawal,online,Barrett Inc,travel,UK,Myerston,False
+0d20d00a-0b98-4b04-a7b4-e3d7010ff3c8,82d3e174-1076-40a4-9f01-650e170ce0c4,2023-03-17 16:49:02,11.81,GBP,deposit,mobile,"Thomas, Davies and Leblanc",Electronics,USA,Brownville,False
+46e186a0-ed42-4b34-a19c-5359cba16520,2fcb0806-5f47-488c-abc5-7192c9898c92,2024-04-01 04:06:09,534.49,JPY,deposit,online,Knight Ltd,travel,CANADA,West Timothy,False
+f7ba5d0a-14f5-49d4-a359-ba7ad3aa1523,61eeb913-6733-4cb4-8cc1-e373e0567204,2024-04-11 20:03:51,1702.83,GBP,withdrawal,mobile,Patel-Avery,entertainment,Japan,Kathleenside,False
+da451fce-bc6e-4fb9-9d42-939278e0bad5,b7c2ce12-c0c9-49a6-a3b4-968fe05ae88f,2022-09-04 12:43:21,538.22,INR,deposit,online,Harris Ltd,entertainment,Germany,Joelbury,False
+0801cc26-ea58-4d5f-aadd-82541eade4ef,8a0466c7-3fde-4edb-9736-ee1c7595df90,2024-05-23 08:26:00,1224.38,JPY,purchase,mobile,Hernandez-Love,travel,Japan,Robbinstown,False
+91112e1f-6081-487c-97e3-d37b97d28a73,01e33172-13e1-4e11-89f8-b64231e173ce,2024-04-24 12:48:05,307.55,INR,deposit,online,"Hutchinson, Watson and Johnson",groceries,CANADA,East Karlport,False
+ef527c13-dafe-4918-bd8a-4497d0a357d7,c7a78f9d-0812-4be8-9582-7d24f805735e,2022-09-02 21:21:25,1310.46,USD,purchase,mobile,Jimenez-Edwards,utilities,Germany,Phyllisport,False
+381fa26b-7f8a-4a3f-ab0d-d49dc00a787f,6a5d2767-3d4e-48e2-ac54-e034e3df8387,2024-02-18 23:03:05,1924.91,JPY,purchase,mobile,Hayes-Erickson,groceries,CANADA,Timothyshire,True
+586096d0-d94b-458d-905a-7a64990a36eb,b69a7262-ab0a-4ae5-baa6-8f291a0e8fa5,2024-03-03 18:20:37,235.63,USD,deposit,mobile,Burke-Carter,entertainment,CANADA,Kelleyport,False
+032ef777-7b68-4b6b-b238-b2f5ad948754,0f1326bd-57dc-4df6-834b-54c667c95241,2022-10-20 14:18:31,672.86,INR,purchase,ATM,"Good, Espinoza and Ray",travel,USA,Jenkinsstad,False
+2e2ed6ae-860b-49e2-a2aa-0f5c1d7a1078,d3fb1666-8d75-42fe-aae5-47c525d2b852,2023-11-27 15:40:05,1892.71,INR,purchase,online,"Williams, Lee and Wong",entertainment,UK,East Samuel,False
+d084d74b-ae71-40c9-add8-e8749a25a83f,4da5f896-574f-4841-9886-4e9bc33e2f37,2023-12-15 13:36:40,1409.28,USD,withdrawal,online,"Dudley, Miller and Meyer",retail,IND,Hamptonfort,False
+46dd701d-5835-4389-bba4-c5d35f0fa39e,ef0c8323-65bb-4b39-bcb9-70a27518693f,2022-10-05 12:18:18,233.2,JPY,withdrawal,ATM,Smith-Garrett,Electronics,IND,Briannafort,True
+76dc524e-2da0-4451-ab47-21e096256aa2,ab6c9f27-bfca-4a68-8122-09641ba7fd31,2023-11-08 15:32:21,1935.91,EUR,deposit,mobile,Vargas-Ortega,travel,CANADA,West Kevinville,False
+614c6ce0-64eb-4303-b24e-48bad1fb43dd,7f4e287f-6c5a-41b5-9158-214f04b648ad,2023-08-26 16:26:00,1573.39,INR,withdrawal,mobile,Hodge-Haney,entertainment,Germany,Carrshire,False
+136bb1c0-e7f4-43b1-815b-952ab1f98151,88251e77-e399-43ab-be60-6f3209a90914,2023-09-12 13:32:26,689.65,INR,purchase,in-branch,Williams Ltd,groceries,Germany,New Yolandafort,True
+9d518e65-d204-4ee7-9cb1-972bdbe634ad,9a1f6de7-2aa1-4857-b9c6-7d4714687ec7,2023-01-27 03:37:54,1419.65,USD,transfer,online,"Smith, Nguyen and Mcintosh",travel,Germany,West Linda,False
+22549e27-5a17-42f5-b8c9-0c4791bcd0cb,dad16236-9a37-4089-a074-0bbc965e992d,2024-05-03 12:18:22,1286.23,INR,withdrawal,mobile,Lopez and Sons,travel,Germany,East Danielton,False
+3fb425cd-86a0-43de-847f-745774c84cba,4dac7f89-2b5f-4b7c-9127-c465dac45810,2023-01-06 04:19:05,513.37,EUR,deposit,ATM,Hall-Schultz,groceries,Germany,New Matthew,False
+30637ea7-d1f9-47e7-8957-3a2951162e74,e84ffde5-cefc-4fd2-8998-50cee0ec8487,2023-02-04 00:12:28,161.42,USD,transfer,online,"Day, Moore and Wilson",groceries,CANADA,Stevensmouth,False
+f80f6519-315c-4bf9-aed1-b52a6674bbd3,a09c24c2-cadf-4ef7-a815-88f8ca244933,2022-10-10 06:22:01,35.9,EUR,transfer,mobile,Oneal Group,Electronics,USA,Vegaport,False
+29a72d55-439f-48c5-87e8-a6d7f1e9101f,49ab8b12-4891-47b8-983e-de7f462f6478,2022-09-29 20:35:39,750.42,USD,purchase,ATM,Burgess-Roach,Electronics,UK,Scotttown,False
+06492e13-2345-46ac-89d8-6b4798f1a3c1,d9835a54-8598-444c-9f57-69a15e826f63,2024-02-26 10:24:37,1923.01,INR,purchase,ATM,Campbell-Newton,utilities,CANADA,South Russellville,False
+ade38701-dea7-4822-b8a1-02ebadefd77e,050fbaca-9239-4fa7-980f-1373b76f57a1,2023-05-24 02:38:42,487.97,EUR,purchase,in-branch,Acevedo and Sons,Electronics,Germany,West Ashley,True
+a4c769b2-93a0-41a9-9789-2a7e0d4605d7,c4971298-b4fb-499e-9fac-9fff7dd9c32a,2023-04-26 04:40:23,1696.38,INR,withdrawal,online,Taylor-Bullock,retail,IND,Martinfurt,False
+dbc2530d-92b3-45fb-98aa-f3fb1ab0b65f,11d52697-0981-42ac-ba36-339fa0bc70ce,2024-06-01 07:57:08,1655.76,EUR,transfer,mobile,Underwood-Glass,retail,Germany,West Michael,True
+e09a9696-fd09-4147-9a7e-2bfaf8b2f478,f4dbaf45-2fc9-467e-a7e1-b8d1a2d43063,2023-10-23 18:47:22,606.82,JPY,deposit,mobile,Young PLC,groceries,Germany,Payneshire,False
+df4a6d2f-fd27-436c-891d-892e9a41caac,d26ccc25-76fc-464f-85f8-b52e8fd24c9c,2024-07-30 22:27:00,1538.77,INR,withdrawal,online,Johnston-Love,utilities,Japan,Sandovalland,False
+06f47705-1730-4ff5-a446-36e4dd8c202e,b5024b55-0ec8-4db4-9b1c-9ddcb73a1804,2024-01-09 07:45:12,464.77,EUR,withdrawal,online,Hernandez-Hunter,entertainment,UK,Meadowschester,False
+7cc2f16d-ccb3-4367-ba03-32be28aa0087,543c3d58-50f6-4661-a22a-8e931c50fffd,2023-02-06 21:55:25,758.32,EUR,purchase,mobile,"Valdez, Hernandez and Allen",entertainment,CANADA,Port Robert,False
+e014566e-b98e-4eb1-b2aa-94e5abe78936,094fd707-d390-4db1-8b05-ea261d8afbb6,2023-02-06 06:53:08,528.13,GBP,withdrawal,online,Smith-Roach,entertainment,Germany,Cervantesberg,False
+508098f8-4ae0-4037-8b80-ee882857beab,d5df03ee-e9a0-46d2-9156-3d199c7fdbcd,2023-08-08 21:29:11,1804.74,GBP,purchase,ATM,Charles Ltd,utilities,USA,Gilberthaven,False
+6da2b821-b629-45b4-964f-4ca2a5411dc1,33416b3e-0cd6-4245-bcf6-e4914caec7bd,2022-11-12 02:08:06,1271.03,GBP,withdrawal,mobile,Anderson-Jones,Electronics,Japan,Lake Janiceville,False
+434dd761-d217-4a23-aa66-3f1b4decf973,ac8d3dbb-7f22-444d-bfe7-a3cbc3d11d00,2023-06-20 20:49:20,558.12,GBP,purchase,in-branch,"Lawson, Compton and Cooper",Electronics,IND,West Jasonborough,False
+adac6759-54e1-41f5-83c2-8d1417290734,d5fab65c-379c-4cbf-8549-56a8c925fa61,2024-03-25 13:05:30,668.11,GBP,withdrawal,online,Larson-Ritter,utilities,USA,Waltersburgh,False
+df65d7b8-a00e-4944-96a5-f6f268246902,365fafeb-a2ad-4638-a8fb-7ad93e5d40b5,2023-09-07 03:07:10,779.99,INR,transfer,online,Gilbert-Nelson,retail,IND,New Melissaview,False
+06bb2bde-4c8f-4e02-9822-f9a6317039f8,42ac43b4-91fa-4de6-aef6-169954f809db,2024-06-24 11:43:09,1999.34,EUR,withdrawal,ATM,"Graves, Arnold and Ray",entertainment,Japan,East Wandafurt,False
+32eb0c7e-71ab-40be-8978-06e50ae4901a,ece12733-f068-45aa-951a-e3b4cfe1bf2c,2023-08-26 12:22:39,1439.01,INR,withdrawal,in-branch,Rose LLC,travel,Germany,South Stephen,False
+e7292a83-14c4-4bd3-b1a9-ca59fb051be3,346aaa8b-15dc-4d4b-a8e1-b88525523bfb,2022-12-28 12:22:31,998.26,JPY,transfer,ATM,Parker Ltd,Electronics,CANADA,North Rickborough,False
+3baaf714-864b-4a7a-9f6a-72c6b67aec81,647f53f4-9409-4f05-955e-396bf801f9ce,2023-02-04 22:03:34,682.35,INR,withdrawal,in-branch,"Cole, Thomas and Chandler",entertainment,CANADA,West Tammy,False
+2a647e7b-ff16-467f-a17f-bd45211b1525,5038ba82-e62c-4804-b818-518c10bae697,2023-02-19 09:31:44,326.35,GBP,withdrawal,ATM,"Thomas, Hickman and Johnson",Electronics,UK,Port Edwin,False
+7233ef1f-9c29-46d0-8103-74d117825daf,3e226f45-b816-4918-b11a-262a9491a1ca,2023-01-16 07:16:11,611.7,USD,transfer,in-branch,"Silva, Franklin and Thompson",retail,CANADA,East Rebeccaland,False
+302ac78b-69c4-4dce-b1ec-42b99b70b9e8,539941af-6683-4433-888b-3817bd2e7b19,2024-04-28 08:13:29,1157.3,GBP,deposit,online,"Pratt, Carpenter and Warren",retail,UK,Susanfort,False
+a3d769a5-fb69-45ce-8d68-86aa623a17a0,56d86672-b996-44c0-978b-a50ee3fe3c2b,2023-08-07 19:57:33,145.43,USD,purchase,online,"Harris, Parker and Miller",retail,CANADA,Rachelchester,False
+dfdf3040-c4f8-46ba-914f-6620f34ae1c1,33416b3e-0cd6-4245-bcf6-e4914caec7bd,2023-05-10 01:30:42,518.18,GBP,transfer,online,"Bryant, Nguyen and Morris",Electronics,CANADA,Ramirezville,False
+48527948-eaca-4379-bcea-0beea46b68cd,2bb98a67-e5c1-4e4a-8822-43358a992103,2024-03-08 03:47:53,1899.94,GBP,deposit,online,Daniels-Morton,entertainment,Japan,Lake Kevinstad,False
+b561f373-b304-44b6-a8e6-02f5d25b2164,fcf80289-387d-4a14-98a4-a7b3fe5b749c,2023-01-24 09:31:46,960.72,EUR,withdrawal,in-branch,Sosa-Wagner,retail,Japan,Paulburgh,False
+0ed4fd8a-517f-40d8-a5aa-95aae130e78b,04692706-9dbb-4f5e-89cc-acf289faca5a,2023-05-24 19:28:25,1162.8,EUR,purchase,in-branch,"Boyer, Stewart and Santiago",travel,USA,Christinabury,False
+46af9c13-927f-4975-803f-aed47574e581,a28e4706-8415-497f-a68d-61e7de49d493,2023-11-04 01:16:51,1070.15,EUR,deposit,ATM,Anderson-Lane,travel,UK,East Davidport,False
+c6ad9444-2a59-49e9-a1d5-ff4586e65058,926b3f99-31ae-495e-86fa-bcff07ae445d,2024-02-17 05:47:33,468.34,USD,deposit,mobile,Crawford-Chavez,utilities,CANADA,North Markville,False
+04b6a99d-724c-40ba-b0c3-f313e2f08fd7,c627fcfd-95ab-416b-bbd5-d9d409ce9c9e,2024-02-25 02:17:31,1920.22,GBP,withdrawal,ATM,"Jordan, Hall and Clay",Electronics,Japan,Nicholsshire,False
+c4841baa-b1eb-4ad1-8d38-397de09ff1df,d0255380-c1e3-4653-8501-d40950d072f0,2023-01-10 08:25:55,1015.97,EUR,deposit,ATM,"Webb, Estrada and Davis",travel,Germany,Jonathanstad,False
+16b82954-aedd-4dc9-aec7-7031a11f27f6,e3a5f43e-091c-485c-8ac6-310b770063d6,2023-07-05 05:33:06,1099.74,INR,transfer,in-branch,Williams and Sons,entertainment,UK,Lake Jenniferview,False
+73050b0e-0241-4159-a309-60b56ed0d2fd,4b1b3572-f841-45d6-ad7b-24422cb94305,2023-06-10 23:08:42,1070.22,JPY,transfer,online,Fritz PLC,travel,UK,New Cody,False
+dc076de3-986e-497f-a711-3aa57a0f2886,f4385256-acfd-4eec-b25e-5e9e65080251,2022-11-26 03:44:05,1551.03,USD,purchase,mobile,Baxter Inc,utilities,Japan,Port Jeremy,False
+9019d9ec-9f09-4aeb-9fdd-f85a811b6b50,3b6e048f-9767-4dc5-bb8a-ac4a4cec9e2e,2024-08-01 18:03:50,1694.33,INR,withdrawal,ATM,Bell-Sanders,travel,CANADA,Douglastown,False
+519c0dd8-85d1-4f40-8095-7692af89a5fa,63e28e69-95b1-4081-92be-d8c89d78a34e,2024-07-15 07:39:20,818.19,GBP,withdrawal,mobile,"Ramos, Macdonald and Montgomery",groceries,CANADA,Simsview,True
+25f49e13-ac52-4017-952f-96da528e18e7,8a4d7fdb-9bec-4e33-bf2f-333ca1460d42,2023-09-11 13:55:08,1762.66,EUR,deposit,in-branch,Ortiz-Cruz,groceries,IND,Port Samanthafort,False
+7da19144-7bd5-4a95-ae8c-cb1de319dbd9,4efd6691-602a-450f-9b06-8207de23584e,2023-09-29 02:27:49,1485.92,JPY,withdrawal,in-branch,Scott-Norris,groceries,UK,Potterland,False
+8b38b22b-6d90-4428-8964-01bdd2df9f80,e95d3c6b-83df-4007-914d-23512a11654d,2024-02-13 08:51:38,817.76,JPY,withdrawal,online,Chan-Gardner,Electronics,UK,Greggburgh,False
+551a3a1d-c75a-4054-b511-6c23d08a860f,f2a6c5f2-626c-449e-a2f1-1362ea385748,2023-06-28 22:42:56,1045.08,JPY,transfer,mobile,"Montoya, Hughes and Taylor",Electronics,IND,Melanietown,False
+5f621dc7-92ab-4eb4-a7b8-1acc5f89e1e7,310dc5d9-4ba7-49d4-b15c-da4fc3b583e5,2022-09-29 13:02:42,332.88,EUR,withdrawal,ATM,"Becker, Delacruz and Owen",retail,Germany,New Kimberlytown,False
+fd129cae-425c-4e8b-834e-0a93a56a658a,6fd69f10-edf9-429f-a9d3-2b81bfd42ebf,2023-10-08 08:11:36,297.88,USD,purchase,online,Roberts-Potter,utilities,CANADA,North Lisa,False
+e302002a-ff7b-4217-81b7-b3a904784f21,6a1260e2-334f-458e-82b6-6a8a493479c6,2024-04-23 23:00:39,1761.1,GBP,withdrawal,mobile,Barry-Smith,utilities,IND,Lake Samanthatown,False
+7c962973-10f4-4c5f-83bd-1eaec4613b2e,8e18c512-dbcf-405e-9941-08a9ab1892c4,2022-12-12 04:58:25,786.5,JPY,purchase,online,Bryan-Jones,Electronics,Japan,Nunezport,False
+cabbeb3d-5404-4e8f-ae3f-957f7a61f943,8ee27de6-d7b6-4f79-bb7f-a1189d4a39b1,2024-02-16 03:21:34,813.54,JPY,purchase,ATM,Rich-Hernandez,groceries,UK,Lindamouth,False
+e77a88cc-168b-4cd0-bc09-84f752feb064,f25a5df3-0ae4-43b9-91b9-bd69d813eea9,2023-11-05 22:21:43,1618.9,EUR,purchase,ATM,"Adams, Weaver and Santiago",groceries,Japan,Christophertown,False
+37c72fc9-d768-4665-9956-c8642f5feee4,ab6c9f27-bfca-4a68-8122-09641ba7fd31,2024-06-08 12:13:41,464.83,EUR,transfer,online,"Harris, Miller and Carlson",utilities,USA,South Joshuafurt,False
+1d11349a-bfb6-4129-9a68-ad9d21f1a05e,bdba1ca6-f3f2-4c95-804a-63f59f37c6d0,2022-12-16 14:51:24,609.37,INR,deposit,ATM,"Lamb, Carpenter and Ramsey",groceries,IND,East Belinda,False
+e9307e37-a7dc-496d-9192-87d024e930b4,17cace9f-becc-4a5e-a11b-5a860042a534,2023-01-22 18:05:20,796.83,USD,transfer,ATM,Schmidt LLC,Electronics,IND,New Christopher,False
+45b5c108-6d7a-4d2d-a161-4590185fee32,b07009e9-ef71-45b0-9424-adbe13bb160f,2022-10-16 03:06:34,874.74,GBP,purchase,in-branch,"Sosa, Singh and Clark",retail,IND,Savannahview,False
+0a001c80-a7ce-4f8f-a50f-9659f53efab8,8a0466c7-3fde-4edb-9736-ee1c7595df90,2024-02-09 02:12:35,1739.12,JPY,deposit,in-branch,"Torres, Vargas and Mendoza",Electronics,Germany,North Rickyberg,False
+ccb34a13-62bc-45d3-936f-a552cfee8052,e8fcb47a-846d-484d-9e90-2d15453bfc89,2022-10-07 07:15:32,411.56,GBP,transfer,ATM,Fisher-Hamilton,entertainment,IND,Port Samantha,False
+94c5bf82-1ba3-48fe-bdae-3b4571c5ed7c,018ee93e-3268-40ae-ae2d-fc605e2f026f,2022-09-25 14:12:53,1724.57,EUR,withdrawal,in-branch,Acosta and Sons,utilities,IND,North Alexanderfort,False
+ee671f15-fdc1-4311-9e03-309f58343b27,86077b66-212e-4964-97ab-f6f6b7ab6f02,2023-05-19 07:38:56,1229.38,JPY,purchase,in-branch,Williams-Thomas,groceries,USA,Cynthiaborough,False
+2fe0a5d9-2def-4a0d-ba02-65c46df89ec3,734b4291-62d9-4d57-9e7e-01aeaa2535ed,2023-05-28 09:53:46,340.41,EUR,deposit,online,Adams Inc,retail,USA,Ianfort,False
+7056e744-40e9-4505-b91d-45b651fab8a4,579af8cb-d8ca-4064-8ddd-9320934a53de,2023-03-28 18:39:02,448.75,JPY,withdrawal,online,Campbell-Anderson,retail,Japan,Combsfurt,False
+d2754451-3737-4895-846a-6f3193da91dd,01a64564-2e6f-4023-a65a-767c65a43106,2023-06-13 00:18:07,108.08,USD,withdrawal,ATM,Wilkinson-Edwards,groceries,CANADA,Justinbury,False
+4ea399ab-e225-43b5-b999-5df0f118b1ba,4bb7f612-cdc8-412c-a5ed-8c00d151806a,2023-07-24 20:42:35,1377.83,USD,withdrawal,in-branch,Hughes Inc,groceries,UK,East James,False
+aeb22bce-732f-4f82-80f5-4294bc22ac87,713629a1-f629-473e-a1b2-825435ed2073,2022-09-27 03:08:42,1789.65,GBP,withdrawal,in-branch,Lutz Ltd,groceries,Germany,New Dillonburgh,False
+c89fb38c-0f9c-45c3-9c0f-5e38255f290a,f3f81e89-bd91-4f71-b1cb-ccd9536afbb9,2024-04-10 21:42:11,690.19,GBP,transfer,mobile,Dickson Ltd,travel,USA,South Richard,False
+b203846f-b52e-45a4-81e0-3f28d210998c,d778f687-f21d-4ffe-b0a5-00869589dd70,2024-03-09 14:21:09,1743.69,JPY,deposit,ATM,Garza Group,retail,Germany,Port Christopher,False
+9d4d5fef-6e65-47be-9cf5-17a33e2c511b,f4ac8ad1-bb2c-49aa-ab18-d124cf9878b7,2023-12-31 14:12:15,970.58,INR,purchase,online,"James, Clarke and Oliver",Electronics,Japan,South Katherine,False
+85cd646a-6695-4bb6-bfe5-79c132e56ecd,c2c14d81-6b3d-40a3-83a5-721d839920ba,2023-06-30 00:03:39,1573.25,USD,withdrawal,in-branch,"Robinson, Russo and Cox",groceries,USA,East Michellefort,False
+d9948d3d-3190-4908-889e-c7e9ee1f16f1,de9f41ff-dbb3-4bde-9116-0a82425da234,2023-10-20 09:47:31,1019.92,EUR,transfer,online,Lindsey Ltd,retail,UK,Medinaberg,False
+8bce5c17-c68c-4fe8-a887-a3bfc6da6412,a0f14807-1c81-4a42-b50a-ec403a20ae7b,2023-02-17 15:43:08,42.42,EUR,purchase,online,"Thompson, Sims and Miller",utilities,UK,Lake Stephenside,True
+a2a35e8e-e91b-4fc4-ad9e-aab7e6cf85ac,5bcdfed6-f60d-4f68-8069-d433fc45e667,2024-08-11 13:11:25,679.81,INR,deposit,online,"Brown, Jones and Faulkner",Electronics,USA,Nicholastown,False
+3f37deb4-9137-4fe8-b78e-94be7cae29f3,a09c24c2-cadf-4ef7-a815-88f8ca244933,2024-04-13 00:01:52,1166.97,GBP,purchase,in-branch,Gonzalez Group,utilities,Japan,Port Cynthia,False
+280a19be-3daf-4b50-a316-4dfdd58846d4,956f6f47-628d-4e28-bc67-32e43984a4ce,2023-07-27 01:26:41,462.86,INR,deposit,ATM,"Miller, Gardner and Williams",Electronics,USA,Curtistown,False
+4860bb94-41d6-424c-9d1b-4c168a1b4d09,d05f4600-14d1-41c9-910b-5a259bb8f426,2024-01-12 19:20:20,1182.35,USD,transfer,in-branch,Hodges-Lewis,utilities,UK,East Tiffany,False
+deafc5bd-ffd3-4bdf-bce6-26caead3d112,269d7c67-9016-45f4-9d1e-0102263a5704,2023-08-08 23:25:32,220.31,INR,purchase,in-branch,"Faulkner, Mccann and Patrick",retail,USA,North Diane,True
+ca43691a-00e3-472e-b4b1-7f15bf9aa8a0,412b77d8-30f9-4b76-97a3-e0ab5c9f7770,2023-03-13 16:38:23,1973.98,GBP,withdrawal,in-branch,"Tanner, Warner and Sherman",utilities,UK,South Michelle,False
+75060afc-8c0e-41da-afde-d91a49a5e639,c6622765-ff46-48a7-97f9-b106635a6d5d,2024-07-29 01:53:28,1174.75,INR,withdrawal,ATM,Mcgee Inc,travel,USA,West Joseph,False
+5a9da83d-e531-486d-a276-ff3b2505db08,a991726b-f52f-4b7c-9a7e-cc01492861a8,2024-03-25 17:30:15,1686.68,INR,deposit,in-branch,Allen PLC,utilities,USA,Sheppardburgh,False
+e96bb4ee-ffed-4642-be5f-51d1b8e0fc74,79f1e502-f001-4575-82fc-b1e301437412,2023-07-12 13:00:14,979.5,JPY,purchase,ATM,Tran-Brandt,travel,USA,Robertsmouth,False
+bacb08eb-a932-46ea-85c6-968eab98fe26,c4971298-b4fb-499e-9fac-9fff7dd9c32a,2024-05-05 05:10:17,1966.87,USD,deposit,online,Miller-Alvarado,entertainment,Germany,East Adam,False
+76136ce2-b95c-4d28-bd9e-e334127fee3b,78bfee4d-bf29-4233-9c9a-c3e01d42d704,2024-05-08 01:50:35,83.44,JPY,deposit,online,Williamson-Smith,groceries,CANADA,Garciaside,False
+1c3c6b0e-c76f-4261-9227-1be1db51a318,f7fce5ea-2f34-4a6c-a228-04df2be88251,2024-04-18 02:53:52,1476.89,INR,withdrawal,ATM,Santana and Sons,utilities,UK,Robertberg,False
+f79502a9-dcdb-495f-a887-8ec70b8cbf08,9e3b5e4e-d8e7-4538-92e9-57c605d93b20,2023-08-07 02:06:26,1913.55,INR,transfer,in-branch,"Williams, Roach and Wright",utilities,Japan,Merrittbury,False
+8286da53-f8c8-4803-b9b4-df3f0d5a3e48,9d9c0e08-d78a-4026-9673-d6c69f61f6b8,2024-08-13 21:23:24,483.12,INR,withdrawal,mobile,Miller-Guzman,retail,USA,Mooreside,False
+d62f5743-fdd4-44f6-9184-2ad37749803f,e0be8a46-f6c7-4d94-8446-a1c02f8fdace,2024-06-19 06:01:38,1469.59,INR,purchase,in-branch,"Roberts, Wilkerson and Carter",utilities,IND,Port Cynthiaton,False
+c01a52e0-99d8-495a-a549-678c5b6320d2,2838c81b-7f79-4471-9753-0a3119ae1378,2024-06-13 23:00:58,1087.07,GBP,deposit,online,Rivas-Collins,Electronics,UK,Griffinchester,False
+e519cfcd-c989-4296-9392-c4089da9f189,5aa4c9ab-78d8-4cf4-bac5-ddf136f5110a,2022-10-30 15:57:51,294.89,INR,purchase,in-branch,Leonard Ltd,retail,IND,Tammyport,False
+eb617ba3-9024-4996-a7ec-b45e3a5aaae7,5e5fe47a-a3c1-438d-ac17-229718fccd69,2022-08-16 23:44:01,345.7,GBP,withdrawal,mobile,"Miller, Walters and Shields",groceries,CANADA,Markbury,False
+98217c1d-efbd-4541-bcf6-c64c49f690de,ba6c6dbc-c4a5-4c66-81e1-823885e17dda,2023-03-23 17:35:59,246.1,GBP,deposit,in-branch,Sutton Group,utilities,IND,Lake Patricia,False
+af553993-0de7-49ef-af83-3bdf260e918b,17d7374f-335e-4909-84ac-f15c4dd05d9a,2024-03-21 15:32:46,712.88,INR,withdrawal,mobile,Sandoval-Eaton,Electronics,UK,Josephville,False
+8f77ea60-87f6-4417-ac0c-b9226bc8928b,bdba1ca6-f3f2-4c95-804a-63f59f37c6d0,2022-10-27 17:26:04,728.58,EUR,purchase,ATM,"Richardson, Melendez and Harding",utilities,UK,Mcintoshbury,False
+ee06b75a-e44b-4f4f-bc5b-737ac9136f7c,f931dec8-d772-429d-b297-6a535d20f124,2023-02-28 23:09:03,1234.35,GBP,withdrawal,in-branch,Page Ltd,entertainment,USA,Lindaburgh,False
+78dce7ba-f20c-4c4b-9c70-b3f2e27b14ed,0e788cff-6327-4492-968c-8610d36c9605,2024-07-15 17:37:07,1248.81,EUR,purchase,online,Taylor Inc,entertainment,UK,South James,False
+dac6e151-dc50-49a0-88fe-cbabd5e4a6ea,ca0cee22-1b4e-4d23-832b-664fc55fa8b9,2022-10-20 16:59:39,1843.24,GBP,transfer,ATM,Ray-Horton,retail,USA,Delgadobury,False
+d7d93b95-ec82-40c9-b067-02a361650794,184f166b-8eca-4a28-9a14-acc564870f7a,2024-01-26 02:29:54,1969.39,GBP,withdrawal,ATM,Davis Ltd,utilities,Germany,Khanton,False
+410db0a2-146a-4421-9bfe-cc7e9cd945b4,63073851-8c21-4261-8cfa-af807bc998d3,2023-09-20 21:18:22,679.74,INR,deposit,online,Rice and Sons,entertainment,UK,Warnermouth,False
+db4e1322-f023-4266-8bbd-55a7304a06e6,82114d14-14e1-488e-a83a-3dcb152521f6,2023-03-28 09:42:16,165.27,JPY,purchase,mobile,Brown-Wilcox,retail,IND,Wendyside,False
+ed6cf842-b189-46bc-8d8e-6701ed592bd8,9b13f646-9318-46a8-ae0d-6f15d9af82a6,2024-04-12 22:06:04,1659.79,INR,purchase,in-branch,Baker-Patel,groceries,Germany,New Heathertown,False
+70a2fecf-aed1-45fb-9537-f1c04547b9fb,f387025d-ff31-4458-862e-68d3ac97c0e0,2023-02-10 08:15:17,1231.78,JPY,transfer,ATM,"Williams, Ballard and Figueroa",utilities,Japan,Lake Melodyport,False
+c1a68e17-87b7-412c-a714-a3a15447f899,04ee3c29-5d7a-410a-9f9e-af13dc76e647,2024-05-05 13:24:41,1909.78,JPY,deposit,mobile,"Smith, White and Tran",travel,CANADA,Theresaton,False
+5ca17c67-5959-4509-bf9f-5a5533750cc1,79dbafbb-3efc-4b83-978a-b2274a9fd76b,2022-11-30 12:33:23,1858.34,USD,transfer,mobile,West LLC,Electronics,Japan,Donaldborough,False
+fa34fe19-04c7-45db-94cf-5c324e0eb423,c53de78e-6832-4241-a363-ede3f0ea5929,2023-02-19 04:39:10,1010.13,GBP,transfer,ATM,Allen-Cook,travel,Japan,Brandonside,False
+4ab3d912-f82f-4c4b-9577-bd4d2e7f48de,48483416-ac50-4b76-82af-ffafffe45093,2024-04-26 03:47:09,8.39,USD,transfer,mobile,Shepherd-Conner,groceries,Germany,South Ashleyfurt,False
+736fe173-6923-4a1a-bbbd-2ad72d0491a0,47bd1588-9882-403e-a876-0440db5c39e2,2022-11-06 12:04:05,224.1,INR,transfer,mobile,Smith and Sons,retail,CANADA,Lake Zachary,False
+bd702aa5-1b71-48ec-a8ca-156f19ad41ed,688f8cde-e850-47f2-8e3c-f92d84781e70,2024-01-03 05:15:52,819.11,JPY,purchase,ATM,Wheeler and Sons,Electronics,Japan,Lewisborough,True
+2d4d4364-68d9-4ba2-b74f-05f3f9a22dda,27a8a85a-30ad-4802-8cc2-0dfc1f858627,2023-10-26 14:52:22,1178.1,INR,withdrawal,online,Robles PLC,retail,Japan,Oconnellville,False
+b71d0e09-c68b-4d99-8245-e2c211bbe7a7,0ecf8182-db32-4979-ba55-024a58cf0b88,2024-07-23 12:28:41,623.1,JPY,deposit,online,Williams-Henderson,Electronics,Japan,Lake Rachelview,False
+36fecba3-126b-411c-bf90-cb9c8596def9,4da5f896-574f-4841-9886-4e9bc33e2f37,2023-03-08 13:50:25,1628.96,INR,purchase,in-branch,Holt-Perry,travel,CANADA,Lake Aaron,False
+e058793b-abb5-41c1-8ada-d961c40c26e4,7495eb53-e0c1-4995-97ba-fed91f237e99,2023-11-05 01:19:26,1599.37,GBP,deposit,in-branch,"Miller, Johnson and Price",Electronics,UK,Laurenview,False
+873106d6-5e8b-4935-b076-c065fe37e482,d839be5f-a54d-4977-a35f-a03f5e0e6865,2023-01-10 19:26:01,1183.12,GBP,withdrawal,mobile,"Cooper, Martinez and Johnson",retail,Germany,South Matthew,False
+43453d03-09fe-49bb-8738-ecae288e8132,7f36ef31-6049-4383-a2ef-f7f75cced94b,2023-09-09 10:54:25,1444.24,JPY,purchase,ATM,Owens-Wilson,utilities,Germany,East Karenview,False
+49b4a584-d9e1-4ee4-97ce-6f22d394dcc0,ac5513e4-0cce-4ef8-a748-2dc4241c1b64,2022-09-09 20:18:29,200.86,JPY,transfer,ATM,"King, Friedman and Todd",retail,Japan,Shellybury,False
+832e5d85-ed41-4814-8a19-1a89ac1b3dc1,a8e49a97-dff8-4532-8efb-1e2d2bdada89,2024-04-30 15:02:55,1216.68,USD,purchase,mobile,"Hinton, Johnson and Miller",Electronics,USA,Fergusonfort,False
+67b2e87c-31de-4253-b047-1b11e66824ea,7fef7d91-e9f3-4905-b410-d90ed79d5308,2022-11-18 05:43:03,1806.93,USD,withdrawal,ATM,Taylor-Gonzalez,retail,USA,Jessicaton,False
+65e39383-e1c7-4436-bd5b-af701b96e7b6,73c1f07e-f10a-472e-8932-a047636f4584,2024-07-31 01:42:56,1735.1,GBP,deposit,in-branch,Byrd PLC,groceries,UK,Josephstad,False
+c134ce2a-ab44-4ccb-8961-c6298eff7efd,0b6a737a-c98e-45d4-ae2f-341d2628b6ca,2022-10-08 06:21:40,1841.92,GBP,transfer,ATM,"Miranda, Coffey and Morrison",retail,USA,Megantown,False
+6c1298ac-2535-426f-b6f0-e7b9ad3173f4,537ec0bc-d2b0-4e0f-b0d8-31b9f14171cb,2023-05-05 14:45:57,952.77,EUR,withdrawal,online,"Wilkins, Bradley and Pierce",utilities,Japan,North Stephaniebury,False
+e4ee2795-ea41-4563-a3a5-2534432bf9c6,d4c63589-6465-4b40-b22e-b8c004915b52,2022-09-13 23:01:45,153.88,GBP,deposit,ATM,"Duncan, Trevino and Moreno",travel,CANADA,North Michael,False
+79701942-6c2e-4704-8dfd-8875e60885fe,f27f35aa-46e0-41f0-9e24-57255a60dbd0,2023-04-14 20:34:05,402.5,INR,withdrawal,online,Brown-Vang,retail,IND,Fergusonville,True
+719e7024-2a25-42a4-b0eb-f753e514adfc,2d2518bf-f6f2-4419-90ed-ed608a50f7ea,2023-05-02 10:10:00,1635.11,EUR,purchase,mobile,Anderson PLC,entertainment,USA,East Sarahshire,False
+ea48f3ff-2508-4841-99ef-3e2eeaa9decb,4591dc4e-29ef-4356-9daf-a8a3c462f9a7,2023-01-10 22:59:48,1296.49,JPY,deposit,ATM,Wood LLC,retail,UK,Brendastad,False
+7a14bc6c-4ebb-4519-8bb2-4db15d807623,b61a1d31-0fea-4f9d-bad4-35c020873e0a,2022-09-30 15:52:47,1126.61,JPY,transfer,mobile,Estrada-Allen,travel,Japan,Markchester,False
+8e626aeb-7656-4616-b0dc-9f5ec7703dc7,91f99d09-59a8-48cc-96a2-633565b3d552,2024-07-28 02:15:14,1510.0,EUR,deposit,mobile,"Norman, Pratt and James",utilities,IND,Lake Bryanshire,False
+c7615522-54f7-474b-ad15-209559ba6afd,63c06605-bbbb-4cc1-a4be-673de0e5689b,2023-07-02 02:58:13,429.94,JPY,transfer,ATM,Jones-Sexton,Electronics,USA,Port Ericchester,False
+63b206e5-2945-4b36-85ef-b60c384949f6,255b07bb-c52c-4377-8b07-9a5a0c7ce687,2024-05-03 01:58:03,13.89,INR,withdrawal,in-branch,Walker Ltd,travel,USA,Toddmouth,False
+2c5614e5-3a59-4fce-a463-839b5ac01741,623236e4-0aa3-490d-834c-54bfcf75a7b7,2024-08-02 07:14:28,873.58,JPY,transfer,mobile,Evans-Walker,groceries,UK,Port Thomas,False
+09fdb74e-d188-4e0c-b287-2e2ac0050592,ff86d206-502f-495b-80a8-22a7764b2dbd,2022-10-09 13:29:29,380.75,INR,transfer,in-branch,"Griffin, Allen and Sloan",utilities,IND,Meganside,False
+d0000fc4-55da-4f39-b185-7342468ee0b0,5905395c-ee23-480a-8178-21b0edb44c80,2023-11-05 02:37:02,718.16,JPY,deposit,in-branch,Logan and Sons,entertainment,Japan,Smithmouth,True
+81969c44-1739-4928-b99c-c698fe7d2990,f24bfbad-ef6b-43e8-8d4c-60c81cf34b1e,2024-05-14 14:59:14,100.42,GBP,withdrawal,online,"Flores, Knight and Garcia",retail,Japan,East Steven,False
+83579c5d-6beb-4d5c-b880-a1f9781dd21c,10c5e066-35bd-4c91-8cd4-2c3c823e0940,2024-04-20 07:17:14,192.03,JPY,purchase,online,Long-Romero,retail,UK,North Christinefort,False
+b492118d-e846-4d64-bb06-afb8dd8d56a7,10ac9ab4-0906-45ef-bc0e-27a7e8e92fa6,2022-09-01 23:38:13,1484.72,JPY,purchase,mobile,Simmons-Singh,travel,USA,North Alexandertown,False
+ed29b162-ac11-4409-a6d5-3d2f170249e8,562eb79e-90c1-4d4c-9699-9a6b1b15b55f,2023-06-27 18:00:09,531.59,GBP,transfer,in-branch,"Mitchell, Wright and Mitchell",entertainment,Germany,Port Katherine,False
+3f5461c3-326d-47bc-be58-a99121762bb7,3fd60eea-b1b2-45f0-90ae-3335a1ceb91b,2023-06-21 13:25:47,214.9,JPY,transfer,ATM,"Wallace, Reed and Hughes",Electronics,IND,West Jennifer,False
+a86d894e-f12a-477b-aef4-5869fb394c14,8a4d7fdb-9bec-4e33-bf2f-333ca1460d42,2023-02-03 05:23:04,1221.16,GBP,withdrawal,in-branch,Fowler LLC,Electronics,Japan,New Codyport,True
+e85ce949-7d35-48f9-a4e6-018cd2ed421f,9639f9c4-7224-45b7-ac1b-060c6c549b48,2023-01-08 12:46:01,217.76,EUR,withdrawal,mobile,Johnson and Sons,Electronics,UK,New John,False
+b4a55c4d-a17d-4c04-9d13-8c32b1511f54,f6c057dd-99e8-41ee-8ef1-456a22b4d395,2023-07-01 17:29:19,1346.76,EUR,transfer,online,"Schaefer, Lopez and Johnson",groceries,Germany,North Janicemouth,False
+98bd8b74-70c3-456a-8841-35a74d448e2f,6df45d39-b970-4f63-97bb-7344c837aa67,2024-08-06 15:10:52,627.91,JPY,withdrawal,mobile,Munoz and Sons,retail,Germany,South Kimberly,True
+2f7a8266-cba5-4ea4-8930-4af6cba0741b,9e3b5e4e-d8e7-4538-92e9-57c605d93b20,2024-07-16 21:13:27,217.86,INR,transfer,online,"Hubbard, Strickland and Patel",groceries,Germany,East Edward,False
+e9493c6f-985d-4cf6-be5e-c9f7db3aa564,959ed24c-38a3-4eae-beac-52682d14a646,2023-03-23 11:46:53,950.55,GBP,withdrawal,ATM,"Marquez, Bell and Brown",Electronics,IND,Port Daniel,True
+e29e1c93-42f0-465e-9e5a-cd78ed562eb5,8178921c-a5f3-4249-8855-a07088bd4bb0,2023-10-05 22:42:14,1496.74,JPY,withdrawal,in-branch,Scott Inc,Electronics,Germany,Jacobsonchester,False
+34a54f7a-fc52-43fd-a91a-b5bdec5bd3b6,43fc0b87-de94-4fb1-a5d3-51cfc2e4402b,2024-08-11 00:37:05,1789.67,GBP,transfer,online,Sosa-Anderson,retail,IND,South Cynthiaburgh,False
+155fbd4d-3295-4dad-a0c6-28e277d4b049,47cc46da-4105-4828-bc00-ef5315a575a6,2023-11-25 07:27:30,454.45,GBP,deposit,mobile,"Hill, Hale and Vargas",retail,UK,Contrerasview,False
+03626cf7-54b4-42a9-af83-273badbfc259,5303c415-4fda-4388-9368-cb4c6323bf40,2022-12-05 00:53:52,1938.68,USD,transfer,ATM,Coleman LLC,retail,IND,Porterville,False
+1859f36e-f6b9-45b1-9c23-ca13eae6a773,8ad400dd-11a9-4ffb-8b0d-3ff32324a27f,2024-02-17 10:55:46,1839.04,EUR,withdrawal,online,Stark-Allen,travel,Japan,Richardsside,False
+2e07ffcd-f96e-498f-a434-ea7ef72fb72b,fe37bf3a-1b9b-42a4-9c7d-138befa93d8c,2023-04-15 18:36:52,1864.49,INR,withdrawal,mobile,"Miller, Robbins and Stephens",groceries,USA,South Lisaton,False
+4c8f82e8-3135-4821-b474-d3c05daaa6f5,120ae87c-3e56-4fa4-81cf-0562794f217c,2024-06-23 03:45:58,88.73,USD,deposit,online,Chen-Gomez,utilities,CANADA,Williamsfurt,False
+1f87789e-3fbf-463f-a216-6f4b8da238fb,f223ad7d-85b9-4a8e-8ad0-526125da2fae,2023-08-23 17:01:06,936.74,INR,purchase,in-branch,Rosales Ltd,entertainment,CANADA,East Dawn,False
+1667af59-554f-4d83-819e-e6ba8f1fe098,ecf7baf1-5493-4b1d-aefd-28bc14da2a8e,2022-12-27 07:57:24,1609.33,INR,withdrawal,mobile,Evans Ltd,travel,USA,South Jeffreychester,False
+97bcbfa3-1aee-4500-ba14-af70f9e89190,7756f2bb-4c55-4862-a10b-61ad3b02ab82,2022-11-19 21:20:08,789.61,USD,purchase,mobile,Lopez-Hall,retail,Germany,East Davidbury,False
+e4281e21-661d-4127-9d43-b35fb384aa09,2fba5d8c-bba9-4268-b8ed-deac2d469d69,2024-02-09 08:14:07,1958.73,JPY,deposit,mobile,"Cohen, Fuentes and Butler",travel,Japan,Port Amy,False
+da527550-31fd-488c-8895-dd130c5929ca,10c5e066-35bd-4c91-8cd4-2c3c823e0940,2024-04-09 05:35:48,1181.25,JPY,deposit,in-branch,Walsh Ltd,Electronics,CANADA,Hernandezville,False
+0b29b38a-7a46-48a5-9340-f4c49c246e4b,f311f571-ba7d-4717-b3d5-0c1997413b07,2023-09-01 22:02:49,1708.09,EUR,transfer,mobile,Pacheco PLC,groceries,CANADA,West Anachester,False
+99d147b9-7bea-470b-a0c3-cdadca914960,873421f1-97f5-4225-8114-c365ab71a784,2022-12-17 14:44:01,1892.71,GBP,deposit,online,"Webb, Swanson and Ramirez",entertainment,Germany,Patriciamouth,False
+583a1233-1e24-4392-8902-3f4252286ddc,dbe0424b-8618-45be-8efd-5bd031cbe7ab,2023-05-29 18:49:42,1765.9,INR,withdrawal,online,Gibson-Garcia,Electronics,UK,Stewartmouth,False
+da4be810-6794-44c3-9139-ffda1fd01508,17cace9f-becc-4a5e-a11b-5a860042a534,2024-01-18 19:07:33,523.1,USD,deposit,online,Jimenez-Davis,travel,USA,North Michaelmouth,True
+165f4f70-0b2b-4d98-beba-75ab961419a6,1b09fb16-dc71-44dc-b228-20022ea4afe7,2023-01-20 02:05:26,1508.65,JPY,withdrawal,ATM,Brown-Brown,utilities,USA,South Travisfurt,False
+20815969-34ba-4059-844c-08ffa06c5e50,e84ffde5-cefc-4fd2-8998-50cee0ec8487,2023-11-23 04:47:21,361.59,USD,purchase,mobile,Ruiz Ltd,travel,Germany,Rebeccaville,False
+351fef83-db3d-43ad-9595-b97b2f8a43bc,e6ae7a35-6dd5-479d-bc98-b2c572ab6fbb,2024-08-01 19:28:43,799.62,USD,purchase,ATM,"Hoover, Knapp and Bennett",groceries,IND,Lake Bryan,False
+962c44a5-76fe-462f-9f96-65a4bf291dff,64f322b9-2bc2-4ac0-9167-574502557860,2023-01-19 17:49:19,550.48,JPY,withdrawal,online,Chandler Inc,retail,Germany,Justintown,False
+0373f730-5fbf-486a-999a-9cc4aeb26fec,0b00607a-5fc3-4ffb-9dd3-88368c52ef35,2023-06-13 15:24:02,973.55,EUR,transfer,mobile,Johnson-Compton,Electronics,Japan,East Alicia,False
+999f5418-96b1-4013-9ce1-c2deb480d1d7,bd6f832d-f4be-4941-bf71-6faa8622f66b,2023-03-31 19:06:00,586.55,GBP,transfer,in-branch,Rose Ltd,groceries,IND,Shawnhaven,False
+82e5d655-61a8-490b-9ecb-210facd8d178,5fda7405-3f50-4e39-bd4a-bb7e0155c6f4,2022-08-24 18:34:48,1058.81,EUR,purchase,ATM,Gillespie-Farmer,entertainment,Germany,Tannerfurt,False
+cf9a84f4-e2b4-4b62-ba3c-ff823e7ceb59,afbddaae-0583-40ce-8ffc-fee2e47e001f,2024-01-27 17:06:58,361.4,GBP,deposit,online,"Dunn, Brown and Carpenter",groceries,UK,Port Aaronfort,False
+df53954e-2644-4a50-beba-7fc35136e66a,7cfa14ee-8e35-4dd8-9266-1e62f2e17634,2024-06-10 13:13:10,1428.85,USD,transfer,ATM,Dixon Inc,retail,USA,North Maria,False
+01790b2e-6f13-4afd-b66a-4f2833047f3b,14177432-32d6-472f-ab9b-3150dce71555,2023-09-15 19:04:24,841.38,GBP,purchase,in-branch,Wells-Lam,utilities,USA,Johnsonview,False
+b29e173c-567c-4227-a178-af1b9ca94a48,c7d6412a-aa75-45b5-8383-48cffe2fea9c,2024-01-04 01:07:03,652.25,JPY,purchase,online,Acosta and Sons,groceries,UK,Ninachester,False
+e0de5eb4-1836-454f-a668-011279606076,2341783e-af07-4e71-be22-287b836227b7,2023-08-15 00:18:52,448.24,EUR,purchase,online,"Summers, Wilkins and Zuniga",utilities,IND,New Michellechester,False
+7af66981-4e80-4b76-9885-7f356c5d5350,da340702-a31f-4222-a22b-bad8efb3602b,2023-06-17 19:33:54,534.34,GBP,deposit,mobile,Woods Group,entertainment,Germany,Moodychester,False
+f33c304a-f9e0-49d5-aa43-c6349a12fe1d,17cace11-9a79-4e86-abce-840f96d10307,2023-08-05 02:20:32,850.48,INR,deposit,online,"Foster, Henry and Anderson",utilities,Germany,South Jeffrey,False
+856beba0-1fd4-4a30-b3b7-5909ef19db5d,753af28b-7ffe-462e-8d73-8c60a8598297,2022-12-24 14:16:34,1206.51,INR,purchase,in-branch,Reed-Ferguson,travel,Germany,East Marcusland,False
+f3ef383e-bcac-4ca6-aefa-ab80b8362a48,0696e8fc-dd1a-45bc-a565-a20d2aa45bc6,2023-09-17 03:57:45,1909.9,EUR,withdrawal,in-branch,Green-Simmons,Electronics,Japan,Dwaynefort,True
+6e6c757a-8ce3-4401-a50c-4dcebdbc55cd,b7c2ce12-c0c9-49a6-a3b4-968fe05ae88f,2024-04-10 05:49:08,13703.900000000001,EUR,withdrawal,mobile,"Ball, Mccarthy and Wright",Electronics,UK,Samanthashire,True
+47190f9d-249a-4ca2-bab9-c13981f911b7,48dbafb2-9ec8-4aa7-964d-81f6107fcaaf,2024-02-24 17:50:01,1514.8,EUR,deposit,ATM,Lane and Sons,groceries,CANADA,Chasechester,False
+0791c9b8-8a6c-4a9b-9cd0-3f3ee5708cc9,1e40dc2e-0e10-4a9c-99fa-54cc566cb33e,2024-07-07 09:13:43,1880.94,EUR,purchase,ATM,Garrison-Robinson,travel,UK,North Jasonberg,False
+000dc074-996e-442c-bd88-95cbef2341b6,818ecc85-81da-4208-9b31-9d0485c6c6dc,2022-09-07 14:52:49,1042.21,GBP,transfer,mobile,"Murphy, Alexander and Casey",groceries,IND,New Bradymouth,False
+b453ad63-2d84-4046-880a-b749941db23f,91f231d6-7a8b-4cd5-b76f-f1ed8d218b9a,2024-07-16 20:40:47,1748.57,EUR,deposit,in-branch,Johnson and Sons,travel,CANADA,Donaldsonhaven,True
+17c6edfd-1d1f-4ed3-b932-60ecf195d332,06be31d1-c0e6-4f9d-883b-c1649b289509,2023-11-25 12:08:32,718.89,JPY,purchase,online,Anderson Ltd,travel,Germany,Port Richard,False
+5c5c070e-1889-48d9-b814-a634bc00fe5e,de81ae78-7549-4df9-b242-cfab90db6452,2022-09-27 14:59:01,1522.52,EUR,deposit,ATM,Price PLC,Electronics,Japan,Port John,False
+7f8df1fc-30d7-4cb9-ad88-c934caa9b717,2db23a15-9e21-4338-8dd0-b0e4e131041c,2024-01-16 15:51:13,9.37,EUR,purchase,in-branch,Parker-Fisher,Electronics,UK,Taylormouth,False
+74472675-30c8-47f9-b03f-9ef6e166a680,33c73eb4-f8f8-4e15-a4d4-e3b06d2f9c13,2024-01-22 05:17:47,1482.84,JPY,transfer,in-branch,"Herman, Nichols and Adkins",groceries,IND,Jacobmouth,False
+23efc95c-632f-486e-8f79-750e6fcb6f81,62610b6c-46a4-473d-be2d-e1981c4f50dc,2022-11-24 07:51:44,480.89,GBP,withdrawal,ATM,Hinton PLC,groceries,CANADA,Kevinborough,False
+7a43b544-3bbc-409c-b1f7-557f73329b32,0694c23b-f7e8-4238-85a7-75fc736d9c44,2024-08-06 19:52:00,218.73,INR,deposit,ATM,"Shaw, Rose and Hoffman",groceries,CANADA,West Malloryland,False
+d6fcdedc-75a6-41ef-91fc-f66385ea69a2,cc1a92fa-31f1-42b4-b737-57fd671848d0,2023-09-01 13:23:18,271.75,GBP,deposit,ATM,Smith-Wolfe,utilities,USA,Jacobsonberg,False
+c794d273-1199-4399-92f8-b55f08cacbc4,3ccbfd38-9370-4a62-941f-4b261d2f8355,2024-06-15 19:18:15,207.84,GBP,transfer,mobile,"Fisher, Kelly and Richardson",groceries,USA,Samanthaville,False
+13b9ba51-c1c2-45a2-873a-14122192ec22,76971846-99ed-4001-90b3-bdeb6ff41449,2023-03-10 00:48:07,518.9,EUR,transfer,online,Gaines LLC,travel,IND,Lake Cherylville,False
+e13a6e19-81e9-4b15-ac8d-84b0664151f1,9450514c-59fa-4d6a-8cb8-8a657a081f86,2024-04-02 01:44:31,1978.5,GBP,deposit,ATM,"Lee, Walsh and Mooney",travel,CANADA,New Andrewbury,False
+50d38fb0-a3c1-45e3-9bdb-f37012544f8f,317e62ce-ced4-412a-ae8b-f51139095f71,2023-07-28 02:58:23,1332.5,JPY,deposit,ATM,"Bautista, Sanchez and Liu",retail,IND,North Brent,False
+7196ae14-790c-405d-b8d4-7845418cd88e,f40dfff9-0fad-47ff-90c6-0d017eb827d9,2023-01-11 09:38:46,1222.06,INR,deposit,ATM,"Taylor, Williams and Martinez",Electronics,Japan,Josephburgh,False
+0e627608-266b-4c11-a55e-226072f6af83,c78e4ebe-fc7b-40b5-8259-828066d2bb4e,2023-12-05 22:15:19,6565.1,INR,transfer,mobile,"Silva, Payne and Curtis",retail,USA,Johnsontown,True
+4c75eab1-8290-463b-8174-bd24fb2ba34c,f9676c09-406a-4787-b3bc-fdaea30ef884,2023-10-03 18:54:08,901.9,INR,transfer,ATM,Martin-Jackson,travel,CANADA,Jordanmouth,False
+ed61c9bf-046e-4fb2-9123-6aed8c26f922,37b24890-fe9a-4098-8aff-36bfa3d59a3f,2023-01-09 03:29:29,1328.88,INR,withdrawal,in-branch,Leblanc-Perez,utilities,Germany,Coltonburgh,False
+9b34c7de-5fb3-4b72-96f3-a14a8462cc3b,d3fb1666-8d75-42fe-aae5-47c525d2b852,2024-07-29 03:51:42,1222.59,GBP,deposit,in-branch,"Jones, Moon and Bowers",groceries,Germany,East Matthewhaven,False
+ca053236-26ff-4ef6-9258-98f5949739cc,67bc2b51-a316-4cb7-ae6c-df377a7ad5b6,2024-02-20 02:01:20,389.69,USD,withdrawal,online,"Larson, Baker and Carter",retail,IND,West Amyton,False
+a042e099-ecb8-45f2-b01d-4331e37552d3,35ffc092-eee7-4e9e-9143-3b62390a6d46,2024-05-14 21:18:37,1108.28,JPY,purchase,online,Scott PLC,entertainment,USA,New Herberthaven,False
+aa8aa8f4-461e-45aa-9938-de15a98597eb,6b9f8d94-a6d2-4e6d-96e7-3174ec390140,2023-01-09 08:40:08,1242.87,USD,withdrawal,mobile,Tate-Coleman,entertainment,Japan,South Amandahaven,False
+278337f7-40cc-41ab-a07c-2e5162f3dbe4,17ef8eb5-e7f4-479d-94de-a114b98c7bdc,2024-03-15 06:27:22,148.57,JPY,transfer,online,Wise LLC,groceries,CANADA,East Stephen,False
+fa4eda8d-29d5-4d24-a2ba-1dccaa6b9be1,460da795-88f0-4db1-8480-55e050f8b03e,2023-06-07 15:38:25,1402.68,USD,transfer,mobile,Brown and Sons,entertainment,Japan,Jessicashire,False
+59a09e6f-711f-401a-b1cc-bfd6d36d4d05,75fc1891-84a6-4fa4-bc3c-41bf426b095e,2022-08-16 07:31:00,167.85,INR,transfer,in-branch,"Stevenson, Waters and Guerra",Electronics,UK,Johnsshire,False
+e0b37846-b64b-4fa6-981c-3335590a3b92,c24b8599-96c0-4db3-b2d6-a02bfcaa2392,2022-10-06 15:12:06,931.32,GBP,purchase,mobile,"Snyder, Williams and Carr",retail,Germany,North Daniel,False
+e5c14029-1d3e-40da-8227-50d402e44243,07c9d428-f194-4d5b-b41f-21f7760ea68f,2022-10-14 01:23:43,1206.48,USD,withdrawal,ATM,Rodriguez-Richards,groceries,Germany,New Kathybury,False
+5cafe446-913b-447d-a2d3-f2582ad64fdc,f9676c09-406a-4787-b3bc-fdaea30ef884,2024-03-13 08:19:27,448.23,JPY,transfer,mobile,Gray Ltd,Electronics,USA,Samanthaberg,False
+a21a0289-51a5-4b85-adf5-ef2d05a55f84,d5880c67-bd9c-47f2-8078-2f32520c709a,2024-07-08 11:42:26,414.1,EUR,transfer,ATM,Perry-Gonzalez,utilities,USA,Kleinmouth,False
+6d4db6df-ade4-4231-83b4-4d2a19f3ff30,ece12733-f068-45aa-951a-e3b4cfe1bf2c,2023-11-19 15:03:43,1513.16,JPY,withdrawal,in-branch,Smith Group,entertainment,USA,New Nicholasmouth,False
+6a878358-1341-4fb4-9046-b5f108436bff,24cbbe69-e941-4c65-bcff-5c6416fd0ddd,2024-02-15 02:45:43,737.01,GBP,withdrawal,online,Baker Group,entertainment,USA,Jordanberg,False
+49bb4860-170a-4fa1-8d5b-3f42fb3adaa5,6562e382-77a6-4054-a5bd-b8428db9af79,2023-03-04 19:45:35,1524.31,EUR,withdrawal,in-branch,"Sexton, Armstrong and Smith",Electronics,USA,Bryanburgh,True
+9efe0173-bf22-44be-94c1-a71d506e927d,3350ac48-3271-4d62-91ab-9f95f25efd6a,2022-10-11 01:06:27,997.91,INR,transfer,ATM,"Pitts, Lang and Fletcher",groceries,IND,East Russellhaven,False
+c1a714ac-12f9-4877-924c-533fe5debee8,d25b6e43-30a1-4e3b-bb38-b7bd5f8da3a9,2023-10-23 18:36:50,358.0,INR,purchase,online,Nguyen-Clements,entertainment,USA,Mccarthyfort,False
+0bcefa94-87b1-4a5a-b537-114d31986f73,e0808f5c-e38d-4898-9b40-ed6ece4bc86b,2024-05-17 16:39:55,1147.35,USD,transfer,ATM,"Summers, Green and Wolfe",retail,Germany,East Jared,False
+827d19ea-41dd-47df-8779-e5a257b42807,22dc6917-c1cc-4287-a1ee-d6bba01b85fc,2023-05-24 18:15:26,877.74,USD,withdrawal,mobile,Butler-Collins,retail,Germany,Holdenview,False
+1e1e840c-8a6e-494e-9e74-8404c9a7872a,a095142a-677d-487f-9e95-caa5784d9912,2024-02-26 09:29:25,1831.89,INR,purchase,online,Owens and Sons,groceries,Japan,Rosston,False
+49d0a288-76df-4821-893f-b14c5ef77aee,a4a4d2ea-9a75-40a8-8738-a334e74057b5,2024-02-17 00:31:45,1716.66,JPY,transfer,in-branch,"Vazquez, Lopez and Barron",Electronics,CANADA,West Mark,False
+2b9847ca-f909-4039-b6de-1c9715378aee,a8d24f9c-0a4f-4499-81cb-a08c9482fd44,2024-04-03 12:53:18,1864.78,INR,withdrawal,in-branch,Schroeder-Arnold,travel,USA,Andreamouth,False
+335cddbc-7395-4b26-b672-3beb49274bab,5c5e7e47-072c-4f4d-aafc-cdab7a08a749,2024-02-15 10:45:17,962.27,USD,withdrawal,ATM,Gonzales Ltd,utilities,UK,Wilsonside,False
+cc151d99-463b-4471-805c-e8b5c400e003,120ae87c-3e56-4fa4-81cf-0562794f217c,2023-07-03 07:24:24,270.25,JPY,deposit,ATM,Mcdonald Inc,utilities,USA,Wilsontown,False
+85deb457-9bf5-4db7-8696-e63a31c8443e,8c582109-369b-4053-aacf-5ed86f845246,2023-01-23 04:50:20,1288.22,USD,withdrawal,in-branch,Sanchez Group,entertainment,UK,Lake Tracie,False
+fb3d16e8-9462-42cc-a7e3-58a25ecfccbb,d3fb1666-8d75-42fe-aae5-47c525d2b852,2023-08-11 17:41:29,472.16,INR,withdrawal,ATM,Webb-Miller,travel,CANADA,East Derek,False
+04f7e29c-81a5-45bf-9101-5e7c26973483,e59dcab2-2a14-4337-86ab-b96114b4bb51,2023-03-03 13:12:09,49.36,INR,transfer,in-branch,"Hutchinson, Perez and Ritter",Electronics,IND,Port Melody,False
+890ef995-8054-42d4-bc30-112b8132cbc0,7a7b7e4a-825d-45be-9577-14d36eb46760,2024-02-13 19:00:32,1860.55,EUR,withdrawal,in-branch,Lowery-Erickson,travel,CANADA,West Linda,False
+060d4df3-f934-4406-811c-7df6794c8656,df9ab1b5-a2ff-471d-8129-6b5814d79bf1,2023-01-06 20:45:09,1762.2,JPY,purchase,in-branch,"Durham, Mcdonald and Mccoy",utilities,Japan,North Stephen,False
+e1a10f2d-e7d6-4032-81f0-7ebb0244409d,a07d50ed-46a2-42a2-9cd6-e6007f8b62cd,2024-01-21 12:35:12,239.6,EUR,withdrawal,in-branch,"Bird, Mcdaniel and Nelson",Electronics,IND,Aliciaburgh,False
+d083791e-b100-4e9f-b587-ba516c43b2ab,7d5d95c8-ddde-41dc-873b-85b9814e68bb,2023-05-05 09:32:28,18567.8,JPY,deposit,mobile,Wheeler and Sons,travel,USA,South Josephmouth,True
+ffd938b1-96f7-431c-85e0-ed960a8b8173,e66996a5-75c3-41a9-9b5e-6e6961c0ae2a,2023-03-01 18:45:56,808.75,GBP,withdrawal,ATM,Smith LLC,entertainment,UK,East Erika,False
+c00a444b-4789-4105-bb88-6caa73608236,e7843f76-9b83-478f-b72f-2d5aa8b29e86,2022-10-09 12:44:30,1750.62,INR,withdrawal,in-branch,Knight-Wilson,groceries,Germany,New Marieborough,False
+5694a5fe-3329-417c-b3f4-8a96fcbdb415,84e1e006-dcb0-4f58-af2b-407fbe2ff2f0,2022-10-06 02:15:59,1903.71,INR,withdrawal,in-branch,"Tucker, Marshall and Lawrence",entertainment,Japan,East Peterland,False
+cf451db7-411a-4562-a193-729457b310b6,b90cbac4-f99a-4e09-b218-8a899eccc382,2023-02-24 22:26:31,1215.76,INR,purchase,online,"Parks, Clark and Hopkins",Electronics,UK,South Theresa,False
+4ee9497d-1be7-4fad-8141-00404ff18500,e25dc59c-f0d5-4d71-8fb6-1219fb3ed28f,2024-04-04 11:23:24,1924.4,EUR,deposit,ATM,Le Group,travel,Japan,New Michael,False
+af2c47b7-8050-40da-b25f-c3d2148125e0,9d9c0e08-d78a-4026-9673-d6c69f61f6b8,2023-03-22 12:51:38,590.61,USD,transfer,in-branch,Harmon-Davenport,travel,Japan,New Emilyville,False
+0511c73c-d3fb-4314-bc46-ced1ee6e636f,181def02-3fe1-4ca5-ba80-9b751518d81d,2022-09-20 03:45:47,1515.74,INR,deposit,online,Grant LLC,entertainment,Germany,New Shari,False
+72966fd2-1b5c-48b1-bba9-5b54acfa3ec7,d5363416-7ee6-470c-acac-d56cfb826330,2023-08-03 03:01:44,1882.24,EUR,withdrawal,mobile,Anderson-Perez,utilities,CANADA,East Vickie,False
+d9e907bb-5847-42b6-a22b-d10ddbbef4f3,aaff04a0-10be-4161-aaad-84211349ba1d,2023-05-04 19:06:54,964.63,EUR,purchase,ATM,Smith-Larson,travel,USA,Morrisborough,False
+772fc6fd-1bc6-45c0-8f92-4e0018cbd7b2,efebf03e-659d-422d-b68a-6d4f10d36caf,2022-12-02 08:42:46,1678.35,INR,withdrawal,in-branch,Nicholson-Stevens,retail,Japan,Port Mary,False
+f7504074-cc62-4634-a116-f93e6d8b50d1,f37258d3-6ded-4bad-a87b-711998a73f0d,2022-09-25 18:23:31,1068.0,EUR,purchase,in-branch,Rose Inc,travel,IND,New Aimeehaven,False
+980712fe-4fd9-4db2-8b8f-fd0520ba884d,dad16236-9a37-4089-a074-0bbc965e992d,2023-02-26 22:35:26,1950.2,USD,transfer,mobile,"Mcfarland, Alvarado and Rodriguez",retail,Germany,East Jeremy,False
+312aad03-f542-4780-9882-ffa7268d7e34,c4971298-b4fb-499e-9fac-9fff7dd9c32a,2023-02-25 09:00:26,1004.78,JPY,deposit,online,"Weiss, Benitez and Williams",entertainment,USA,Lake Alyssabury,False
+d70d1744-70d6-49c2-a11f-ebb3acc93126,d5fab65c-379c-4cbf-8549-56a8c925fa61,2024-04-12 06:05:03,460.71,INR,purchase,in-branch,Jordan-Lee,entertainment,IND,Davidmouth,False
+c25518e5-3a65-4811-923a-ce722ba88620,7cfa93fd-11c0-4f11-805a-ff9a1b2e6ef9,2023-02-05 00:51:07,495.54,GBP,withdrawal,online,Stone-Evans,Electronics,CANADA,Bushfort,False
+c427d04d-cfd0-498d-96d2-a671e0d3680f,e4d1d780-9958-453d-83ea-af962015d8af,2024-07-12 10:27:42,278.41,USD,withdrawal,online,Stewart LLC,groceries,IND,Janechester,False
+a14a68e9-4af4-4577-ba79-58626610eb4f,67fd3501-6ef2-4110-b2b6-b19844c7fff6,2023-08-16 21:08:24,1227.38,JPY,purchase,mobile,Jackson LLC,entertainment,CANADA,Gatesview,False
+5da1d8b7-4b85-4576-aac7-23d5e36a362a,c98cbe41-c8a0-4591-b8ca-59bab60e82d2,2022-11-28 01:12:15,754.86,INR,deposit,in-branch,Lowe Inc,travel,Germany,Miaburgh,False
+a32fead5-f20c-4f2f-9a99-b91d1d0511c4,3350ac48-3271-4d62-91ab-9f95f25efd6a,2023-10-15 03:02:46,1083.12,INR,withdrawal,in-branch,Ellis PLC,Electronics,UK,South Stephanieport,False
+84604cd0-1f0b-4ee0-81eb-bedcb96a621e,e7843f76-9b83-478f-b72f-2d5aa8b29e86,2024-03-14 03:31:30,116.44,EUR,purchase,mobile,Garcia-Forbes,travel,Japan,New Jessica,False
+6d4a7a0e-4773-45c8-8b4c-ba9b36c6cee0,b5a92e71-00d6-428e-8be5-8f5516deab1f,2022-11-20 19:51:25,193.84,INR,withdrawal,ATM,"Jarvis, Norman and Rice",retail,CANADA,Lake Alexandra,False
+51f5eded-c335-4e1f-8c46-ac1382cb567c,df1a7f25-6b4d-4b49-bed5-1ae775b9e862,2023-01-17 13:05:43,499.51,INR,deposit,mobile,"Summers, Hooper and Garcia",retail,Japan,Parkerport,False
+20a5b9bd-9145-4245-95d7-e996e83259de,b6a99a87-e19f-4afb-87f9-3228c4871cbf,2023-12-18 21:52:32,1494.28,INR,withdrawal,online,"White, Coleman and Hinton",groceries,Germany,Martinfort,False
+5c5f9c20-e186-4082-9698-bdac4eb08bf4,b7d71f66-4edc-4089-af6c-a740abfec9c6,2023-02-17 15:45:02,1496.16,INR,transfer,online,"Perez, Mata and Davis",Electronics,Germany,Erinside,False
+7493b58d-fae9-410e-957a-bd7d2ff6e0a0,105a8f70-5cb3-4c38-962a-562930cf8efe,2024-06-01 03:53:39,906.37,JPY,withdrawal,mobile,Dillon Inc,travel,Germany,Port Jennifer,False
+af9e3f40-4365-491d-8daf-f007422a1b70,ff7a3334-d013-4a69-92d8-b5aa772810e5,2022-10-24 06:01:29,1423.38,USD,withdrawal,ATM,Mckay Group,Electronics,UK,East Dorisfurt,False
+3981a1f7-4727-4b3e-ab20-64a4f6926d8c,496b3266-ba85-4380-993a-a6ea808c5aa8,2023-05-19 05:49:35,255.9,USD,purchase,mobile,Jones-Rogers,travel,Germany,Stantontown,False
+271ff211-8559-4941-aec4-5adb768c9a8e,d3381401-d03d-43cc-9204-beb7adaa9a5a,2022-09-09 13:45:41,804.74,JPY,withdrawal,mobile,Cook Ltd,entertainment,Germany,Williamsbury,False
+bce805b8-e0c3-4912-87bf-d3edb20dd933,18bab867-833d-4bdb-aafb-23c71563921c,2024-08-11 09:56:49,877.23,EUR,purchase,mobile,"Carlson, Richardson and Scott",travel,CANADA,Petersfurt,False
+407d2576-c37a-48fd-a5ce-ec6c8d0cda09,7046c404-8ad7-493b-9fdb-7c9da68b2793,2022-11-05 15:19:20,317.2,USD,purchase,online,Allen-Jones,utilities,Germany,Howellland,False
+ccdb177d-bcbf-4da2-af0f-b434b086f894,a8da9c59-2e75-4210-bfe0-fcc6c92fb39e,2023-05-17 04:08:17,51.72,EUR,deposit,mobile,"Collins, Morton and Mitchell",travel,Japan,New Loriberg,False
+5257eb6d-332b-492f-b6f1-f25e22ee4980,8dc9b718-e7f5-4b50-8955-86f1aa4514a6,2022-09-10 08:36:10,991.25,GBP,purchase,ATM,"Pierce, Johnston and Howe",utilities,Japan,Bakerburgh,False
+0c9dae7a-3f99-4579-9c6a-d9fb0c5107bf,11d52697-0981-42ac-ba36-339fa0bc70ce,2023-01-21 10:59:24,1389.59,EUR,purchase,online,"Schwartz, Villa and Howell",utilities,UK,East Elizabeth,False
+5260c13b-6e4c-46ac-8f63-25d39ba77bba,1f2d2cff-5fe6-41f6-8628-0d5993192d4a,2024-03-22 07:27:03,598.76,EUR,purchase,mobile,Sanchez-Singh,groceries,Germany,Amandafort,False
+12a70060-e3df-4f34-bc78-9e42e44a572b,6e3be690-faee-41f7-8d70-4f34b46e42f9,2023-11-09 09:47:37,87.91,INR,deposit,mobile,"Wright, Chen and Bishop",travel,CANADA,Mariafurt,False
+22a065c0-3ab0-4e09-9c03-5e3e8391787c,8afa5dfb-4583-4c8d-a0a1-5f2bb4c0acd7,2023-03-08 17:22:24,1732.23,JPY,purchase,online,Sherman Inc,entertainment,IND,Darrellville,False
+004c9600-3702-41ba-ab9a-9ecbaf196f1d,88251e77-e399-43ab-be60-6f3209a90914,2023-07-15 21:34:34,1725.81,JPY,withdrawal,ATM,Campbell Group,entertainment,Japan,West Mitchellhaven,False
+b2b66a50-a93f-4f7c-9b5d-cae6ed3fb0fe,8fef9795-3642-47c9-9a06-3aafb4a96250,2023-01-14 16:42:32,967.1,JPY,purchase,ATM,Barry Ltd,Electronics,CANADA,Stevenhaven,False
+aac91db2-fb6c-4004-94ca-5611c2f09ac0,88ace6c3-33fc-4959-99bf-73dad28e4e56,2023-12-28 11:13:13,851.32,JPY,transfer,ATM,Butler-Hernandez,travel,CANADA,Crystalfurt,False
+9477cf6e-0ba6-46db-a923-4dc07bf8c393,105a8f70-5cb3-4c38-962a-562930cf8efe,2024-01-25 08:08:07,983.4,JPY,purchase,ATM,Sullivan-Curry,entertainment,IND,West Timothy,False
+27bbc4f6-4c29-4d55-98f6-70678f04b902,b5024b55-0ec8-4db4-9b1c-9ddcb73a1804,2023-05-12 22:03:55,973.79,GBP,transfer,mobile,Costa Inc,groceries,Germany,Bellview,False
+8adef197-b6ce-4d05-9875-f7fb317a4142,d346eb22-c3bb-40a5-81d9-1658093c9f6f,2024-06-19 18:10:56,1134.48,JPY,deposit,mobile,Kelley-Hodges,groceries,IND,Masonhaven,False
+94adf5c0-993f-40a6-bce8-336f0c898444,59882e38-83b6-4d14-9fa5-b36022236986,2023-08-23 18:33:52,1587.29,USD,deposit,mobile,Williams-Johnson,retail,IND,Jessicahaven,False
+1a7b9565-4b51-46e1-a1b2-393c47c83e35,37e819e4-c139-4c85-8af7-21977974d4ea,2023-11-04 13:47:36,1838.19,GBP,withdrawal,in-branch,Rose-Blair,retail,CANADA,East Jeremy,False
+ef22f72a-6b46-4a6f-89b6-325a9bbfe7bf,5fda7405-3f50-4e39-bd4a-bb7e0155c6f4,2022-08-26 08:36:53,1663.26,EUR,deposit,in-branch,Duarte Ltd,groceries,UK,Lake Christopherland,False
+7e3b9941-5774-42f6-b1e4-0a40253398d0,f311f571-ba7d-4717-b3d5-0c1997413b07,2023-02-11 01:22:04,967.65,GBP,transfer,ATM,Price-Taylor,groceries,Japan,Alvarezhaven,False
+1646aee6-635b-454e-944a-db828cad0543,a99deef8-e537-4f27-95d4-75a172f665d3,2023-10-12 17:03:58,1663.53,INR,purchase,in-branch,Ibarra-Finley,utilities,CANADA,New Debraville,False
+dfe17855-8653-4203-9bd2-9fcdbe9700ab,cb68f7bb-762c-4348-a211-99bcfb4518be,2024-08-09 21:10:22,1687.53,INR,withdrawal,in-branch,Barnes LLC,utilities,CANADA,Orrview,False
+e5a5bccc-8bb4-4512-96ca-5d19e00559c7,70cfa227-bc5f-46a3-a92e-7483b17c0afd,2024-04-02 04:00:01,1934.06,JPY,deposit,mobile,Collins-Mueller,utilities,UK,Flynnmouth,False
+e5376f1d-9db3-4946-927c-43b019f5d1e9,0f42ef12-2cc8-40ff-afbb-45b59652bfba,2023-01-28 12:24:06,1833.01,USD,withdrawal,ATM,Nelson-Lee,retail,CANADA,Jamesborough,False
+f137c0df-5d89-4253-9f88-bf269d0cf88e,cc49c985-7c20-4cb2-bc16-0aabc0e7e947,2024-01-01 15:38:02,1368.66,INR,withdrawal,ATM,Villegas-Perkins,utilities,CANADA,Daniellebury,False
+4b086100-cde6-4550-af29-812699e23e66,58328bae-f940-49d4-8188-7bfe5d5039e1,2023-02-27 04:24:20,1871.82,EUR,transfer,mobile,Jones-Davis,Electronics,UK,Port Sharonmouth,False
+4b349963-6b2f-40fe-bec4-c19eab008669,bc1a1c87-e265-467f-9c30-f5b16e420eab,2023-03-12 06:43:39,1458.58,GBP,deposit,in-branch,Jacobs Group,retail,USA,North Erikaville,False
+99cee03a-e846-4c49-82cc-671d2dc9ec1f,635bffd4-fa8a-4d1e-b1bd-a0afb2aa14f9,2024-05-22 22:01:32,942.93,USD,withdrawal,mobile,Cain and Sons,travel,UK,Lake Renee,False
+446cd256-ffb4-4343-b9b5-898f90d525c8,aae84329-da79-404d-a2fc-e19e05cd1a35,2023-08-07 11:33:51,307.3,JPY,deposit,ATM,Kelly PLC,Electronics,Japan,New Hollyburgh,False
+5c8bdf20-5894-483f-97bc-fe162a162655,e8e09fd9-3418-4e40-b13a-f33209afb2bd,2023-01-17 16:29:09,1902.56,INR,transfer,ATM,"Stone, Brooks and Le",utilities,Germany,West Jerryborough,False
+ffa6fa7b-6a44-445e-a66b-e5786e7ee372,bd200943-354a-4791-b310-20e4df4052e6,2024-01-17 18:44:17,64.98,EUR,withdrawal,ATM,Weber Group,travel,IND,West Nicole,False
+fafa8d5f-3725-43af-ab9a-329301a0c2d6,6ade29f7-469e-4db2-a8f1-2eb13aa8251a,2023-03-28 02:00:50,1897.07,GBP,deposit,in-branch,"Neal, Saunders and Jackson",travel,IND,Camposstad,False
+64e8c71a-f36e-4faf-b57e-2ec2a5aa65e7,3e226f45-b816-4918-b11a-262a9491a1ca,2022-11-12 05:57:44,1469.67,JPY,withdrawal,ATM,"Cortez, Stevens and Smith",retail,IND,New Jacobchester,False
+301b503e-6374-419f-8a40-3b0d01d6ac4c,1539d33e-69f6-4221-8d2e-f553a27631e9,2023-11-18 19:39:05,1902.3,EUR,transfer,mobile,Adams-Anderson,retail,Japan,Patrickfort,False
+6b1b43b1-7e3f-4fda-8293-e4ae7f44bddc,f931dec8-d772-429d-b297-6a535d20f124,2022-09-02 05:59:09,1477.9,EUR,deposit,online,Davis PLC,retail,IND,Bonillaport,False
+b8098313-96ab-4ad2-a833-43e335fa2b81,14888a6b-60c7-4730-8801-820d2c36c6eb,2023-04-16 01:06:58,779.44,USD,purchase,ATM,"Rangel, Zhang and Ballard",Electronics,Germany,West Karen,False
+4b950a02-eeeb-4a5f-a446-7fa68dd15191,106c8e48-1600-4010-8e19-52f5d2cc8f4e,2022-11-06 08:08:11,1400.78,GBP,purchase,online,"Price, Palmer and Meadows",travel,CANADA,Lake Valerie,False
+cc113399-d659-424f-8db6-e105725c170b,d5363416-7ee6-470c-acac-d56cfb826330,2024-08-07 18:02:52,396.63,EUR,withdrawal,in-branch,Williams PLC,Electronics,Japan,Port Antonio,False
+de3e22a9-1a38-4307-9c6d-25bbe88067dd,b7e2fe1f-1c5e-4927-bdb4-66bab57afec8,2024-05-24 23:03:54,862.26,EUR,withdrawal,ATM,"Anderson, Stevens and Bass",entertainment,Germany,Allisonshire,False
+4c1e7f58-3ce7-4644-81fa-6c179cf6b2d0,2fcb0806-5f47-488c-abc5-7192c9898c92,2023-04-27 01:08:32,1359.54,EUR,transfer,ATM,"Weber, Morales and Anderson",utilities,IND,New Tylerville,False
+77aeed86-0252-4cbb-9ad5-f1081560806a,f3bb75f0-086b-401e-ac4e-f2c369ccdd27,2023-02-14 22:18:35,1847.41,JPY,withdrawal,in-branch,"Gonzalez, Nguyen and Kelly",travel,Japan,West Mercedesberg,False
+74f3bf5e-1671-4fc2-9436-8fe204449613,fc0c15e6-905b-4664-b930-d8dafd7cedce,2023-07-14 18:33:43,1904.82,USD,transfer,ATM,Holland Ltd,groceries,CANADA,South Catherineville,False
+84b5e2a0-bde6-4800-b161-be0fe340a9d3,17ef8eb5-e7f4-479d-94de-a114b98c7bdc,2023-08-29 11:14:00,1178.48,JPY,deposit,mobile,Porter Inc,travel,Japan,Lake Carolynstad,False
+676508b2-38a0-4f34-b31f-31a952e66d0f,5905395c-ee23-480a-8178-21b0edb44c80,2024-06-07 01:24:34,1221.2,INR,purchase,in-branch,Lynch PLC,utilities,Germany,East Nicholemouth,False
+76f99d81-3d8a-4db5-990c-d2e3284affa5,f2045279-f614-4daa-83b7-4e122f691b60,2023-05-06 17:08:08,1289.48,USD,withdrawal,ATM,Williams-Johnson,travel,USA,South Melissa,False
+478f3d5c-dba5-4b31-bccf-5dff41b615c7,a7bed013-1fc7-44f1-87ea-b896b511cd04,2024-01-22 10:12:27,850.91,INR,purchase,ATM,"Guerra, Ramos and Garcia",groceries,Japan,North Laurenberg,False
+562ca817-3888-4ddd-b9af-655fa7a6bde0,bbee6dd2-3218-4513-809d-3026101c849e,2024-08-10 05:43:10,1452.48,INR,withdrawal,in-branch,Curry-Patel,Electronics,Japan,New Maria,False
+80240548-2eb0-4af7-8267-87fb94b8b6ed,84e1e006-dcb0-4f58-af2b-407fbe2ff2f0,2024-07-07 10:48:57,774.36,INR,deposit,ATM,Hebert-Wells,travel,UK,Benjaminview,False
+6d095759-e0e6-481f-b5ec-2fc23f7860db,2fccf5a6-5896-44f3-b04d-e09bbd67dbd9,2023-09-11 14:37:58,138.2,INR,purchase,mobile,"Brown, Patton and Spencer",entertainment,CANADA,North Tanyaview,False
+51398741-618c-4efa-96bd-b50ebcfe896f,0965de29-f0aa-467b-871a-6ab10d836fb3,2023-06-13 00:34:00,1585.02,JPY,transfer,mobile,"Herrera, Salinas and Jordan",groceries,USA,Port Michael,False
+7bbcd9e6-14a2-45fc-b1e7-c4e159f90086,d5b0116a-627c-4d4b-bf63-560827198d1d,2023-08-27 20:19:45,794.5,JPY,transfer,mobile,Taylor Group,retail,USA,West Michaelton,False
+71e379b8-23ae-4628-ad30-81699e5d92d2,6849caa1-4049-4231-b97c-e0b09d90d7ef,2024-01-27 20:02:48,450.9,INR,transfer,mobile,"Bridges, Novak and Fisher",utilities,Germany,Port Patriciaville,False
+e7fa6e6c-8d40-4521-a280-f1c49e4101ca,c7a78f9d-0812-4be8-9582-7d24f805735e,2023-06-19 17:35:24,1156.64,USD,withdrawal,ATM,"Savage, Ford and Brady",entertainment,Japan,East Brandon,True
+8d85b231-364b-4ae3-8939-55fac0bd4179,deb283bf-340d-4d0f-bb41-9b6a48883762,2024-02-19 09:37:06,1317.23,GBP,transfer,mobile,Barnes LLC,utilities,Germany,Williamville,False
+31ff33ef-1823-41c9-b917-15e063ed18b5,537ec0bc-d2b0-4e0f-b0d8-31b9f14171cb,2024-03-01 01:48:23,1699.24,GBP,deposit,ATM,Erickson-Craig,travel,CANADA,Deannamouth,False
+26750f32-cfac-4cbd-a1da-a41903f44d2a,579af8cb-d8ca-4064-8ddd-9320934a53de,2023-04-29 05:29:52,163.79,INR,withdrawal,in-branch,Stewart Group,entertainment,Japan,Dianemouth,True
+c01cb560-53d5-48a4-b7ef-e1e7ae3a764d,06be31d1-c0e6-4f9d-883b-c1649b289509,2023-07-05 16:00:41,631.0,INR,deposit,in-branch,"Hill, Edwards and Barber",Electronics,CANADA,Stephanieburgh,False
+de3ea288-8939-4d87-aee8-696bcf2e6153,0e396cbd-7f5b-494f-9501-1f9cbff9910c,2023-01-04 10:54:25,940.65,EUR,withdrawal,mobile,Callahan and Sons,utilities,USA,New Rebeccatown,True
+1541c150-c50d-4897-968a-b0a70eb1be20,c1450e48-9691-404b-b670-274b6aeba809,2022-12-05 19:23:11,1822.96,EUR,transfer,mobile,Little-Villa,utilities,Germany,Alexmouth,False
+91844671-adac-4974-b717-a7a488d63fdd,06a35835-fa89-4321-ad22-6c2f42309f61,2024-07-24 11:41:31,287.67,JPY,withdrawal,ATM,"Horton, Gutierrez and Woods",utilities,Germany,Melissaberg,False
+386ce674-3204-443c-bef5-ac339c155f43,52811b49-4eab-4b75-b3f9-eb707dd5931c,2023-01-13 03:52:51,1041.45,INR,purchase,in-branch,Robinson-Peters,groceries,USA,East Melissa,False
+85672d79-975a-4649-8eed-cbc55d70a34b,82849625-d280-43c4-ba36-8d3ac6955d6f,2022-11-30 15:37:18,1101.54,GBP,withdrawal,mobile,"Lewis, Wilson and Brewer",Electronics,CANADA,East Lauren,False
+6734e8db-6e75-4dff-85fe-634bb7ae99d9,31117654-4f59-4e3e-b469-0691ddcb865c,2023-04-02 04:33:59,56.25,EUR,purchase,mobile,Swanson-Rogers,utilities,UK,Jasonhaven,False
+24d8ae2f-c609-479e-af78-8d659a3ce287,70cfa227-bc5f-46a3-a92e-7483b17c0afd,2023-04-19 04:30:38,1217.11,JPY,purchase,mobile,"Hunt, Lara and Martin",Electronics,UK,Glennville,False
+39026fd5-d40d-499d-a2d0-2bd782078dac,e95d3c6b-83df-4007-914d-23512a11654d,2023-02-17 19:57:49,1878.32,JPY,transfer,ATM,Schneider-Davis,Electronics,UK,New Charlesside,False
+f4228845-c8a4-4b70-81c2-860d94ff7418,6562e382-77a6-4054-a5bd-b8428db9af79,2024-02-24 18:52:08,1035.63,GBP,withdrawal,mobile,Coffey LLC,travel,CANADA,West Paulstad,False
+174e6bc0-2c61-4105-8c78-9a03d20afee3,8aedcbd3-d868-4845-925e-8533b246f889,2024-08-03 12:09:14,450.14,GBP,transfer,ATM,Hubbard Group,retail,IND,Lake Josephmouth,False
+18022b65-aa45-4f70-addc-f0271dd19a8d,785fc070-46a4-4e4f-88de-21dc0c1f8282,2023-01-30 17:03:23,322.12,EUR,transfer,mobile,"Lawrence, Foster and Miller",utilities,Germany,Christinaton,False
+6d3c16cd-4c7e-472c-a471-0b28359e647b,d63f7a0f-8f44-40fe-b265-5e4b67a0d88f,2023-05-11 14:04:39,319.25,INR,withdrawal,in-branch,Ross-Clark,Electronics,IND,West James,False
+ec917d6a-6cd6-4f14-aa68-9ca8ba54f471,946aa9c8-496f-4407-be51-b71f3afe9f38,2024-02-15 07:16:46,1970.62,GBP,withdrawal,mobile,"Brooks, Miller and Harrison",retail,IND,Paulberg,False
+00e44cb3-83bf-4476-b7e8-c4fe47bdf9f1,cff40e21-fa39-49f1-b8a5-c1228ddee50d,2023-11-15 23:50:30,308.73,JPY,withdrawal,mobile,"Williams, Adams and Lawrence",Electronics,UK,New Jeffreyport,False
+96ed2c4f-d946-40b4-b564-72e3a778a142,5f31480c-76e0-4435-82a6-b035c9a87740,2024-07-24 06:22:58,1285.81,USD,purchase,ATM,Khan-Evans,Electronics,IND,West Rebecca,False
+24453074-5e72-40ee-9bc8-d20191a9c826,47cc46da-4105-4828-bc00-ef5315a575a6,2023-05-10 11:28:27,163.24,EUR,deposit,mobile,"Richardson, Stone and Jackson",utilities,CANADA,Nathanport,False
+20e7aae1-f1a3-4a87-ba5f-045fe36c60ed,22fff0ae-4e47-48f2-b4f8-a13ee28e34cc,2024-02-06 20:58:35,1100.24,GBP,purchase,in-branch,"Moore, Mayo and Mathis",groceries,IND,East Andrew,False
+bc2df4ab-d95d-4b5a-8110-2856371a13d1,ac181011-d67b-4e00-90e0-4eb5bdbffa4e,2024-05-18 18:27:06,1589.08,USD,deposit,online,Donovan LLC,retail,Germany,Hughesmouth,False
+8414711a-18e3-4669-970e-262ad7f7ec62,e7843f76-9b83-478f-b72f-2d5aa8b29e86,2024-06-30 16:23:51,1047.4,GBP,purchase,mobile,Peters-Brown,retail,UK,Chenside,False
+2e386b57-85b3-40c0-8ac3-79852da32e9e,6d9e0682-01de-4c27-b7d7-c1537671a06c,2023-09-29 04:45:32,510.41,JPY,transfer,mobile,Hardy-Grant,groceries,Japan,East Robertmouth,False
+46678dcb-8e5a-4066-9bba-b63bf9b5a19c,539941af-6683-4433-888b-3817bd2e7b19,2022-08-15 21:26:24,1788.51,JPY,withdrawal,ATM,"Kramer, Morton and Gardner",travel,USA,Katherinebury,False
+d2dd157d-bcfd-42d3-9696-dcc8dd3b0b9f,3d9cf937-6cff-43f7-a79b-b0f2820eacf0,2023-10-20 15:03:46,130.83,USD,withdrawal,ATM,"Bowen, Mann and Nguyen",travel,Germany,Port Michaelhaven,False
+c48755ea-c6d9-409b-a9e9-1c3b447cacfd,50a7708d-dfc4-4674-ab82-aacbd8a63a8d,2022-10-05 19:02:08,1686.27,USD,withdrawal,ATM,"Figueroa, Collins and Bradley",travel,UK,Robertland,False
+bfaedd74-b303-4cd2-92c4-68caddaebca2,4164dc9c-cc43-4045-9264-4519ce8eab56,2024-05-01 14:02:47,1708.39,USD,transfer,ATM,Lyons-Thompson,travel,UK,Brandyborough,False
+6bf5ba0b-2ead-4c53-b99a-12a24a05acc5,e2c6d91a-03e2-40f1-a6ff-982e7cca03ed,2022-12-16 06:45:15,156.93,USD,withdrawal,ATM,Snyder LLC,Electronics,UK,Williamston,False
+02fe017d-80f3-49d4-98a1-54b27b81d22d,b7c2ce12-c0c9-49a6-a3b4-968fe05ae88f,2023-11-30 04:17:59,1946.0,INR,transfer,in-branch,Smith Inc,retail,Germany,West Sergio,False
+f8a4667f-3314-4a22-8354-69bd8b0348f6,b61a1d31-0fea-4f9d-bad4-35c020873e0a,2022-12-25 07:57:43,1295.5,JPY,purchase,ATM,Valentine-Perez,travel,USA,Lisaview,False
+e12acf31-a552-4c64-93b3-681fff320a15,340576e6-2967-4903-9b64-7b0e3bcdab1e,2022-10-17 11:27:53,1318.83,JPY,transfer,mobile,Lopez Group,retail,Germany,Martinezfort,False
+bb422969-7ab0-460c-b2f3-a2dda3d1e3aa,9d32dd7f-9715-441d-b134-2f79a9dfddf4,2022-10-13 17:30:31,693.71,INR,deposit,ATM,"Perez, Bishop and Rodriguez",entertainment,Japan,Lake Jeffreyfurt,False
+0ad47a00-88ee-4b61-8ae3-aef6fb29a1a1,ab6c9f27-bfca-4a68-8122-09641ba7fd31,2023-06-15 18:36:20,1693.75,GBP,transfer,ATM,"Parsons, Patterson and Taylor",Electronics,IND,Greenfurt,True
+ce648f12-a0b8-45e9-bc82-707b824ee7da,916eb0c3-8da1-4219-83ff-2d36d784f74a,2023-08-10 14:32:19,548.88,EUR,withdrawal,online,Jackson Inc,utilities,UK,Flynnburgh,False
+01823dcc-9c07-46db-8cc3-a1d0e9245898,e4d1d780-9958-453d-83ea-af962015d8af,2022-10-02 02:31:14,558.14,EUR,withdrawal,in-branch,Andersen Ltd,travel,Germany,Hicksfurt,False
+5c831763-9013-4881-a681-5f2aa941d918,f311f571-ba7d-4717-b3d5-0c1997413b07,2023-01-24 05:17:34,882.26,USD,deposit,in-branch,"White, Burton and Hayes",Electronics,Germany,New Kellyton,False
+370e1240-f234-4510-bf15-fba03de5b862,b1312188-a293-48cc-a978-1d5b77c03d76,2024-03-24 02:48:05,1932.64,USD,withdrawal,mobile,Phillips and Sons,retail,Germany,Andersonborough,False
+c9dd347f-165b-4a44-ad58-11f531a1d758,48483416-ac50-4b76-82af-ffafffe45093,2023-06-20 21:02:14,504.59,INR,transfer,online,Campbell PLC,Electronics,Japan,Joshuaborough,False
+6a48431d-8983-4f38-80b7-4832fa6f82d2,4ff5a566-0f08-4313-a418-fd794dc64941,2024-05-13 19:09:09,688.79,USD,transfer,in-branch,Carson Ltd,utilities,Japan,West Rhonda,False
+915bb508-ef03-4d11-adfd-730d460e8e4b,e79fbc29-06aa-483c-b4b5-b351d1895e88,2024-01-11 01:25:27,1347.44,EUR,withdrawal,ATM,Cook Ltd,entertainment,UK,Arellanoshire,False
+d434c9ee-06b2-4104-b04a-557acc5400ff,8a0466c7-3fde-4edb-9736-ee1c7595df90,2023-12-30 23:36:35,82.06,INR,deposit,ATM,Watson Ltd,entertainment,USA,Ianfort,False
+5b5c50f3-feb6-4c92-b293-89967a7fd16f,753d7176-545c-4362-9f5e-9592baa341cc,2022-12-26 19:41:46,266.61,USD,deposit,mobile,"Blair, Gonzalez and Perez",travel,Japan,Ericborough,False
+3fb5c99d-4941-4ae0-8c7f-088d5ab4148e,8aedcbd3-d868-4845-925e-8533b246f889,2023-12-28 19:02:53,1926.67,GBP,transfer,in-branch,"Scott, Mitchell and Cardenas",Electronics,CANADA,Brownberg,False
+432d3a0b-2961-4314-9453-fd1d58409757,e4d1d780-9958-453d-83ea-af962015d8af,2024-06-06 07:06:41,1594.21,JPY,deposit,in-branch,"Martinez, Washington and Ramos",Electronics,IND,Alexanderview,False
+f658650e-7d22-41ad-abf0-d0544002bb20,16891a1a-5004-45b9-9d2a-b1480d6b5ae3,2024-05-18 21:43:05,486.99,USD,purchase,online,Diaz-Moss,entertainment,USA,Castillofort,False
+4bcf5c31-8a07-441d-8630-406043801036,f2a6c5f2-626c-449e-a2f1-1362ea385748,2024-02-25 02:15:29,1193.78,INR,purchase,online,"Nixon, Ford and Walter",utilities,Germany,South Donnamouth,False
+712c5a13-9914-42fb-acd0-ef84737ca3d3,2838c81b-7f79-4471-9753-0a3119ae1378,2022-10-08 15:05:19,1677.5,GBP,purchase,ATM,Spears Ltd,groceries,Germany,Port Johnfurt,False
+36db14c7-063f-4731-a6e3-bb27bd9a21aa,c48ee896-05f9-49d9-b439-3f696a0ae89c,2023-05-03 04:35:13,1800.49,INR,withdrawal,mobile,"Walters, Patrick and Harrison",utilities,CANADA,East Denisebury,False
+d405cb9d-7bdc-4ee0-bcc1-2e4e5ffd4f1d,331d7b4a-a24a-474d-94d5-e5ddd6d155c7,2023-10-01 16:13:04,606.23,GBP,transfer,ATM,"Hawkins, Roberts and Miller",retail,UK,New Nicholaschester,False
+2f9ded8b-9bfb-4271-bad2-cadbb53fa07f,7f36ef31-6049-4383-a2ef-f7f75cced94b,2023-09-08 00:10:38,97.32,EUR,deposit,ATM,Hernandez Group,entertainment,UK,Brandonbury,False
+98a80a59-f8b4-41d2-954b-36bbe74a9c1a,7fef7d91-e9f3-4905-b410-d90ed79d5308,2024-04-10 22:08:55,1075.27,INR,transfer,in-branch,Rivas-Stone,utilities,UK,Port Davidland,False
+3f912e49-af7c-4018-a28d-858eb0391825,bc7202e3-f913-44e8-a102-115241252fc2,2022-08-29 12:20:31,1536.26,EUR,transfer,in-branch,Smith-Mercado,groceries,UK,Lake Anthonymouth,False
+a34793a8-f8a1-46e6-b5f9-659bd6e9799c,050fbaca-9239-4fa7-980f-1373b76f57a1,2023-04-07 14:31:09,1742.31,GBP,withdrawal,online,Lester-Phillips,groceries,USA,Marquezhaven,False
+180824e1-0d5d-4d3d-b303-70a16aaa3734,e95797cf-b243-4fda-9174-6a9032019f4b,2023-07-02 20:55:24,1824.68,GBP,transfer,online,"Horn, Reeves and Reese",groceries,UK,Cookhaven,False
+8e61a3eb-a950-4f35-b231-edf91ea5faac,98a16371-3ad4-40cb-9849-3c569d1a9a65,2023-05-03 05:29:58,488.71,GBP,withdrawal,ATM,"Johnson, Lyons and Price",Electronics,USA,Nicolemouth,False
+b0fb794f-23d7-4194-99c2-58690962ec42,419f1092-95a8-4bfd-8dc5-240482d4f624,2024-01-15 05:29:31,615.38,USD,purchase,mobile,"Watson, Howard and Burns",utilities,Japan,Malloryhaven,False
+78223280-3b86-4f63-9d44-2592a94ac88f,88c2cae6-5fd7-4334-9d60-b5abec754853,2022-12-31 12:19:27,451.08,USD,transfer,in-branch,Berger PLC,Electronics,Germany,Matthewbury,False
+7df10801-74f5-4434-ad2d-9eb7bf939bd1,e66996a5-75c3-41a9-9b5e-6e6961c0ae2a,2023-10-21 15:55:00,817.35,USD,purchase,in-branch,Gutierrez Group,travel,Japan,Lake Andrea,False
+05ae3af4-5a41-49db-a4d8-faa298b5f221,75fc1891-84a6-4fa4-bc3c-41bf426b095e,2024-02-23 04:58:29,964.62,EUR,transfer,in-branch,Sanders LLC,Electronics,USA,Mcdanielbury,False
+86615fe1-533f-4243-860a-77cf74f7b78d,64773df2-8dda-43d5-9cc8-1484d6233f41,2022-12-19 20:21:43,1371.57,INR,transfer,mobile,Rios Inc,groceries,CANADA,Anthonyshire,False
+c87f88e5-f0ab-42a8-b1c4-43f3638162bf,cc49c985-7c20-4cb2-bc16-0aabc0e7e947,2023-02-23 20:29:13,1875.35,INR,withdrawal,online,"Little, Mason and Smith",Electronics,UK,North Eric,False
+d07b9c31-6bef-4e40-a181-d1c2dda9a303,bc3f0861-1fe7-41ac-a702-f16fb703343b,2023-04-17 13:13:00,1454.82,JPY,deposit,online,Wilson-Sellers,utilities,UK,Bradleymouth,False
+1fee4aa8-e0ba-4dd5-a184-715c0a361ed7,d3381401-d03d-43cc-9204-beb7adaa9a5a,2023-10-21 16:38:47,1176.15,USD,purchase,online,Williams-Moore,groceries,UK,West Brianna,False
+69d195aa-b51e-4d71-9e36-4aad26143634,ec66fd20-59e5-45e2-b33d-e723515eda9f,2024-02-24 12:29:09,422.77,JPY,deposit,mobile,Campbell-Watkins,groceries,CANADA,New Tiffanyborough,False
+60d25239-6e99-4d11-bdfd-cd28f9d41c43,e8781bc3-fb06-4ab4-ad29-e9279babe7c2,2023-11-06 02:27:13,700.34,GBP,transfer,in-branch,Thompson Group,retail,Germany,New Johnborough,False
+722f7b7e-8c04-4b9b-b32a-fe0556e34fb1,483c9be8-2d79-491b-a816-f4b32df80675,2023-11-26 12:05:12,43.28,JPY,transfer,mobile,Barajas Ltd,retail,IND,Port Robert,False
+b5be8bee-c2ff-40e6-975b-c19e3672584d,9b6c5d01-7089-4c33-9ed6-4547b8bb21a1,2023-03-24 03:21:35,1485.06,GBP,transfer,in-branch,Ferguson-Brooks,utilities,IND,Derekville,False
+69749d87-f1ec-42ce-841f-31addb798fbb,9646a7d5-01f7-4b3c-9e08-89e5c5b37056,2024-07-20 02:47:52,1141.45,INR,withdrawal,in-branch,Mason-Massey,groceries,UK,Bensonmouth,False
+7622d31b-8bd4-4a41-8443-0342d9ec6d6e,82849625-d280-43c4-ba36-8d3ac6955d6f,2023-12-22 10:41:17,899.99,USD,purchase,online,Bryant-Henderson,utilities,Germany,Nicolefurt,False
+2133201a-09f3-41ce-bf7a-342ddfc2a0e6,86c26ae7-e990-46cc-b1c6-cf998f11d61d,2023-11-16 13:52:17,881.43,EUR,transfer,ATM,"Wilkinson, Dixon and Malone",Electronics,Japan,Port Teresaburgh,False
+c215c77c-f3d0-4a84-ac58-a3e7c2657196,d73af451-2591-4538-9414-f92303db4a50,2024-07-07 10:14:27,326.89,INR,deposit,mobile,"Rose, Price and Short",utilities,Japan,Port Josephbury,False
+00a34c3d-76dc-420a-a701-54492f0269b5,e97d522d-273e-4ddb-bc5b-b278c65d6437,2023-06-01 17:40:33,663.78,EUR,deposit,online,Cole-Stanley,groceries,Japan,West Kimberly,False
+7f6ebb72-503c-45af-a98b-6d7a37b3b25f,04abe3f4-a9e5-4535-b08e-7eff6f03406a,2023-09-06 18:27:59,1732.87,INR,deposit,mobile,"Allen, Davis and Avery",travel,UK,Elizabethville,False
+7943a2a1-4f3d-4d7c-b7c7-e7e9d9dcd60b,3d7467c8-eaf5-4612-b39f-6220a1541d13,2023-05-18 08:22:29,657.52,USD,purchase,mobile,Clark LLC,groceries,IND,South Mitchellton,False
+88010a5e-7852-495e-9e8d-c72fd1b8d554,e0be8a46-f6c7-4d94-8446-a1c02f8fdace,2023-03-31 11:02:59,1280.91,GBP,purchase,mobile,"Lopez, Lee and Nunez",groceries,IND,Lynchmouth,False
+2d683935-9f82-4db2-b1bb-f09262c831f6,613dd66f-f8a3-40a6-94af-c6d50b13b71e,2022-11-16 01:24:40,788.63,USD,transfer,ATM,Waters Ltd,utilities,CANADA,Andrewtown,False
+f5261c77-7465-4c9b-979d-5d79be739cb9,c882bc58-5707-41c2-8d3b-000474dcaf2c,2022-09-10 05:56:16,282.03,JPY,deposit,mobile,Bishop-Jordan,entertainment,UK,Travisland,False
+ec56e3ae-cbd1-4bc3-979b-77b7424ba1b1,c78e4ebe-fc7b-40b5-8259-828066d2bb4e,2023-02-14 22:43:23,1722.59,GBP,purchase,mobile,Morris LLC,Electronics,UK,Bryantmouth,True
+ece460a1-5b91-4a1d-b4db-f2c62f44d921,3dbfd4b6-90a6-4f16-8fef-b712965b1477,2024-06-27 21:49:44,670.47,USD,purchase,ATM,"Carey, Mayer and Harrison",entertainment,USA,East Jennifer,False
+b5b9091c-78d6-41ef-b96b-9968eaf54753,542c8e07-c0d8-4cfb-9df6-3fcf64a1de76,2023-01-28 03:41:01,44.48,JPY,deposit,mobile,Martinez-Anderson,travel,IND,Alicemouth,False
+db20573e-dce0-4ccb-8b5f-0464da80f98c,6d9e0682-01de-4c27-b7d7-c1537671a06c,2022-08-30 06:22:40,469.01,JPY,transfer,online,Mata LLC,utilities,CANADA,Lake Lauren,False
+bb4a0f08-6584-4b9b-9643-af6c73256b38,b1c5b1d5-32e1-4e94-8434-1d37e44f0d04,2023-09-18 18:13:21,244.36,GBP,transfer,in-branch,Williams Group,groceries,Japan,West Leah,False
+6aac4233-9861-4af4-9246-fbf2aa990b5c,29fce673-b10f-4a6d-8902-8294ba4bd3f2,2023-06-27 15:32:11,535.9,EUR,purchase,online,Hess Inc,retail,IND,South Kathyport,False
+140414bc-bf0a-4c69-9e18-366195437d3c,0694c23b-f7e8-4238-85a7-75fc736d9c44,2023-10-15 09:58:24,781.95,GBP,transfer,mobile,Snow-Smith,entertainment,USA,Fullerburgh,False
+6f0a9ced-5cb4-495d-9ac3-26fe994ca22a,b68ae53b-3f36-47d8-9706-18f9a0852a1d,2022-09-10 12:34:16,641.89,INR,purchase,mobile,Horne-Brown,groceries,UK,Fisherberg,False
+4732ed13-77b3-4824-a358-50e23f0386b5,2aae41c4-c01b-45af-9318-6fafef364c30,2024-04-26 17:32:36,1794.45,INR,deposit,mobile,Jones-Morgan,groceries,IND,Donovanborough,False
+5e86f170-49f1-4754-9c84-b7724d2ddbe7,909e437f-fa58-4791-bc0f-21351970c80b,2024-01-23 23:40:10,612.52,GBP,transfer,in-branch,Fischer LLC,utilities,IND,Welchfurt,False
+89d849a0-3d46-4c19-b6f6-39cd1c361655,a28e4706-8415-497f-a68d-61e7de49d493,2023-12-01 10:44:36,1055.85,USD,withdrawal,online,Medina-Hunter,entertainment,IND,Pattymouth,False
+28e0838a-3a0c-480d-949d-5b53b927aa64,8887b346-90f1-441a-9308-5c6c5254a6b3,2024-02-04 08:37:46,1128.77,INR,transfer,in-branch,Long-Stewart,utilities,IND,East Rickyville,False
+55a3cd34-8638-4673-a1ac-b491a3ad7e9e,a9aa7180-3a46-4289-becf-bb3866cb6501,2022-10-27 05:34:26,1410.56,EUR,transfer,in-branch,White LLC,entertainment,CANADA,Mcculloughview,False
+f6182759-06a2-4807-9c2a-af3f4a13867f,20816190-5fb3-49c9-9b70-bce6b086ee7a,2022-10-10 12:52:19,331.6,EUR,deposit,ATM,Preston-Alvarado,utilities,CANADA,Victoriachester,False
+42ab9072-2751-4cf9-8ffd-efb0c6f1eca2,1a151c77-5c4b-4f24-9ed7-09ced07cae58,2022-09-12 10:00:41,1972.55,USD,withdrawal,mobile,Rivers-Hughes,travel,Germany,Mclaughlinside,False
+763d0dfe-cd74-4a26-8f9b-aab5f18693ac,5ea60bcd-0288-4342-8e4a-9ab19222cc2e,2024-05-28 20:01:04,1356.45,JPY,deposit,in-branch,"Jackson, Mullen and Phillips",Electronics,Japan,Kevinburgh,False
+f00ca87a-2976-4513-8bae-88e7be7fa322,899e1b0d-d476-4279-ac69-5678174c837d,2023-07-31 15:16:21,882.12,INR,withdrawal,ATM,"Parker, Moyer and Williams",Electronics,IND,Victoriahaven,False
+f3e091f9-c323-4bf4-ad00-2d1422f79214,723e04bc-e5f1-4c19-a454-fa691a057a3d,2023-06-16 18:44:12,1535.29,INR,purchase,online,Trujillo LLC,utilities,UK,Griffinborough,True
+5511637f-de8a-4b74-8933-6d5ca923b3b6,9e3b5e4e-d8e7-4538-92e9-57c605d93b20,2024-05-13 10:54:32,1362.83,JPY,withdrawal,mobile,Hayes and Sons,groceries,CANADA,West Ruthfurt,False
+c26c78a4-958a-45f5-a9c1-0e24ffa4de6a,01c5b15f-e815-4ebc-826a-2fa5485821f5,2023-08-16 10:01:49,317.19,JPY,purchase,online,Mills-Jones,travel,USA,West Michelleberg,False
+f3cbf956-1ddc-4685-9fdb-d22b413bd7e3,8648b5e2-4031-4f76-8fc6-9d089cd80f4c,2024-07-18 16:12:08,1994.06,JPY,withdrawal,online,Potter-Holmes,Electronics,CANADA,Parrishview,False
+cd64d526-93b8-4895-b485-6068556c24ab,2dc63f57-a693-439f-869f-91c217170f0f,2023-12-28 19:54:10,1995.01,GBP,deposit,online,Smith-Mcclure,Electronics,IND,Brendashire,False
+981f0599-1606-420a-ad36-f24f038f9fb6,647f53f4-9409-4f05-955e-396bf801f9ce,2023-03-03 20:24:27,313.31,USD,deposit,ATM,Baker-Howard,Electronics,Germany,South Loganland,False
+641be2c9-73ad-4d93-bd7b-cc57becdfe17,3da06c59-07ba-4008-bfd0-0827c915300b,2023-06-23 00:08:06,1055.69,EUR,purchase,ATM,Davis PLC,entertainment,UK,New Paulmouth,False
+5e2a8111-38e2-4bc6-806e-b1b631d4761b,a4efabc0-7b18-4432-8350-5ba715a533d1,2023-12-11 23:21:41,358.08,EUR,deposit,online,Reynolds Group,retail,Germany,Aprilport,False
+ed155877-e51b-415e-9a00-1c033b6d7072,cdecfb69-efa8-4e62-b2b2-8e69e3452fec,2023-01-25 18:27:20,101.58,USD,deposit,in-branch,Wright-Johnson,entertainment,CANADA,Angelahaven,False
+7ae54e1a-5e07-4f2a-ac2e-90f2475c4ae2,d80a6d97-6d26-4c99-a659-97d352a031fe,2023-05-09 10:25:57,763.21,INR,purchase,in-branch,"Cardenas, Miller and Mann",entertainment,CANADA,Lake Victoriafort,False
+bf9fd852-a28a-4244-a6a9-ab5d89b10f3c,771a7eb6-05af-472c-a6d0-82bf6375b01a,2024-02-14 03:34:37,1059.82,JPY,transfer,online,"Jones, Thomas and Smith",utilities,Germany,Kyletown,False
+feccde5e-8a5f-437f-a64f-72723c090820,2dc63f57-a693-439f-869f-91c217170f0f,2023-07-31 09:33:15,1384.35,GBP,deposit,ATM,Campbell LLC,Electronics,Japan,Johnview,False
+98390cdb-0842-4211-b6c4-b5d1504052c0,2a3f7780-47d4-423e-b41c-879b61eaf979,2024-04-28 22:23:58,254.53,INR,purchase,mobile,Smith-Smith,travel,USA,Kennedymouth,False
+02e1f99c-8c97-42ed-ac05-43bf96ff3650,c627fcfd-95ab-416b-bbd5-d9d409ce9c9e,2024-02-10 18:25:47,976.5,JPY,transfer,mobile,Pollard Ltd,groceries,IND,Chadchester,False
+bb7d5d26-6cdd-4533-a2e7-1b03191550ea,917cabf9-add3-4988-844f-4710ef413a90,2023-03-30 20:59:29,1197.02,USD,transfer,online,Garrett Ltd,entertainment,Japan,Brittneychester,False
+da515cc4-0863-4f6e-8fea-5ad9a5c3bafe,ff86d206-502f-495b-80a8-22a7764b2dbd,2022-12-25 02:46:12,1087.54,INR,purchase,mobile,"Jones, Cantu and Garcia",entertainment,Germany,Bakerbury,False
+04655054-c7aa-4913-b695-391e4ed65f37,c24b8599-96c0-4db3-b2d6-a02bfcaa2392,2023-07-14 17:10:30,1865.52,USD,deposit,mobile,Orozco PLC,travel,Germany,Solisburgh,False
+37b3a02b-5730-4565-9241-6b263f955923,818ecc85-81da-4208-9b31-9d0485c6c6dc,2022-10-20 12:14:24,345.55,EUR,withdrawal,ATM,Cooke Group,utilities,UK,South Michaelchester,False
+be9984f9-1a9e-4019-aa7a-9ecd0669985a,1539d33e-69f6-4221-8d2e-f553a27631e9,2024-05-03 23:02:21,1707.5,JPY,purchase,ATM,Marquez-Heath,utilities,Germany,Mooretown,False
+74b01b82-c178-4286-bd96-6dae3d268251,e63f9817-f659-4650-878c-8e2ab413379a,2023-07-15 15:02:46,542.31,JPY,deposit,ATM,Cordova PLC,travel,IND,Clarkfurt,False
+c76fbfb6-673e-4bf6-82e3-84a9b2486ae7,68016744-1691-4ce9-a0d4-f3729f9c923a,2023-07-24 12:35:32,4161.7,USD,purchase,online,Adams Ltd,travel,CANADA,Lake Mark,True
+cd3ea27c-c1eb-45f5-b901-6424b493bcff,683477a3-2c8f-4b3c-965a-aeca678dd836,2022-11-27 11:01:08,1697.73,JPY,deposit,online,Mcdonald and Sons,utilities,Germany,West Kathyborough,False
+9973178e-a37f-4d63-9dc8-7f6bda495fdb,11ed25fd-0376-4f46-bd90-441bb4d92c95,2023-07-02 23:45:30,332.43,EUR,withdrawal,ATM,Cooley PLC,Electronics,Germany,Lake Vickifort,False
+a1241fcc-ce0c-4910-b623-9a617d9fe574,ec01b372-4bb6-4a33-8f9f-fe40b994db4b,2023-11-26 19:41:24,920.92,GBP,withdrawal,ATM,Smith Inc,retail,UK,Jakeland,True
+8fc4e9d9-3710-44fa-85c2-0cd1074dc88b,671d9577-94c7-4bf2-bc56-b2b65e80d46c,2023-05-16 01:26:13,214.24,JPY,withdrawal,online,"Keller, Phillips and Williams",travel,Japan,Jonesfurt,False
+cb36f5eb-6e65-453c-920b-688c6455bd0d,43fc0b87-de94-4fb1-a5d3-51cfc2e4402b,2024-04-24 14:48:30,948.16,USD,purchase,online,Harris-Watson,travel,IND,Port Jessica,False
+004256f8-5bbb-461d-8487-3012ec5301fa,86e60dfe-5fde-4909-8794-9743690fe156,2022-11-09 03:11:27,1109.47,INR,transfer,online,Payne Group,groceries,USA,South Tiffanymouth,False
+78c5c497-c7c2-48fe-a188-2849aad449bc,82e70579-a165-4a3e-b070-b76970b46b07,2023-12-23 06:25:11,736.39,INR,purchase,ATM,"Hughes, Schmitt and Williams",utilities,Japan,Port Tanner,False
+a9b8640d-249d-455c-84f2-b12eea246d5b,86e60dfe-5fde-4909-8794-9743690fe156,2022-11-09 14:54:21,232.53,GBP,deposit,mobile,Wilkinson-Green,groceries,CANADA,Andreaview,False
+449b13bf-d774-412e-aab7-11d94c30859c,66111459-3e76-4e79-b1ae-f2fc936ef40e,2024-07-01 08:39:34,1552.97,EUR,deposit,online,Martin and Sons,utilities,Germany,Port Douglas,False
+b9114f8b-6fdb-4280-9f3d-5242c708a608,5fda7405-3f50-4e39-bd4a-bb7e0155c6f4,2024-05-13 14:16:53,1302.49,EUR,deposit,ATM,"Roberts, Velez and Oconnor",retail,IND,South Jorge,False
+a41251ba-d5c2-44a4-95cd-d4154976681e,bb2659d2-e422-44c1-b06c-810902f0f7bb,2024-05-11 01:58:05,1285.71,JPY,deposit,mobile,Matthews-Warren,travel,USA,East Randy,False
+a6d22fac-1f77-418e-9627-fb29026de807,946aa9c8-496f-4407-be51-b71f3afe9f38,2024-01-30 17:45:31,462.07,EUR,deposit,mobile,"Hale, Molina and Newton",utilities,IND,North Lindsaymouth,False
+e990f93e-ef71-41a1-aa01-da1ff2406899,9113724b-198d-4d04-b340-197e9e6ff6b2,2023-07-07 04:06:38,90.47,INR,withdrawal,mobile,Kline-Ware,retail,USA,East Kristenborough,False
+f0db7816-4d3c-4434-a7ae-7a2423d0c6e2,9785edca-73db-41bc-b2f0-47fa406ec659,2023-09-08 05:50:58,1050.26,EUR,deposit,mobile,"Payne, Turner and Cox",retail,CANADA,Taylorchester,False
+959b44a5-114b-4887-aaa3-21799585ffe1,9fb02bf3-aa6a-416c-a5e5-1fed0f104611,2022-10-08 02:24:24,390.04,INR,deposit,ATM,Griffin-Campbell,groceries,Japan,South Cameronberg,False
+ae41376f-7da1-417c-9947-0b84f6373a36,bbee6dd2-3218-4513-809d-3026101c849e,2024-05-23 06:33:55,56.92,INR,purchase,in-branch,Serrano-Martin,Electronics,Germany,New Ryanbury,False
+8aff4787-d441-4857-b115-5a91a5596e07,3e909f2c-2f08-48e8-aa79-299d6b35ccc4,2023-04-06 22:21:42,1680.59,EUR,withdrawal,online,"Torres, Sanders and Atkins",retail,USA,New Aprilchester,False
+31ee4879-8003-44ef-b1cb-32765af12dc9,68079da9-3dee-4f23-91a1-a7a183a3d67b,2024-07-16 11:50:10,273.19,INR,withdrawal,in-branch,"Green, Jackson and Taylor",utilities,Japan,Matthewbury,False
+42f86966-5b81-4be9-b635-4b9906faab1b,10c5e066-35bd-4c91-8cd4-2c3c823e0940,2023-06-12 23:15:30,1219.88,INR,transfer,online,Arellano-Jones,travel,UK,Ericaside,False
+3b90795f-2cad-4678-8d87-cbc9f3a52cd6,8ddbfdcb-bd0f-47dd-a231-70250e4477ca,2022-10-31 06:05:15,1475.88,INR,withdrawal,ATM,Douglas and Sons,Electronics,Germany,North Scott,False
+783f85ff-527b-4e62-a3e8-81dfdb401787,37b24890-fe9a-4098-8aff-36bfa3d59a3f,2023-02-04 00:51:46,112.66,USD,transfer,ATM,Henry-Rodriguez,utilities,IND,New Jennifer,False
+a7079ef5-3b55-496f-8810-257b76ec48be,e2b99c06-5928-4d78-83d8-e0e7985cc5f3,2024-05-04 08:23:40,896.44,INR,transfer,mobile,Howe-Hughes,utilities,UK,New Ellen,False
+a2ae78b4-7bd3-4435-89b0-0b1a51ff2ba7,6f0603c8-2590-490b-a398-867ca30a56a7,2023-11-16 11:34:02,880.56,INR,transfer,ATM,Schroeder PLC,entertainment,UK,Shanebury,False
+51153eb5-a982-4d49-8425-d9cf7953683a,1bb23808-6dc8-408c-9437-a6017cfc42e4,2024-06-01 00:32:13,5.68,INR,transfer,in-branch,Jones-Anderson,travel,USA,Christopherside,False
+4f0bb020-bac2-4471-ad79-661195f795dc,14177432-32d6-472f-ab9b-3150dce71555,2023-05-09 07:46:17,298.49,INR,transfer,ATM,Greene Inc,travel,Germany,New Christian,False
+0fa528b0-d6d0-4411-9ca4-12a26b5bcd57,5f0f4ba5-1a96-4caf-a178-8920f634ee7a,2023-10-18 14:21:09,918.23,INR,withdrawal,online,Poole-Johnson,groceries,Japan,Hughesville,False
+bc15d8f8-0ad6-481d-9ad5-50d149717f66,5038ba82-e62c-4804-b818-518c10bae697,2023-11-25 19:04:36,52.47,USD,deposit,in-branch,Hensley-Colon,Electronics,USA,Port Travismouth,False
+551808cd-2517-4482-be40-d6b8b3185c0b,4ff0cf27-f1b3-42fb-b464-a759ea3ddd6c,2023-07-07 13:36:47,367.32,USD,deposit,mobile,Nichols Ltd,entertainment,Japan,Crosbyland,False
+67c4ea7b-1cf8-47aa-9df4-e3bf25138d31,6dc52e2d-d933-4c9b-ad9e-3a9ae841cb1d,2024-02-24 06:09:14,974.16,EUR,withdrawal,in-branch,Moore-Oliver,Electronics,Japan,Cynthiaton,True
+49cd7203-571f-47dd-8fd5-bd22fa57a12d,6849caa1-4049-4231-b97c-e0b09d90d7ef,2022-10-02 06:50:21,1917.27,EUR,transfer,online,Carey Ltd,Electronics,Japan,Port Gabrielle,False
+b9d18299-e289-4f14-91be-7a22d780b607,b5024b55-0ec8-4db4-9b1c-9ddcb73a1804,2024-06-26 05:27:37,145.29,USD,transfer,in-branch,"Bryant, Walters and Jones",travel,Germany,Meganborough,False
+08c00961-91cc-4930-8747-2c1080d07119,e4d1d780-9958-453d-83ea-af962015d8af,2023-01-15 08:36:10,1154.99,INR,transfer,in-branch,Clark-Moon,utilities,Japan,East Michaelport,False
+e6c4418e-2707-42f5-b86e-0549021d8173,89631762-5827-4ef2-bfbf-f5ec0d75022e,2024-05-27 10:56:40,1928.44,INR,transfer,ATM,Williamson-Allen,Electronics,IND,Lake Ginafort,False
+19bd2cbf-3a49-42fe-9f66-90fe03f28483,697fa948-2baa-4410-be3a-9bdb43ccdda8,2024-06-20 17:08:09,1701.49,EUR,transfer,mobile,"Mendoza, Lee and Daugherty",entertainment,Japan,Lake Mark,False
+46ccc76d-bf09-437b-8ef3-f4662f0897c2,1e733c9c-e587-4d2a-8e89-62f5ea127766,2024-06-13 05:51:43,657.2,GBP,purchase,mobile,"Anderson, Perez and Patterson",Electronics,USA,Lake William,False
+5618389f-0c5e-4997-9e38-944ccd04c7db,b68ae53b-3f36-47d8-9706-18f9a0852a1d,2024-03-23 07:45:37,1626.13,USD,purchase,ATM,Ortiz-Morgan,Electronics,Japan,Shahburgh,False
+1114e0a5-8392-428d-a0bc-ef7791eca063,fefc281b-9a0b-40a6-be2f-00d240d4d247,2023-09-21 11:13:36,1217.59,INR,purchase,in-branch,Kidd-Rush,retail,IND,Andreashire,False
+6ec5c75d-b738-46bb-8501-915576045627,6d6b30c4-1a2f-486b-9df3-bec82c7670c9,2024-08-08 03:37:52,1860.14,USD,deposit,online,"Cox, Rodriguez and Roberts",travel,CANADA,Deborahshire,False
+a7991461-10bb-4815-b47d-792d0a9183f5,1ec0d3fb-925e-45f4-a933-c852a43f5121,2023-05-18 06:32:59,1860.55,EUR,purchase,mobile,"Walters, Kennedy and Knight",retail,CANADA,New Jeremiahbury,False
+7488ca02-597b-4f4d-9654-159f9257ed81,2fccf5a6-5896-44f3-b04d-e09bbd67dbd9,2023-08-30 21:38:19,181.45,GBP,purchase,in-branch,"Carpenter, Garcia and Elliott",retail,USA,Millerburgh,False
+58642c12-d5b2-4b80-ac86-b25324cbe0e3,a4a4d2ea-9a75-40a8-8738-a334e74057b5,2023-02-19 13:08:56,116.31,GBP,withdrawal,mobile,Khan-Freeman,retail,USA,Tylerbury,False
+1ad2fa6b-2e2f-4626-8566-3e447309f8b4,53b8bc64-02a2-4577-9574-92c0b68ee786,2023-06-12 20:45:33,758.76,INR,purchase,in-branch,Horn Ltd,utilities,USA,Port Victoriabury,False
+63c1d104-aa61-4cac-b4d2-d1911a148473,317e62ce-ced4-412a-ae8b-f51139095f71,2024-02-06 18:00:35,1389.4,JPY,purchase,online,Soto Group,groceries,CANADA,Danielchester,False
+cfd3fa7d-3c7e-4cc5-96c5-1b28513529b8,b1312188-a293-48cc-a978-1d5b77c03d76,2024-04-22 11:12:13,1455.33,USD,withdrawal,ATM,Jenkins Inc,Electronics,UK,Port Michaelport,False
+93a192b6-b88f-442e-8856-1a09bde73222,e66996a5-75c3-41a9-9b5e-6e6961c0ae2a,2022-12-04 12:17:16,1666.06,INR,deposit,online,"Hutchinson, Welch and Williams",Electronics,CANADA,Bradleyhaven,False
+216d6789-ca10-4ecb-b4ab-0d84db8d268f,6dfcbe77-e50f-4db8-80ec-3f83dae362a6,2023-07-02 21:15:00,1717.02,EUR,withdrawal,mobile,"Cline, Green and Chen",utilities,IND,East Jacob,False
+b4d980d7-1c9e-446a-9673-264e11299865,e59dcab2-2a14-4337-86ab-b96114b4bb51,2024-07-10 04:45:35,1738.47,INR,deposit,online,Melendez-Shields,travel,IND,Hollowaymouth,False
+68313c9a-2d8f-43a2-b970-510e9a53196b,0cadbee6-1d1f-41ed-8245-108d52741f54,2022-09-08 11:01:29,1707.31,EUR,deposit,mobile,Robinson-Wolfe,utilities,IND,Ryanfurt,False
+c5561d07-dd6d-4838-a94d-96bdfad83b28,d26ccc25-76fc-464f-85f8-b52e8fd24c9c,2023-11-11 04:28:32,1163.88,USD,transfer,ATM,"Edwards, Newman and Hartman",retail,CANADA,Floreshaven,False
+e816ebd9-c004-4c0b-81dd-9a98c7e1aa0b,c36b1952-b600-47f3-9034-b15859002220,2023-12-11 08:37:58,815.97,EUR,purchase,online,"Parker, Chen and Singh",entertainment,USA,Mitchelltown,False
+358efe66-f454-4197-9a7b-134e567904f3,1f2d2cff-5fe6-41f6-8628-0d5993192d4a,2024-07-14 21:49:42,1732.02,GBP,transfer,ATM,"Jones, Sharp and Marshall",entertainment,UK,Watsonview,False
+fa7452b7-6de0-4cc1-9bf9-61735d7449cd,9df9bd00-d3cc-4e47-a549-7bf6b9bc15c1,2024-05-16 09:09:38,1021.81,INR,purchase,ATM,"Harris, Jenkins and Christensen",groceries,USA,Jeffreyfort,False
+0abd7326-24f1-434c-8360-ce567d63d763,3887a03f-7686-4a79-8f5b-b84197e65307,2022-12-02 09:31:05,1657.89,JPY,withdrawal,in-branch,Williams-Jefferson,utilities,Japan,Thomasborough,False
+63be2907-d18a-4b8c-92b3-1f2e03bb1060,29b4da39-b15e-493d-a256-8f0a113f561f,2024-02-05 15:38:49,1708.75,INR,withdrawal,ATM,"Johnson, Ross and Miller",utilities,UK,Roberthaven,False
+6e893076-316d-42a0-bedb-17e967ffea16,29721025-5e35-480f-a7b2-71bf43fd6cdb,2023-07-07 14:06:57,1102.47,INR,purchase,mobile,"Patel, Garrison and Jenkins",retail,CANADA,Wolfefurt,False
+d5b8a9a1-7f58-49c1-919d-8b7d40c68894,a23b4bfa-0604-4351-9a72-6b2fc1cbda2b,2023-08-13 10:36:51,1404.29,JPY,transfer,online,Mccann PLC,entertainment,UK,Mitchellburgh,False
+b57ef854-6f68-4a78-9f0a-cdd0581d5404,1f61605a-8958-4acf-8702-e479528d02fe,2023-12-23 11:44:29,1560.53,EUR,deposit,online,Rodgers-Gonzalez,groceries,CANADA,Hickmanside,False
+c267cf44-ba49-4f0a-a5ab-aef56160dc59,818ecc85-81da-4208-9b31-9d0485c6c6dc,2023-03-09 02:40:46,750.16,USD,transfer,ATM,"Rivas, Robertson and Gordon",groceries,USA,West Robertobury,True
+3ad25bce-857a-497e-b413-104fd7d365ae,0e77988f-9a6a-4afb-b086-b815370f153b,2023-06-24 14:12:58,435.22,GBP,purchase,ATM,Morris-Powell,groceries,UK,East Amandamouth,False
+fa989fa0-9674-47fe-9f0f-9a8ae78c3b13,7054649c-1989-4887-9b5f-e6717ffb5f81,2022-10-26 07:07:52,78.45,INR,withdrawal,in-branch,Robinson-Reyes,utilities,Japan,Wrightchester,False
+fa579395-95b0-410b-a698-557c393c34c2,f2045279-f614-4daa-83b7-4e122f691b60,2024-03-21 22:36:10,56.37,JPY,deposit,online,Lopez-Silva,Electronics,Japan,Davidport,False
+40bbfa53-4cdd-41bd-b4ac-d3d75371f52c,3fd60eea-b1b2-45f0-90ae-3335a1ceb91b,2024-01-16 14:03:03,1960.67,JPY,transfer,in-branch,Singleton-Hampton,retail,USA,West Ambermouth,False
+ab53503c-d068-4f6e-bd40-8a30b8ff21c6,7495eb53-e0c1-4995-97ba-fed91f237e99,2023-02-05 09:37:45,1581.6,GBP,deposit,in-branch,Pearson-Berry,travel,IND,East Meghanfort,False
+bd3345b2-e181-4bb3-be9e-dab9e7911fa1,b695d07c-61e8-4a58-9b7a-b9c0defdeee7,2024-04-21 21:32:26,361.49,GBP,withdrawal,in-branch,"Jones, Armstrong and Hart",Electronics,Germany,Bestland,False
+1b80a567-a44e-4241-8993-1e85e385712a,c2c14d81-6b3d-40a3-83a5-721d839920ba,2023-10-16 16:46:50,391.81,USD,purchase,ATM,Bender-Howard,Electronics,CANADA,New Tinafurt,False
+55fd5774-919a-4ad9-89b8-dd5450c37d95,96ee5453-896c-4050-ae47-9a69f361044f,2023-12-12 15:00:55,668.37,INR,purchase,in-branch,Peterson LLC,groceries,CANADA,Hollyhaven,False
+d368aa54-b2c6-431c-b891-5c78381a3e52,460da795-88f0-4db1-8480-55e050f8b03e,2024-02-12 05:38:30,1020.71,JPY,withdrawal,ATM,"Maynard, White and Bates",groceries,UK,East Teresa,False
+331e4fad-2f0c-4028-a382-2e5cff93fabd,734b4291-62d9-4d57-9e7e-01aeaa2535ed,2023-01-28 18:18:43,1217.28,JPY,deposit,online,"Gonzalez, Orr and Meyers",travel,UK,Lake Amanda,False
+4aef4dd8-eed9-4eeb-ac78-0dfd1719512f,4ec0e10c-67a4-4a89-840b-16ff75682e24,2022-11-23 00:41:43,1902.82,INR,withdrawal,mobile,Nichols-Arnold,entertainment,Japan,Mcclainside,False
+b5d060cb-f908-408d-977c-57e1c2ac4b15,269d7c67-9016-45f4-9d1e-0102263a5704,2022-10-28 10:55:06,1760.96,JPY,purchase,ATM,Dominguez LLC,retail,UK,Erikaburgh,False
+7d30d7b3-bf68-49c6-9f21-646ff5787504,2fefb6bf-bc7a-4437-ace5-6955e23210de,2022-10-18 02:41:28,1614.12,EUR,withdrawal,ATM,"Rivera, Odonnell and Mcmahon",travel,Germany,South Carmenborough,False
+fa82bf46-94c0-4f68-960c-bca4d5d389e6,b90cbac4-f99a-4e09-b218-8a899eccc382,2024-05-23 05:58:19,1783.3,USD,deposit,online,"Mccann, Davidson and Jones",retail,CANADA,Erikafort,False
+53cc47a4-94ea-49bc-9528-271c29153d57,821df60f-4f57-4961-b699-f729fda73bb3,2024-06-01 04:40:51,1784.11,USD,purchase,in-branch,Daniels and Sons,Electronics,CANADA,Rachelport,False
+a8aae8a3-f77c-4c25-b72c-553fffc1a4f2,0685dfd7-29c3-4494-a929-a0e9fa6ea3f3,2023-12-16 00:39:24,1231.04,USD,purchase,ATM,Harrison LLC,travel,UK,New Philipborough,False
+e8e0ff77-4265-47c2-a1a0-97bb21ad06d9,4e9a458a-f2fd-4e82-8f3d-34712896635e,2024-04-07 09:08:42,488.84,EUR,withdrawal,ATM,Jenkins-Kline,entertainment,USA,Nicoleview,False
+e8f2aaa3-d223-4921-b2ce-d4636c97eced,255b07bb-c52c-4377-8b07-9a5a0c7ce687,2023-05-10 23:43:32,993.89,INR,withdrawal,in-branch,"Evans, Zamora and Gibson",entertainment,CANADA,Fredfort,True
+ab2b5adc-9769-4bed-a28b-1f4d157ba668,8887b346-90f1-441a-9308-5c6c5254a6b3,2023-01-01 08:54:11,1820.16,USD,deposit,ATM,"Wu, Mathews and Reed",Electronics,Germany,Hughesburgh,False
+fefeda79-a826-4709-9322-473e00e0d7f5,dad16236-9a37-4089-a074-0bbc965e992d,2023-06-23 12:34:15,1743.89,USD,purchase,online,Kennedy Ltd,groceries,UK,Stephanieview,False
+a3981bad-074f-4bd0-b904-8747e02b7e4e,b2dc3c5f-68c3-4bb0-95d6-387100d65973,2023-11-30 13:26:41,128.66,USD,purchase,in-branch,Meyers and Sons,Electronics,Germany,Victoriaport,False
+e45b25c4-9120-4a63-9d24-58f8b841aa2d,f78ce2b4-3f82-4630-8ff9-f81b8d3ac5ef,2024-07-18 21:20:59,379.32,EUR,deposit,in-branch,Johnson Inc,retail,Germany,South Jordan,False
+28762c85-8807-454e-b149-ed65bf482864,b2423a58-30cb-4f0f-a717-9f608a3c2eb2,2023-12-31 20:59:54,506.66,JPY,deposit,mobile,Molina Group,utilities,Germany,Rileymouth,False
+0ceb579d-b462-45a4-9418-e7566e519b2f,cb68f7bb-762c-4348-a211-99bcfb4518be,2023-03-31 09:40:10,143.63,GBP,withdrawal,ATM,"Anderson, Butler and Yu",Electronics,UK,New Jamesville,False
+a124dc9a-1546-4faa-9f42-39b39fdb0eae,dcd6bbcf-98a6-4667-be48-a30b77809269,2023-06-02 16:44:03,1940.78,INR,withdrawal,in-branch,Little Group,groceries,CANADA,West Elijah,False
+07651011-58b4-4a09-ada5-4e3836997076,fb276102-8129-4ee6-8ebd-d7af62c2a21b,2023-10-03 03:50:44,1266.83,INR,withdrawal,ATM,Harris-Hamilton,entertainment,CANADA,Marystad,False
+94859d2a-a73a-473c-beb2-14940fdc25c7,0d3571dd-01e0-49bd-9df1-a3f0860ae023,2023-12-13 07:32:12,656.2,GBP,deposit,ATM,"Watts, Mcdowell and Brown",utilities,UK,West Stacy,False
+7b6eb004-aa9f-487f-8592-07010852c242,6d6b30c4-1a2f-486b-9df3-bec82c7670c9,2022-12-08 08:59:13,510.37,JPY,withdrawal,in-branch,Barton Inc,entertainment,USA,North Donnahaven,False
+659700c7-ab7c-4c62-bcf3-3eac1dacde31,e4d1d780-9958-453d-83ea-af962015d8af,2023-02-15 11:51:01,1159.11,INR,transfer,online,Gonzalez and Sons,retail,Germany,South Allisontown,False
+9b3266fc-82c9-47af-af26-4565612eaf04,419f1092-95a8-4bfd-8dc5-240482d4f624,2023-04-13 11:40:15,119.91,JPY,deposit,online,"Brown, Newman and Livingston",travel,Japan,East Nicoleview,False
+39130685-d839-40da-8eb3-63b28ea50e5d,60dabe2e-0a38-445b-95df-7554c5f6e5f0,2024-06-21 12:46:56,830.31,USD,withdrawal,ATM,Dougherty-Santiago,entertainment,USA,Paigefurt,False
+661de7ef-b03f-4a2a-a290-6555e1c64a27,120ae87c-3e56-4fa4-81cf-0562794f217c,2024-07-28 02:03:23,902.13,JPY,purchase,online,Robertson-Patterson,travel,USA,Shannontown,False
+ba2d06ac-7e52-4115-8ae9-67c26678ddfa,c801cafd-f5d3-4f29-86d7-2cbaadeb443a,2024-07-12 07:04:42,1603.24,EUR,transfer,online,Hernandez-Hill,travel,UK,Jennifermouth,False
+c618e7c5-f7c5-4fb3-a211-d6284372a628,5a8ac77d-71c9-40f2-89fe-1656e8ecfbb3,2023-10-27 04:18:12,1574.88,JPY,purchase,online,Johnston and Sons,travel,UK,Mezashire,False
+09466da8-1733-45ac-83ad-2847f678c9b1,dca2920d-e127-4142-b32a-e4eecbf0ac40,2024-06-06 09:35:28,913.94,EUR,transfer,online,"Pierce, Phelps and Crawford",travel,CANADA,West Ashleyfurt,False
+f40d4e9b-e665-4c50-b8d7-1fe9721b3d36,ed2432c5-36d6-4690-8f8a-36c7a37515e7,2023-11-25 15:13:54,331.33,USD,purchase,mobile,Sanchez-Butler,Electronics,IND,Martinezberg,False
+aa2319c0-1fae-4706-bac3-e6e1f0322a70,ed096211-8b0c-4326-8a0a-707392b83f0f,2022-11-01 15:14:05,1169.13,JPY,purchase,in-branch,George-Robinson,retail,CANADA,Masontown,False
+8c6aa792-e5c7-4763-9f0d-5a1090f872bb,0adc77d0-967c-4150-9290-75bb55cc4b76,2023-06-19 19:18:27,1901.21,JPY,deposit,in-branch,Bonilla-Morgan,entertainment,USA,South Angelaville,False
+2eda4f70-3791-49ad-92a5-e2840ac6c449,ce8d5372-4dcd-4bde-b0a7-bc01ca994fcc,2024-04-18 12:55:18,325.52,USD,deposit,in-branch,"Rowe, Campos and Delgado",entertainment,USA,Williamsview,False
+1a50e5af-1714-49dc-9729-99949b722304,1f2d2cff-5fe6-41f6-8628-0d5993192d4a,2023-06-17 12:41:12,826.48,EUR,deposit,ATM,Colon-West,groceries,USA,South Johnmouth,False
+3ad1ad2e-ebfb-4387-9570-d9ec1ee7aefa,6d6b30c4-1a2f-486b-9df3-bec82c7670c9,2022-09-13 00:27:40,707.81,USD,purchase,ATM,"Flores, Hernandez and Baker",groceries,Japan,New Katrina,False
+082e31e1-5d23-4488-9609-de278c3a7928,1254cca3-97a4-4cc7-8fe5-e32c37243184,2022-10-12 00:16:20,1362.65,INR,transfer,ATM,Sanchez LLC,groceries,UK,Adkinston,False
+85dee713-f25a-446f-9914-2b195aedd7af,3ccbfd38-9370-4a62-941f-4b261d2f8355,2023-05-06 14:38:34,375.81,GBP,withdrawal,in-branch,White-Schmidt,entertainment,Japan,Davidton,False
+50ad854f-f248-44dd-a962-c4229d048dd8,5f7fa65b-40e5-4145-a688-0e884b0dde36,2023-11-14 16:32:39,1908.57,GBP,deposit,mobile,Quinn-Johnson,entertainment,IND,Pamelaland,False
+a82484f1-61fc-4e6f-a16b-799c32120e70,3d9cf937-6cff-43f7-a79b-b0f2820eacf0,2024-06-21 14:14:28,1209.38,JPY,purchase,in-branch,"Delgado, Leon and Gibbs",retail,IND,Lake Gregory,False
+b7a4ca5e-d594-43a9-bb4c-381640c48deb,22dc6917-c1cc-4287-a1ee-d6bba01b85fc,2023-09-23 11:01:22,1058.21,INR,transfer,in-branch,"Harper, Keller and Smith",entertainment,UK,Lake Bob,False
+a5988d90-ffd3-47a6-8e12-0432f0f5e103,dca2920d-e127-4142-b32a-e4eecbf0ac40,2024-03-23 13:09:59,432.09,USD,purchase,mobile,Beasley Group,Electronics,UK,East Ryanport,False
+b9cc95f8-9ee6-453d-910b-0fe83c0de433,0acf3c0f-b235-4902-9a34-ecb84c6b6a63,2023-06-28 23:14:05,1115.24,EUR,transfer,in-branch,"Harris, Savage and Miles",retail,CANADA,North Kristinafurt,False
+06a3c1dc-202c-4758-90c6-c61d0af54714,3aacde44-cc3c-4463-8ad8-b46cb87b0d32,2023-08-05 23:18:19,466.47,INR,withdrawal,mobile,"Torres, Woods and Zuniga",utilities,Germany,North Cherylville,False
+0090571f-6ebd-4622-b92e-ecfacee16dba,abb64ed9-77cd-4570-aee4-5bc64a200de6,2024-05-03 13:46:03,1159.92,EUR,deposit,mobile,West-Lopez,retail,IND,Charlesside,False
+a4c6545a-b07b-4185-b32f-77c7b8a826d2,af0ba4e1-cff6-4bbf-ac63-047fc960fbd9,2023-08-07 00:23:30,1448.12,EUR,deposit,in-branch,Eaton Ltd,entertainment,Germany,South Cassandraview,False
+13567610-2a4c-4d3d-9e03-c7c724687a62,ea57ccab-5723-4f2d-be68-6dfc8c12e081,2023-04-21 07:44:25,1288.54,EUR,deposit,mobile,"Garcia, Ortiz and Nelson",Electronics,USA,West Cynthia,False
+0342239a-4bad-45a2-95d8-c5feb5d56b63,a6715533-d405-4d42-86d9-9fa4cdda7957,2022-11-15 12:38:05,531.52,JPY,purchase,in-branch,"Hinton, Kaiser and Sanchez",Electronics,IND,West Gerald,False
+7eedce6a-0aaf-420e-857b-0f0a7f64c9d2,310dc5d9-4ba7-49d4-b15c-da4fc3b583e5,2024-01-17 12:26:13,89.72,GBP,purchase,mobile,"Davis, Spencer and Blackwell",retail,IND,West Dianeport,False
+5b032180-929d-494b-bb39-6562e22c4fc9,afbddaae-0583-40ce-8ffc-fee2e47e001f,2022-08-23 20:01:19,1536.51,JPY,deposit,online,"Freeman, Edwards and Simmons",utilities,USA,Masontown,False
+c6ac089a-6922-427b-af38-49980b12e1a7,c627fcfd-95ab-416b-bbd5-d9d409ce9c9e,2023-07-27 17:14:40,920.9,EUR,purchase,ATM,"Franklin, Flores and Davis",groceries,UK,Clintonfort,False
+92f29c43-ac52-45c0-8644-e0eb4667f269,2fefb6bf-bc7a-4437-ace5-6955e23210de,2023-03-28 15:03:08,1908.54,EUR,deposit,mobile,"Mills, Drake and Guerrero",groceries,Germany,Rodriguezbury,False
+71e0824b-c370-4f14-9049-6dd6df25ca26,6c7bc36d-c48d-44a4-b31d-feab6bd8675f,2023-12-30 23:55:46,862.28,GBP,transfer,ATM,Cannon LLC,Electronics,Japan,Jacksonfort,False
+1a6161f0-c8d3-4812-b020-dea4d04623ab,aaba652e-52b6-4400-a83c-820f610b3334,2024-05-23 17:16:57,1812.11,USD,withdrawal,online,King-Levine,Electronics,Germany,East Jesseside,False
+178108f0-46ba-46fb-937e-47289ebdc75d,284a0aa3-a452-4eb5-aabf-612f30172ac3,2022-09-23 16:04:06,640.02,INR,purchase,mobile,Richard Inc,Electronics,USA,Port Nathanchester,False
+6c4f3082-1ce1-4fb7-85a8-a8801cd3e0d1,a5fa6c8c-8a6a-428b-b3dc-f56d7616b9b6,2024-01-10 20:04:59,1896.88,EUR,purchase,in-branch,"Trujillo, Rogers and Monroe",retail,UK,Tonyabury,False
+a7526824-5894-4ec8-af78-cab9dca6afef,2294ceb6-f3b6-4c98-98d4-7a5ad2f6d6ce,2023-09-28 02:20:01,3074.2000000000003,GBP,withdrawal,mobile,Figueroa-Vargas,travel,IND,Lake Larry,True
+bb823509-7b7f-4123-8e9a-7ff1f00c03b2,88ace6c3-33fc-4959-99bf-73dad28e4e56,2024-05-27 04:45:59,635.48,JPY,withdrawal,online,Bennett Inc,retail,Germany,Lake Kurt,False
+27f8463b-16f5-4ebf-9b55-c040cbe35c3c,d573922a-50ea-4121-aa4c-3e914caae73b,2023-04-19 04:33:01,977.16,GBP,deposit,online,Kelly-Davidson,Electronics,UK,Danaview,False
+7a8e7bc2-d028-431d-98fe-373f9d2818c3,23451812-6ddf-49cf-87f4-53e63c574d61,2024-07-23 01:56:30,1110.09,USD,deposit,ATM,Lindsey-Ross,retail,UK,New David,False
+11f41ddd-21c0-48bc-9142-998f7eca32f7,7adde0bc-e771-4eea-9a6f-205700cccb9e,2023-08-03 23:16:12,1220.56,GBP,transfer,in-branch,"Morris, Mitchell and Lawson",retail,IND,Campbellfort,False
+41a9519b-8f69-465e-9006-e0737adc871d,70cfa227-bc5f-46a3-a92e-7483b17c0afd,2024-02-13 03:17:33,1612.63,EUR,purchase,in-branch,"Bridges, Hawkins and Bray",Electronics,USA,North Jamesfort,False
+a7f7fd90-9636-42af-8fba-1e22f876f6ec,916eb0c3-8da1-4219-83ff-2d36d784f74a,2024-07-22 10:11:40,161.04,GBP,withdrawal,mobile,Wilson-Lozano,travel,CANADA,Craneshire,False
+856c597b-8cc4-4f82-a82e-256eab23cced,d54cdcf3-dcef-456e-95fd-5332e8c0cbc6,2023-03-09 03:32:51,10595.599999999999,USD,purchase,online,Guerrero Ltd,entertainment,CANADA,South Derrickbury,True
+edc2af56-b889-4bb2-9176-dd0317e01c4b,2aae41c4-c01b-45af-9318-6fafef364c30,2022-11-16 21:06:06,660.69,INR,withdrawal,ATM,Mcdonald Inc,utilities,CANADA,Cameronport,False
+fa972abe-fc9b-440a-bcec-ed616adbf1f2,483a1c12-c6b0-4133-8a05-afb3eea81aab,2023-12-27 15:32:28,1919.45,GBP,purchase,ATM,"Myers, Alvarado and Mendez",travel,USA,Moralesport,True
+2dcd9ab8-5dd4-44c1-8eff-cc98149ee83b,def043e2-6466-43bd-a2b0-9d1182ae6137,2023-12-03 04:27:12,215.97,USD,withdrawal,ATM,"Hubbard, Miller and Collier",travel,USA,West Ryanchester,False
+ddd14efc-5a3b-42c3-a00d-a6499e93b5ad,785fc070-46a4-4e4f-88de-21dc0c1f8282,2022-11-06 22:54:21,1088.7,USD,transfer,mobile,"Nunez, Martin and Brown",utilities,Germany,Tiffanyfort,False
+129a464f-75e3-48f9-8471-ac5ff6bf89d7,0e77988f-9a6a-4afb-b086-b815370f153b,2023-12-14 08:50:17,30.89,EUR,deposit,ATM,Thomas Ltd,groceries,CANADA,East Mariamouth,False
+cfd0f437-9593-4570-970b-3b30be6b052e,22dc6917-c1cc-4287-a1ee-d6bba01b85fc,2022-12-30 02:37:19,1420.24,EUR,transfer,mobile,Simpson-Stewart,entertainment,UK,Karenland,False
+b391ca5b-c807-4975-be9b-8c5c1c36ec90,35c8c4e0-4532-4ac7-b249-b7debdb653b0,2024-04-20 03:03:26,1093.9,JPY,purchase,mobile,Bass-Douglas,entertainment,UK,Harristown,False
+2cbdf550-359e-45b8-816a-f96a12365798,fa0d3601-fa00-4449-96a3-83ba24dc1ff7,2023-10-02 08:31:10,1431.72,GBP,transfer,online,Hartman-Hall,groceries,CANADA,Ericburgh,False
+8472d42c-7fd1-42b5-ae9e-a669486c6b3b,0412d14d-a3a9-4f8a-a4d6-690e1fe677e3,2024-03-13 18:43:24,819.36,GBP,withdrawal,online,"Cunningham, Chambers and Jacobs",groceries,CANADA,Jeremyshire,False
+1deffdcf-ef82-49ea-bede-533ed615e5e6,de9f41ff-dbb3-4bde-9116-0a82425da234,2024-07-05 21:39:52,170.59,EUR,purchase,online,Fitzgerald-Curry,entertainment,Germany,North Candace,False
+7e28f68b-f937-4384-933d-146fd783c12c,91018909-f8c7-4b43-888b-2c6e9e8e8e19,2022-09-30 04:59:02,117.62,EUR,deposit,in-branch,Zimmerman PLC,entertainment,USA,New Jameschester,False
+558641ea-00cc-4cb7-9bd5-ccd6dee31b79,8dc9b718-e7f5-4b50-8955-86f1aa4514a6,2023-06-08 09:03:32,756.61,INR,withdrawal,online,"Smith, Velasquez and Jones",retail,Germany,Popeside,False
+f8d833b9-1397-4d1e-bc2a-4659ba13a6a9,d47c1cb9-232b-4c5b-9e56-9eaf85663d32,2024-05-27 19:08:52,1955.91,USD,withdrawal,ATM,Maxwell-Griffin,groceries,USA,Lake Brianchester,False
+f2965ad6-4efd-4807-a05c-c7748ee055a6,ea51f19e-c57a-4a37-bd45-083fca01c1f9,2022-11-04 01:52:33,58.52,EUR,transfer,ATM,Payne-Johnson,entertainment,IND,Joelborough,False
+f13db8dc-f0c1-4bff-bd6e-66d74b9d3266,10d0bdec-9da5-41c6-975f-66fd486576b8,2023-03-10 03:01:22,776.31,GBP,purchase,in-branch,Boyd-Orr,groceries,UK,South Stacey,False
+84e07a7e-3592-4b9e-ae06-9e6a2676a4e9,bdba1ca6-f3f2-4c95-804a-63f59f37c6d0,2023-09-08 19:51:31,134.51,JPY,deposit,ATM,"Day, Hicks and Reed",entertainment,Germany,Lorraineburgh,False
+ee81c323-9818-40ad-950e-43216ab461dc,0f42ef12-2cc8-40ff-afbb-45b59652bfba,2024-01-19 21:42:05,268.46,USD,withdrawal,online,Arnold-Farrell,retail,CANADA,South Kathryn,False
+340f1ddd-02fb-44dd-9db1-954b5f676198,facda844-7bc6-4044-8ec0-2a522ca1a763,2023-07-08 19:16:54,1914.88,INR,deposit,mobile,Bennett-Baxter,travel,Japan,Mendezborough,False
+c41b2d48-252a-4b26-bbf1-36e9493b7a55,95f60c69-1684-4c1a-90d4-8f8f0cedb32b,2022-09-03 11:57:19,636.26,JPY,transfer,online,Thomas-Johnson,groceries,UK,South Hannah,False
+852b4b9e-98aa-4154-bf97-2292651aecd7,ee9ae2f5-e1a6-47bc-94ec-9024fdfd99ce,2023-03-27 17:54:13,155.13,GBP,purchase,ATM,Harris-Morgan,groceries,CANADA,Campbellmouth,True
+19975a23-0201-4986-be4f-c73e26100ee8,ed194a7a-b4b9-4392-800f-cecec7960dce,2023-12-22 22:21:31,1179.49,USD,deposit,in-branch,Washington-Williamson,entertainment,Japan,Lake James,False
+86adc611-d88d-4d0f-837d-a2f86c3f8fbd,2e9e1c85-7274-4354-b823-f4b6a85519b5,2023-08-09 14:16:49,211.95,EUR,deposit,ATM,"Cox, Harmon and Ingram",Electronics,IND,West Shawna,False
+68d75626-5d59-4c56-81ab-16a02e9fce44,6f845f72-aa27-4096-a391-8ada6c8bd50d,2023-01-28 10:21:54,652.83,INR,transfer,in-branch,"Williams, Kim and Nelson",entertainment,Germany,Dianaland,False
+3096d857-c45e-452f-905e-f59de4fad833,f25a5df3-0ae4-43b9-91b9-bd69d813eea9,2024-02-13 08:46:02,529.67,GBP,withdrawal,mobile,Stout-Martinez,travel,UK,Melissaview,False
+b70af805-9b82-4a62-b671-f6188946d058,e5872e4d-b8e7-4ba7-a7b4-fb7cad0c1a38,2023-06-26 20:44:59,284.28,JPY,purchase,ATM,Harris and Sons,entertainment,IND,North Michaelhaven,False
+cb78091a-267c-439e-a7d1-42c21a079d3e,9398db8a-e191-4b07-87c2-31fe837a61c8,2024-03-21 03:10:41,256.47,JPY,transfer,ATM,Nelson LLC,utilities,Germany,Port Sandramouth,False
+a85da70b-8c29-4a3b-8273-db2f4318c552,a3f9015c-d885-433e-8ee7-907eea65225a,2023-04-08 03:04:42,720.72,EUR,deposit,ATM,Jackson-Jackson,entertainment,UK,Gonzalezville,False
+252c54ef-e37e-4966-a7ce-91c35c5bfb8a,f4dbaf45-2fc9-467e-a7e1-b8d1a2d43063,2024-01-08 17:33:32,828.35,JPY,withdrawal,in-branch,"Foster, White and Gilmore",utilities,IND,Loganhaven,False
+67dfb6b5-dffb-4809-bc9e-b3ace9789932,eaa6c2c2-a258-4e09-9906-22ffd2895909,2024-03-13 09:19:52,116.0,JPY,deposit,mobile,Wilson Inc,groceries,CANADA,Melissamouth,True
+97e81fb6-bd06-4664-a406-b804d7de59a9,3e909f2c-2f08-48e8-aa79-299d6b35ccc4,2022-09-02 00:07:19,919.01,USD,purchase,mobile,"Berg, Martin and Davis",entertainment,UK,Stephenberg,False
+d4f6c2a3-cfc9-496a-b675-330541c13f5d,d5880c67-bd9c-47f2-8078-2f32520c709a,2023-12-21 20:38:04,78.71,GBP,deposit,mobile,Stein-Flowers,utilities,USA,Port Michaelshire,False
+5038b051-ba43-4b36-9aee-159e620d3b37,9e8eba5d-4dc0-4b02-834e-620776d9321b,2023-10-14 10:13:08,1364.68,EUR,purchase,online,"Patton, Martin and Johnson",travel,IND,Port Danielmouth,False
+774b7875-508e-47ed-83da-3b3e6d6318e7,af8be361-10a4-4c5e-852e-59e91d24147d,2022-08-18 13:41:58,24.39,EUR,withdrawal,ATM,"Davis, Padilla and Morgan",Electronics,USA,Port Andrewport,False
+72b281e7-4f68-4c25-a7e0-249280837616,d3fb1666-8d75-42fe-aae5-47c525d2b852,2023-01-31 17:12:54,770.6,INR,transfer,mobile,Mcdowell-Mitchell,Electronics,USA,Davidmouth,False
+67982044-7e78-4316-997e-dfeac30f2b2c,2294ceb6-f3b6-4c98-98d4-7a5ad2f6d6ce,2023-06-19 09:22:18,210.87,INR,withdrawal,in-branch,"Stephens, Bates and Gutierrez",utilities,Germany,Lesliechester,False
+9d4725af-4608-499f-be56-5e9933c347a7,6d093fe8-4f25-40a7-ae23-8c9ae7e9e3ec,2022-11-05 19:50:47,577.42,EUR,purchase,online,Tucker-Petty,entertainment,UK,Sarahborough,False
+7bb91182-86ad-4e7e-81ed-8068059af0ce,7ecd0bac-04fd-4d29-a751-b25f828b46ec,2023-07-24 23:54:45,508.93,EUR,transfer,ATM,"Bowen, Davies and Moreno",Electronics,UK,Johnton,False
+fffc19b9-aa3c-48da-988b-c788dfba72df,ebd3a6d7-9253-4b7f-a705-5f9d95cafe7f,2023-04-03 08:58:18,209.21,GBP,deposit,online,Miller and Sons,utilities,IND,Laurenstad,False
+02b1715c-6a63-44ba-ab09-ac55e3e04970,02cefc3e-e2b0-4769-a060-08f6724cdace,2024-07-25 05:33:08,304.56,EUR,purchase,online,Johnson-Koch,travel,IND,Sanchezview,False
+132bc87f-80a8-4f3b-b641-17d8d6b1e50b,1c4fa53e-38c8-48df-8f2d-bd24566d2bcf,2024-06-09 11:22:50,1662.55,EUR,deposit,online,Martin PLC,retail,Germany,Jamesmouth,False
+b5090d7a-312e-454c-92a8-75aee71b40ba,d4727bd1-713a-4db3-bc8d-475c754d6113,2022-11-21 01:52:15,415.5,GBP,purchase,online,"Hill, Davis and Molina",travel,UK,Jenniferfort,False
+d9525c0c-09e1-48a8-a2f6-2f14c31ca8dc,1fa84d7b-0c71-4597-b52e-e99bfeec4158,2023-01-16 01:52:09,421.66,JPY,deposit,ATM,Jenkins Ltd,utilities,CANADA,Smithburgh,False
+304527bd-5da7-4092-a9c1-5d2386e4c1fc,fb276102-8129-4ee6-8ebd-d7af62c2a21b,2023-01-15 02:40:34,1387.27,USD,purchase,online,"Anderson, Krueger and Miller",travel,UK,Christensenland,False
+5176c1fd-3efd-438d-824f-2192fb81a442,ee9ae2f5-e1a6-47bc-94ec-9024fdfd99ce,2023-12-02 09:19:06,864.4,GBP,purchase,in-branch,Logan-Velez,groceries,Japan,Lawrenceland,False
+32f5ad9c-35a7-4e75-9b85-46e23ae52a9d,64773df2-8dda-43d5-9cc8-1484d6233f41,2023-08-01 16:57:35,1450.07,EUR,purchase,ATM,Roberts Inc,utilities,USA,Hornestad,False
+d2010885-c0e9-47f4-bc8b-520b715c849c,ef4d18a6-61b2-454c-9409-84e2bb1271d3,2022-11-20 22:21:51,191.46,JPY,deposit,in-branch,Jones-Rowland,groceries,Germany,Blevinsburgh,False
+fae3af73-9003-4622-9529-e60b28aac7f6,b68ea058-ae1c-4a06-a223-f38f3facf546,2024-05-23 10:04:56,1042.48,EUR,purchase,mobile,Franklin-Harris,Electronics,USA,West Jeffrey,False
+68cf04af-cf68-447f-bdb4-b8c3f00231a6,4224390a-177e-47aa-9396-e808d008e23a,2022-11-23 13:16:47,580.12,USD,deposit,online,Jimenez-Mitchell,travel,Japan,Loweryview,False
+8e0776fc-c060-46c4-9aa3-deed0c95581d,e19d1ec8-e8e8-4a08-8044-4f666a6878d3,2023-09-02 03:44:45,377.66,INR,transfer,in-branch,"Gregory, Golden and Johnson",travel,Japan,South Matthewtown,False
+1ffadb73-811d-4bdf-85f0-895c41087ff2,91fe9ac3-c2fc-4ef4-a25c-e33b235001bb,2024-05-24 21:04:50,42.62,JPY,deposit,in-branch,Clark-Collier,Electronics,Germany,Shelbystad,False
+1f3f5250-39d1-4627-8159-4401095a5a7a,17d7374f-335e-4909-84ac-f15c4dd05d9a,2023-04-01 11:44:51,318.81,EUR,withdrawal,online,Stevenson PLC,Electronics,Germany,New Jason,False
+8662bea7-a6d7-4283-a09d-509760f25256,abe8d0a5-16b2-41cc-92a3-973b0d1758bb,2024-06-01 07:11:25,812.86,USD,withdrawal,ATM,"Wagner, Chavez and Bell",Electronics,Germany,New Peterside,False
+f1aa12b3-c451-4aae-9de2-2f6174d6a273,0eba3c09-9111-47d1-bc83-f1e61204f935,2023-05-29 04:02:05,835.82,INR,transfer,in-branch,Richardson LLC,retail,USA,South Keithmouth,False
+87db5765-1a0c-4c56-ad99-8edfc40c8d33,16891a1a-5004-45b9-9d2a-b1480d6b5ae3,2023-11-14 17:00:27,1745.37,EUR,withdrawal,online,Park-Brown,entertainment,USA,Cruzview,False
+031b1351-2b20-4af7-a542-1d5a33769d5a,bc3f0861-1fe7-41ac-a702-f16fb703343b,2023-09-08 00:38:37,1099.14,USD,deposit,ATM,"Bennett, Barnes and Hill",entertainment,Japan,Carpenterport,False
+7e945906-12e6-4d93-bc90-d8dd0387608b,27a8a85a-30ad-4802-8cc2-0dfc1f858627,2023-04-18 07:20:49,1740.48,EUR,withdrawal,in-branch,Gonzales-Brown,Electronics,USA,Ericmouth,False
+78b0074b-b7b4-44d6-935b-c72e0ff25b13,539941af-6683-4433-888b-3817bd2e7b19,2022-08-28 20:50:36,897.06,USD,transfer,in-branch,Booth-Thompson,groceries,Japan,Hinestown,False
+549510d6-e3af-4c46-a824-78b4ea8db7f3,e84ffde5-cefc-4fd2-8998-50cee0ec8487,2024-08-05 18:39:29,853.35,USD,withdrawal,ATM,"Gutierrez, Cole and Wagner",travel,Germany,Matthewstad,False
+92e78907-acb0-4a23-a5c0-0fc2eccbf2bc,67bc2b51-a316-4cb7-ae6c-df377a7ad5b6,2022-10-06 05:34:22,561.12,GBP,deposit,in-branch,Garcia and Sons,Electronics,USA,West Veronica,False
+7f4450b0-6e00-48c1-9e79-25dc1b1f10be,7de39792-d931-4f48-80dd-9403225f6887,2022-12-08 07:32:57,1806.57,GBP,deposit,ATM,"Kelley, Higgins and Robinson",groceries,USA,Port Lisamouth,False
+1ff89990-771c-4de9-91fc-ae2bd2a0c4f8,41cb877c-9813-44fd-bec9-ed7fba675137,2023-11-13 15:27:36,1698.72,GBP,withdrawal,mobile,Mccoy Inc,entertainment,Japan,South Breannachester,False
+24cb49f0-4ce6-4886-b78e-5d3cf4753c7b,4575e39f-1a8c-49ba-82bd-79579a981c1b,2023-12-29 05:30:21,1474.02,EUR,transfer,mobile,Frazier Inc,entertainment,CANADA,New Nancyside,False
+b0ba6e1f-5a17-4cd0-9b67-f267faf2fe68,c7d161c1-19a6-4e05-9723-1b0c7f15f8d1,2023-10-03 01:36:44,1439.34,USD,purchase,in-branch,"Clark, Avila and Mcgee",entertainment,UK,Millerport,False
+a2f62635-3b76-4735-bcfd-f6f6dc0cd841,9fb02bf3-aa6a-416c-a5e5-1fed0f104611,2024-01-21 11:13:02,1795.5,JPY,transfer,online,Morales-Hayden,Electronics,Japan,Jacksonborough,False
+9b9ca96c-8eb3-47ac-8542-a397e0660766,f78ce2b4-3f82-4630-8ff9-f81b8d3ac5ef,2024-06-25 22:01:42,1383.19,USD,purchase,in-branch,Martinez-Schmidt,Electronics,IND,New Reginald,False
+68329d74-5402-4d61-b0d4-f8ada24e6781,52c1895c-671a-4596-8269-b1b94efec2fb,2024-05-07 00:42:01,1330.38,JPY,purchase,online,Martin-Cooley,groceries,UK,Davidport,False
+235dd811-9b5f-4f92-9dbe-7aea7dfcc12a,fcb09b8a-2a09-4586-bc69-d901cd5d1a3a,2022-08-24 10:34:17,816.98,USD,transfer,mobile,"Logan, Stewart and Mckee",entertainment,USA,Tammyport,False
+07516954-e52e-4a1d-81b8-66aa7effb5f0,170894e0-36e8-4c67-b8e0-8544be7d53ad,2022-11-18 11:51:11,12089.5,EUR,withdrawal,online,Day-Lopez,groceries,USA,Lake Ralphstad,True
+09aa9163-9ecf-4720-b00d-017e4750b060,8d27b7fc-95ba-46a3-8bb9-d16bae858ed4,2023-01-11 01:28:15,1479.18,INR,transfer,mobile,"Lynch, Garcia and Elliott",Electronics,CANADA,Jeffreyton,False
+b625607f-3f60-4879-b1ba-dadb4ddd34f9,3e909f2c-2f08-48e8-aa79-299d6b35ccc4,2022-12-16 19:33:04,473.58,INR,purchase,online,"Dunn, Mcdonald and Johnson",Electronics,Germany,Michaelborough,False
+7028cd0c-190c-4be4-884d-e4c68c22d543,c6622765-ff46-48a7-97f9-b106635a6d5d,2023-03-18 00:56:30,1490.94,EUR,transfer,in-branch,Moon Group,retail,CANADA,Delgadomouth,False
+929f3722-7c0e-4211-856d-eae33ed0b4cc,5f31480c-76e0-4435-82a6-b035c9a87740,2023-07-19 13:40:44,1280.43,GBP,purchase,online,Peterson-Howard,groceries,Germany,Taylorport,False
+a6b29d58-2ed3-41e3-965a-2b08a85f0cf6,b89e3ec4-7cc1-4ecc-ba5f-99e257baa7f7,2022-11-01 19:30:48,1676.83,INR,deposit,online,Marshall-Blevins,utilities,Germany,Lake Jamie,False
+f8191339-81f1-43ec-82a3-ff588cb699db,d47c1cb9-232b-4c5b-9e56-9eaf85663d32,2024-01-10 07:33:27,118.83,JPY,purchase,online,"Dawson, Mathis and Molina",Electronics,Japan,Ricemouth,False
+952e9f53-6d2f-4c05-998d-23c527796aa1,6e3be690-faee-41f7-8d70-4f34b46e42f9,2023-01-10 10:15:35,382.76,EUR,withdrawal,ATM,Thomas Inc,retail,Germany,Roachhaven,False
+8c1a4bd3-a444-43b1-a249-1755be9b4fa4,77868dba-25f3-4573-a0d8-8bf084ff3a87,2023-07-03 22:25:17,1316.81,USD,transfer,ATM,"Johnson, Juarez and Schwartz",utilities,IND,Dixonport,False
+47bfb3e6-2de4-4a27-8f95-8e477cfd2e2e,753af28b-7ffe-462e-8d73-8c60a8598297,2022-12-09 09:29:24,1111.92,USD,withdrawal,online,Newman-Combs,travel,CANADA,Brookefurt,False
+90c3a671-6096-4acc-98ae-4b5d53fbdfaa,8178921c-a5f3-4249-8855-a07088bd4bb0,2023-10-18 13:20:28,815.22,USD,purchase,mobile,Reed Inc,entertainment,UK,Zimmermanhaven,False
+9181dc9c-8983-4b36-b34a-4dfe13ef153e,a56c5a2d-3372-4cfb-9a41-4ed25af875a8,2024-03-28 22:52:03,1265.39,EUR,deposit,in-branch,Smith-Paul,groceries,UK,Lake Ruthmouth,False
+18f7f420-66b6-4154-b640-067a3a5af9d4,7d96b7ab-f28f-4154-bb97-1ac8bb1fb9fa,2023-05-28 20:41:39,1769.03,JPY,withdrawal,in-branch,Perry-Martinez,groceries,UK,East Sandra,False
+54b9b8bb-306c-499e-894c-f88ded1e09ae,7a818530-233c-4c56-b96b-9f5697148131,2024-01-10 03:34:52,246.22,USD,withdrawal,online,"Brady, Smith and Barker",entertainment,Japan,East Susanland,False
+94190eef-fd0a-4a4b-a0d1-8503fa59ed1c,aae84329-da79-404d-a2fc-e19e05cd1a35,2024-03-22 17:49:52,1831.08,INR,transfer,ATM,"Cole, Perez and Fleming",Electronics,Germany,New Pamelaville,False
+581a9ce8-076e-4712-8e9d-492638718d10,e25dc59c-f0d5-4d71-8fb6-1219fb3ed28f,2023-01-22 13:43:43,1973.77,JPY,transfer,ATM,Scott Group,Electronics,CANADA,East Charlenechester,False
+bca6f5df-4d09-4778-84ac-e9f5e65f8c23,02233ed6-fe95-4dfc-b79f-bddd8c0fcce3,2023-08-14 17:31:44,1503.21,USD,purchase,mobile,Hicks LLC,utilities,CANADA,North Erinland,False
+7fc2cf21-9581-4207-82b6-57e6776c8b18,8a1fa86e-90f2-4a5a-8996-ff849ea71667,2023-05-06 07:21:10,1931.48,USD,deposit,mobile,"Holland, Barnett and Flowers",groceries,CANADA,Amandafort,False
+d46769bf-d41b-4cb4-9e79-fbf45cd0f9f1,753af28b-7ffe-462e-8d73-8c60a8598297,2023-06-20 05:42:42,1144.48,EUR,purchase,mobile,Miller-Cole,Electronics,UK,East Michael,True
+6a688ad7-299b-4cad-a0d2-bd18059fc546,18b67e8a-92f9-4205-ba2a-487583b74f93,2023-05-26 22:11:23,1953.25,JPY,deposit,in-branch,"Moore, Tran and Wagner",retail,USA,East Markville,False
+485d5df8-d939-4aaf-866e-34322e3a65c8,8887b346-90f1-441a-9308-5c6c5254a6b3,2023-03-11 15:29:09,1830.92,GBP,transfer,online,Ingram-Gomez,Electronics,IND,West Melissaborough,False
+eaf85646-06f4-4844-ab46-e76ea350be21,7fef7d91-e9f3-4905-b410-d90ed79d5308,2024-04-06 22:44:51,1226.08,EUR,withdrawal,ATM,"White, Velez and Dorsey",groceries,IND,Wonghaven,False
+c318a270-ed30-4aa1-80ac-8a9d1d6cdbc5,8fef9795-3642-47c9-9a06-3aafb4a96250,2023-01-02 16:22:24,393.19,INR,purchase,ATM,"Cox, Roy and Brewer",utilities,CANADA,North Kathleenfort,False
+2ac10ac2-6513-4fb4-98a5-91321be10f09,d0255380-c1e3-4653-8501-d40950d072f0,2023-01-30 16:51:57,557.79,USD,deposit,in-branch,Randall Inc,retail,UK,Travistown,False
+df21c193-dcbd-496a-bbf0-60fda3a5f3e7,0acf3c0f-b235-4902-9a34-ecb84c6b6a63,2023-08-31 20:54:23,1770.59,EUR,deposit,ATM,Walker Inc,groceries,CANADA,Matthewview,False
+69580c90-7a33-4704-84a2-a71fefeb7aff,5905395c-ee23-480a-8178-21b0edb44c80,2023-03-19 22:01:15,11582.9,INR,deposit,ATM,Reed Ltd,retail,USA,Floresview,True
+cb378b0c-34ea-424d-a08c-2efe6730e02a,c3c9136a-a721-41c7-95be-341cccf90c75,2022-09-22 14:45:32,834.93,JPY,purchase,in-branch,"Carr, Brady and Burgess",Electronics,UK,East Candice,False
+0a074e03-3fce-402a-b702-8e98a1700513,352f59e7-63fa-41c4-a23b-a5a2588bceeb,2022-12-19 10:00:14,764.35,GBP,transfer,in-branch,Diaz-Williams,entertainment,IND,North Toniton,False
+8faacbed-f1b7-4e1b-8c90-4bf6c9a5f50c,726687ce-d1b5-451c-9bdc-1b6dcb36ad2f,2023-01-29 14:45:08,1050.54,EUR,purchase,ATM,"Reid, Ross and Gray",utilities,CANADA,New Chelseaton,False
+90da66ed-77a4-462e-815e-31d95d8c0585,52e73ac5-cf0b-4ee6-9f50-ddc716066f6e,2023-08-01 22:23:46,1874.1,JPY,transfer,ATM,Gomez Ltd,Electronics,IND,East Ryanview,False
+cb2ef45d-3377-4acc-82a3-b669816efcca,76971846-99ed-4001-90b3-bdeb6ff41449,2022-11-15 05:53:00,1188.88,INR,purchase,mobile,"Moore, Mercado and Lewis",Electronics,CANADA,Fowlerstad,False
+90683baa-fdec-496d-a301-ca9958a57847,b2423a58-30cb-4f0f-a717-9f608a3c2eb2,2023-07-16 23:51:29,538.36,INR,purchase,in-branch,"Jackson, Buchanan and Johnson",Electronics,CANADA,New Molly,False
+05fd3dbc-c770-4033-be6c-87c739eee023,4d35fc12-f188-426e-99c9-d6840f70d4ba,2022-08-29 08:55:19,471.38,JPY,withdrawal,online,"Green, Evans and Lynch",travel,IND,Port David,False
+d9626323-8d9a-4f84-8f80-6456faeea046,501e2ebe-9c1c-49ec-8c0e-5d9dd313696c,2023-06-12 00:25:18,12523.699999999999,GBP,deposit,ATM,Fry-Whitney,retail,USA,Port Adam,True
+5eaed4e3-263a-411b-be8b-33f83d77c587,b7d23d0b-62e9-402c-bc3c-3c6de9583680,2023-08-30 08:15:44,1423.06,USD,purchase,ATM,"Davis, Scott and Dean",Electronics,UK,New Markton,False
+78c2a8b9-dec5-413c-9f8a-c112042049d6,4da5f896-574f-4841-9886-4e9bc33e2f37,2024-04-26 08:20:02,325.4,USD,purchase,mobile,"Matthews, Frazier and Simpson",retail,Germany,North Michelle,False
+0443176b-0db5-48ed-a5e4-68c43de08952,9b6c5d01-7089-4c33-9ed6-4547b8bb21a1,2024-08-06 19:28:24,444.98,INR,transfer,online,Aguilar Inc,travel,CANADA,West Joseph,False
+d1c753a8-4e4a-4d87-a577-ede298d5c99b,e63f9817-f659-4650-878c-8e2ab413379a,2024-06-01 02:53:15,1722.97,EUR,purchase,mobile,Jones Group,retail,CANADA,Ginashire,False
+179f230b-c098-40aa-8ae9-c0b7d1645bff,105a8f70-5cb3-4c38-962a-562930cf8efe,2022-10-24 13:27:39,1792.99,EUR,purchase,online,"Burns, Price and Ruiz",entertainment,IND,West Jessicamouth,False
+50d0c642-fde2-4c58-9e2c-6aeedeb3b40e,837e7e41-227e-438b-83ff-c5c185ed4a3d,2023-12-30 09:34:15,470.94,USD,withdrawal,in-branch,Gross-Harris,utilities,Japan,Whiteshire,False
+e9319316-6061-4981-803e-958a88e125d4,4b626bce-727b-494a-a226-e76bff62c616,2022-09-30 07:00:05,1282.36,EUR,transfer,mobile,Ryan Group,Electronics,Germany,Port Johnport,False
+ab71acd6-590d-4be1-9e1d-0c9a62e2e6f1,a4d4c466-e9b4-407e-a3c6-8f1a6f6fb57e,2022-12-11 06:02:00,527.2,JPY,purchase,ATM,"Snyder, Marshall and Brown",retail,USA,Kimberg,False
+d5282c63-77dd-4d60-8dd0-3ae5c0b0c6a9,62610b6c-46a4-473d-be2d-e1981c4f50dc,2022-11-15 14:14:33,1512.41,EUR,purchase,mobile,Browning-Carter,travel,UK,Tonihaven,False
+7c5cffe3-556c-4282-9f3c-053c345198c0,6affd11b-d94e-41c8-b530-84aa42c0bec1,2024-08-02 18:05:30,548.43,GBP,purchase,in-branch,Dalton-Mclaughlin,utilities,Germany,Tylermouth,False
+516f37e3-41de-4d3e-b058-fd87bc8ca2da,45639d82-b1ec-4024-bdb8-ffcc716b9b7f,2022-11-12 15:46:06,1152.14,EUR,withdrawal,in-branch,Jones-Martin,utilities,Germany,South Frankside,False
+01943019-f555-45a7-95e7-7340e5b5ee54,ff90c99d-112d-4b93-ba85-1afb1c36bb61,2024-01-19 13:29:22,1321.48,JPY,purchase,ATM,"Carroll, Williams and Cabrera",retail,CANADA,West Tyler,False
+02190239-9d40-4263-8f2a-b4f3baeb6fc2,cc1a92fa-31f1-42b4-b737-57fd671848d0,2023-02-14 15:32:25,1734.05,JPY,purchase,online,Cardenas Ltd,entertainment,UK,South Amber,False
+2c76956f-839c-4211-a4ad-7f2a1b870e74,959ed24c-38a3-4eae-beac-52682d14a646,2023-05-14 13:59:00,1525.05,EUR,transfer,online,"Reilly, Grant and Harris",Electronics,Japan,Carrollchester,False
+e0b47dc4-4cc1-4431-9201-d1256ead59e0,5b8745c7-dd78-4d39-b0ad-4462ad517c3d,2023-11-07 03:38:05,1125.81,EUR,purchase,online,Valdez-Thompson,Electronics,UK,Reginafurt,True
+a3284594-3a08-4a84-ab3b-39168eefb7e2,af8be361-10a4-4c5e-852e-59e91d24147d,2023-03-11 23:28:43,567.22,INR,purchase,mobile,"Robinson, Jones and Hale",utilities,USA,New Bryantown,False
+1af54907-30a8-4da4-beea-ba9fa9f87987,a1fe0215-acf8-4c14-8905-38ad0e82b1f7,2022-09-27 19:10:18,913.33,USD,deposit,online,Wright PLC,entertainment,UK,East Calebchester,False
+55b653a0-c2cd-434d-acd5-276aefbe4a85,328ac89a-c0de-4c54-9be3-8bf6d1c5c877,2023-04-26 05:26:05,1898.19,USD,withdrawal,mobile,"Burke, Deleon and Herrera",travel,IND,South Tammybury,False
+117bf203-7893-438d-b1aa-3221c57e9577,98a16371-3ad4-40cb-9849-3c569d1a9a65,2023-11-10 03:38:28,1191.05,INR,deposit,ATM,"Roberts, Green and Weaver",travel,USA,East Mark,False
+1ee0d9b2-5431-43d6-84d3-4e69d6a58fb4,d5fab65c-379c-4cbf-8549-56a8c925fa61,2022-12-25 05:03:10,157.33,INR,withdrawal,mobile,Smith LLC,utilities,IND,Brownchester,False
+82dae013-12bc-4094-ac60-0fbee1d6c1de,f8d05210-efb9-44ef-9cd3-5e8e0caa8661,2023-11-05 06:04:40,267.71,USD,withdrawal,in-branch,Rivera-Dickson,entertainment,Germany,East Ashley,False
+6f757c46-70e3-4de8-9a16-76260af2ad6b,2294ceb6-f3b6-4c98-98d4-7a5ad2f6d6ce,2024-05-04 10:03:01,995.43,EUR,purchase,in-branch,"Ward, Lee and Jones",entertainment,UK,Adamschester,False
+a6d2f709-847f-4084-899f-08ba5e61bbbb,355f5038-77f4-430e-9e0e-f385e511c087,2022-10-04 16:01:00,825.5,USD,deposit,mobile,Saunders-Garcia,Electronics,IND,Caseymouth,False
+585326b6-0c64-4cf8-a420-2a2801bb32c5,6dfcbe77-e50f-4db8-80ec-3f83dae362a6,2024-03-11 14:18:13,678.03,EUR,purchase,mobile,"Miller, Watts and Mills",utilities,Germany,New Michellemouth,False
+4fb04cdd-58e8-47be-b522-d50d5818a499,41978831-5701-4f43-bf0d-cf0c54616797,2023-04-02 18:28:09,1591.99,GBP,purchase,online,"Hunt, Walters and Long",utilities,UK,Port Jonland,False
+4820f7fa-5b2a-4dd6-97a8-8caedd4c5bba,419f1092-95a8-4bfd-8dc5-240482d4f624,2023-08-02 10:47:10,1492.75,USD,withdrawal,ATM,Blair-White,travel,UK,Hessberg,False
+52bbe13e-efc0-4c26-a729-b387f9dcfe88,67547e80-a808-4226-b894-38db9807021c,2022-11-02 04:45:59,407.57,EUR,deposit,in-branch,"Chan, Jones and Daniels",retail,USA,Claireberg,True
+b05d984b-78c4-418c-85f0-cf6518cdf012,ebd3a6d7-9253-4b7f-a705-5f9d95cafe7f,2023-11-16 15:41:44,52.9,JPY,purchase,ATM,Stewart Ltd,entertainment,UK,Jonesfurt,True
+a5417892-d85d-41c8-8364-5e9d2c6436c0,bc3f0861-1fe7-41ac-a702-f16fb703343b,2023-06-16 03:14:10,409.06,INR,deposit,in-branch,"York, Romero and Holmes",Electronics,Japan,New Colton,False
+95c993f0-8f27-4c0c-8b8b-d3c75269c7b6,e4ca5aa7-2cdb-4d51-ac5e-07891ce8e848,2023-08-08 21:13:09,431.59,EUR,withdrawal,ATM,Ward-Johnson,utilities,USA,North Lisaview,False
+ea7ff634-159e-4616-b428-030c41197632,b8cd2d26-1c98-408f-8099-03409246706f,2024-02-12 00:53:19,1638.35,INR,withdrawal,ATM,Lopez-Daniel,entertainment,IND,Port Autumnton,False
+4b208128-fa5f-4914-acc1-898755bc44fa,9113724b-198d-4d04-b340-197e9e6ff6b2,2023-08-08 15:56:17,1918.73,GBP,transfer,mobile,Roberts-Strickland,retail,Germany,Hansenton,False
+24c95653-90b5-40c0-a4f3-c6441f876658,9fb02bf3-aa6a-416c-a5e5-1fed0f104611,2023-10-13 16:32:31,13.87,GBP,deposit,online,"French, Dominguez and Fisher",travel,CANADA,Port Meredithbury,False
+54894458-41cb-4c65-8e0a-b438745a3aa0,f2a6c5f2-626c-449e-a2f1-1362ea385748,2024-04-07 14:39:18,1850.41,GBP,withdrawal,ATM,Alvarez-Evans,entertainment,CANADA,Hernandezmouth,False
+5f3e9f1a-e4f2-47f4-8211-fcea2cbb5523,77868dba-25f3-4573-a0d8-8bf084ff3a87,2023-06-12 16:34:51,1017.35,JPY,transfer,in-branch,"Ball, Jackson and Perez",travel,CANADA,Brucemouth,False
+9806479c-216b-41f1-a442-b3cd9d622eba,f228b65a-c3eb-49a6-b25b-8fe1aed09866,2022-10-11 02:05:40,1377.7,INR,transfer,ATM,"Underwood, Barnes and Nash",groceries,UK,Lake Joshua,False
+23ce42d2-b3b8-4822-839e-5bee06890d6f,deea917e-c318-4e86-a77a-9bff8205d260,2023-12-07 22:41:02,23.86,USD,transfer,mobile,"Doyle, Martin and Sullivan",groceries,CANADA,Port Henryville,False
+0e3b9fb6-4478-4f4a-9912-951730792b76,a908d933-94ec-4209-9985-4703e428e9cf,2023-09-08 00:42:22,1727.09,JPY,transfer,online,Adams Ltd,travel,Germany,Garciaborough,False
+b83fbc74-5e38-4442-9e29-669f314f2a48,f8d05210-efb9-44ef-9cd3-5e8e0caa8661,2023-07-04 15:19:41,1961.48,INR,withdrawal,ATM,George-Vance,entertainment,Japan,Duffyton,False
+5c90e4f6-f2bb-4a5d-8fcd-19611be59743,7a818530-233c-4c56-b96b-9f5697148131,2024-01-08 18:58:09,1315.59,USD,deposit,online,Thompson-Hawkins,utilities,Germany,Port Steve,False
+bdff5391-f0a3-4c57-b8ea-ab1b4bcbbd7f,139d0f01-defc-4b05-b500-fdaed776d785,2023-07-04 21:58:57,782.29,JPY,transfer,in-branch,Stone-Todd,utilities,CANADA,East Amanda,False
+0c9d64f3-1305-440c-8deb-2c99cc53209a,37e819e4-c139-4c85-8af7-21977974d4ea,2023-10-04 20:41:38,848.96,JPY,purchase,online,"Sullivan, Shaffer and Miller",groceries,UK,Georgeburgh,False
+f66ad191-a946-4ce8-9508-d7a91f748a98,ac181011-d67b-4e00-90e0-4eb5bdbffa4e,2023-07-20 10:17:24,1737.25,INR,withdrawal,in-branch,Harper Ltd,utilities,Germany,Farmerberg,False
+c5e4191f-28d6-4819-aa74-ee0d8c0fa3c1,0825c721-f4bf-44a7-a60c-e37f27f31d6d,2023-01-16 14:53:18,441.38,USD,withdrawal,ATM,Wright Group,groceries,Germany,South Laurenborough,False
+1509bc98-f208-48b9-aae6-b3c27b9bcad6,0b00607a-5fc3-4ffb-9dd3-88368c52ef35,2024-01-05 09:57:17,1430.59,USD,purchase,online,"Rogers, Thomas and Terrell",Electronics,CANADA,North Catherinefurt,False
+2c83ac86-59f9-4321-9d56-253f73a4510d,ef4d18a6-61b2-454c-9409-84e2bb1271d3,2024-03-11 10:25:58,645.73,EUR,transfer,in-branch,Hampton Group,entertainment,Germany,North Donaldfort,False
+a33c1a95-b52b-43c5-aafa-3753eda73de0,b6fc1cc7-02ec-46d8-8768-50d55def9a6e,2022-11-05 02:36:41,663.55,JPY,withdrawal,ATM,Austin and Sons,retail,CANADA,Scottberg,False
+18f81ac8-ba4f-4813-b1bd-7ed31e5d2f89,78bfee4d-bf29-4233-9c9a-c3e01d42d704,2024-01-08 07:03:20,1142.26,EUR,withdrawal,in-branch,Mahoney-Mason,utilities,Germany,Port Scott,False
+9eaa6594-1e53-486e-b9aa-c4311bb79055,ed211308-a8b3-44e8-ab1d-14320c29f52d,2023-04-11 23:28:36,1758.86,JPY,purchase,ATM,Carpenter Ltd,Electronics,Germany,East Karenborough,False
+84f3f409-3df4-4c52-978a-44fd66e4a0f8,dbe0424b-8618-45be-8efd-5bd031cbe7ab,2022-10-16 05:33:58,493.09,USD,deposit,ATM,"Murray, Blackburn and Young",groceries,IND,New Peterhaven,False
+7fdee491-d785-4188-bfb9-ef452009adaa,2aae41c4-c01b-45af-9318-6fafef364c30,2023-05-31 03:10:51,95.96,INR,purchase,mobile,Wilson-Nichols,travel,Germany,Clarkshire,False
+29bda5a2-422f-42cd-9b9a-ee274e81ecb1,b07009e9-ef71-45b0-9424-adbe13bb160f,2022-12-30 07:22:57,709.06,INR,purchase,mobile,Hatfield Group,utilities,UK,Moodyberg,False
+40624154-da22-48ba-8244-f9012a820f2a,cba369b6-6791-41a1-b394-c5a1dcf5eb4c,2024-07-21 01:32:48,783.65,GBP,purchase,online,Stevens Ltd,utilities,IND,Savannahton,False
+7bc0be64-2ae8-4187-a2a9-f892aa0301f4,6ade29f7-469e-4db2-a8f1-2eb13aa8251a,2024-08-04 16:45:05,203.84,GBP,deposit,ATM,Elliott and Sons,groceries,USA,East William,False
+3242179e-8ecb-47a0-9c62-164e566861fc,5038ba82-e62c-4804-b818-518c10bae697,2023-11-04 14:56:01,1450.41,EUR,transfer,in-branch,Soto Group,Electronics,IND,Justinshire,False
+f34b3c0e-a1b2-4ed2-9c8d-236efa55f4c0,96319d36-95f4-493c-a5c4-2f9455e86c15,2023-11-26 04:51:36,999.36,EUR,deposit,in-branch,Russell and Sons,travel,USA,Morrisville,False
+d760159d-1163-45df-9803-37bcb22cb9f3,6d093fe8-4f25-40a7-ae23-8c9ae7e9e3ec,2023-08-07 01:12:31,874.95,USD,deposit,online,Lopez-Fowler,utilities,UK,Peterfurt,False
+ba5ea3f2-6edc-466c-824a-d3049481b9ee,483a1c12-c6b0-4133-8a05-afb3eea81aab,2023-08-15 00:24:20,997.94,JPY,transfer,in-branch,Brown-Olsen,travel,Germany,Nunezview,False
+70857296-2f53-4402-bc49-6781d47eb3d4,ab6c9f27-bfca-4a68-8122-09641ba7fd31,2024-06-07 08:10:54,873.17,EUR,withdrawal,in-branch,"Estrada, Allen and Smith",Electronics,IND,Mcconnellhaven,False
+58a285f4-2d02-482a-b9cc-fbf557e458a6,59882e38-83b6-4d14-9fa5-b36022236986,2023-04-15 08:45:24,1751.24,USD,transfer,mobile,Davis-Sheppard,utilities,Germany,Port Lindsayshire,False
+39c03732-e1b9-475a-b97d-af1f4e4750fa,ed096211-8b0c-4326-8a0a-707392b83f0f,2022-09-30 03:23:02,118.22,JPY,withdrawal,ATM,"Maxwell, Shields and Wise",entertainment,CANADA,Port Grace,False
+8cf35184-bfe7-452a-b53a-93ea18b7e9fa,8ad400dd-11a9-4ffb-8b0d-3ff32324a27f,2023-05-23 15:23:22,1775.17,INR,deposit,online,Massey-Kennedy,travel,IND,Robertland,False
+3847fd02-cd31-46ed-b9c2-8febb105b30f,c1a5fa31-18de-4c6d-a2d5-b595d56c0ec6,2023-01-18 22:50:49,455.23,JPY,transfer,online,"Wilson, Gordon and Davis",groceries,Japan,North Thomas,False
+3acb5b9b-196c-4861-925e-fbedddda34e6,063df7ff-a215-4ad6-b966-39279856cc2f,2024-01-28 04:14:33,943.93,GBP,withdrawal,mobile,Hamilton-Long,entertainment,USA,South Johnnyshire,False
+3d6c77cc-5dd4-4c6a-bab8-02fd0745eebc,33366a38-904f-45ae-8fc6-7647a22c75db,2024-03-04 10:09:18,1976.06,GBP,transfer,in-branch,Reese-Lawrence,entertainment,IND,Watsonton,False
+7da04121-113c-4e33-93cb-5f3fd31db8c2,f40dfff9-0fad-47ff-90c6-0d017eb827d9,2024-04-23 21:56:03,666.88,USD,deposit,online,Davis Inc,entertainment,Japan,Gonzalezland,False
+cd12211c-5cd8-4d01-82f3-7c05fe1a89fb,a06d2250-3be8-4732-99aa-f8da468df16c,2024-05-20 15:51:31,1950.39,JPY,withdrawal,mobile,"Harris, Martinez and Davidson",Electronics,CANADA,New Andrea,False
+7b7ae9cd-94f2-414b-9549-6f59c3120261,1b8bbf45-9912-42b1-87ac-5f8982c30178,2023-01-09 16:46:59,945.1,JPY,purchase,online,"Davis, Leon and Fleming",utilities,UK,East Justin,False
+afbd4863-9546-4aac-805a-0c3848398a50,88251e77-e399-43ab-be60-6f3209a90914,2023-08-09 15:33:02,1179.0,EUR,transfer,mobile,Schultz LLC,travel,UK,Jameston,False
+894f2d83-5f4b-4f78-87fe-cfd782b6831b,a336937e-7d0a-4b15-ac54-61763e1c23f0,2024-07-27 21:51:51,1318.89,USD,withdrawal,ATM,Brown PLC,groceries,IND,Port Xavierburgh,False
+fb4554ba-802b-4bd2-858d-b448cc31285b,bc3f0861-1fe7-41ac-a702-f16fb703343b,2023-11-02 16:28:17,127.79,INR,withdrawal,ATM,"Wilkins, Parker and Yates",utilities,CANADA,Markfurt,False
+d6f7cd25-e7e6-4f69-ac1b-135ac7f391d7,a23b4bfa-0604-4351-9a72-6b2fc1cbda2b,2023-11-02 07:06:43,1770.47,GBP,deposit,online,"Wolfe, Sparks and Ford",entertainment,Japan,South Sarahton,True
+b2180236-5bbd-4f99-823b-f19833cd151c,a5fa6c8c-8a6a-428b-b3dc-f56d7616b9b6,2024-05-23 22:26:03,231.51,EUR,purchase,mobile,"Hansen, Cox and Boyd",retail,Japan,Nicholasmouth,False
+e9d6c2db-f9dd-44ed-b309-a87506c0467f,2ad4279f-9750-47fd-a2cb-ee62c9f60c55,2022-12-23 04:34:28,764.68,INR,withdrawal,in-branch,"Downs, Wright and Adams",utilities,Germany,Port Scottview,False
+a3d1aaf8-699f-456b-b8d6-57095fb4fc6f,96b343b0-c5ad-4a1d-9cb4-acb9bfeec90e,2024-07-15 08:54:57,1906.36,JPY,withdrawal,ATM,Perry Ltd,Electronics,USA,Davidsonburgh,False
+75eb0d44-15c6-45ce-bb36-aa4addd54438,537ec0bc-d2b0-4e0f-b0d8-31b9f14171cb,2022-09-16 08:34:26,959.56,EUR,transfer,ATM,"Davis, Savage and Graves",travel,Germany,Peckport,False
+8e9863b7-a6eb-4729-a996-1c8b56d9e910,094fd707-d390-4db1-8b05-ea261d8afbb6,2023-07-06 18:18:35,919.74,JPY,purchase,mobile,"Petersen, Mullins and Harvey",travel,Japan,Stewartmouth,False
+c7f24dca-af56-4475-9183-5703a78c8099,ec035040-0e7b-4f60-ae57-0a53073a2631,2022-09-20 01:10:15,1811.27,EUR,deposit,mobile,Howell Ltd,entertainment,Japan,East Brianhaven,False
+4f174639-909c-4b27-bddd-33cd1932c728,a8da9c59-2e75-4210-bfe0-fcc6c92fb39e,2023-09-30 16:16:45,1063.52,EUR,transfer,mobile,"Garcia, Peterson and Vargas",groceries,USA,West Michael,False
+d07de65d-1752-420f-acfc-b1e1ae622453,41a6f1a4-aad9-42bf-bea9-189f739ee372,2024-03-27 18:43:56,175.74,USD,purchase,online,"Bruce, Mcclain and Chambers",utilities,UK,Austinview,False
+0775c9e7-5ef9-43f0-b9cc-a82618682f11,e25dc59c-f0d5-4d71-8fb6-1219fb3ed28f,2024-05-22 13:36:24,125.14,USD,withdrawal,online,Smith PLC,Electronics,Japan,Rebeccaland,False
+1fb9361e-c8ff-47c6-9713-23223cc4f74e,f0e87aa7-7a2a-47ed-86f3-e7b706e7be7e,2022-10-12 11:26:05,637.82,EUR,withdrawal,ATM,Richardson LLC,travel,IND,Lake Susanshire,False
+88b7a15c-1a2e-4ceb-8fef-e050d7f7aca9,305820d6-7108-4236-8160-724bc5592c2c,2023-01-15 01:42:51,841.15,USD,purchase,in-branch,Zimmerman-Bishop,travel,Germany,Maloneton,True
+7997de1a-05ce-4f4f-95c2-5b99a8cc27b2,98a16371-3ad4-40cb-9849-3c569d1a9a65,2024-08-02 11:27:41,182.86,JPY,transfer,mobile,Sanders-Garcia,groceries,Germany,Kimberlyport,False
+e11851c2-3ae9-4289-907e-fde820f2666e,33352c69-ffeb-42fb-90af-edb5da05bfa4,2024-02-07 23:17:51,177.79,USD,transfer,in-branch,Obrien-Thomas,retail,Japan,Wolfeland,True
+636ffd06-dec0-4fd8-b19c-ee5dea1f7781,e413a881-8b60-4668-81fe-85f5ed8dfcba,2024-02-03 05:42:34,827.18,JPY,deposit,in-branch,Edwards-Jackson,entertainment,Germany,Lake Vanessa,False
+3cde726d-6f58-48ad-a66d-de7c3b92a42e,d7f74c22-4289-4a36-b7ff-f046593df9a9,2023-06-27 11:58:30,1736.41,JPY,transfer,online,"Lang, Brown and Reid",Electronics,CANADA,South William,False
+4d8c2370-e6cf-4e0d-abec-502af3332418,ba3b3068-acbf-41fc-b8c8-36b4d70d95c9,2023-02-13 04:54:43,1537.44,USD,purchase,in-branch,"Chandler, Mcgrath and Williams",retail,CANADA,Danielmouth,False
+2cf2f2c1-efd3-4ca8-98a5-f7852ab47397,79f1e502-f001-4575-82fc-b1e301437412,2024-02-26 03:19:39,1552.85,GBP,withdrawal,ATM,"Lester, Morrison and Jackson",travel,UK,Jamesburgh,False
+83a0bbda-c0da-460d-8a34-0367b2d2b3b6,47b89065-13bd-4814-a0d0-fb4e6d2a3a4e,2022-12-22 07:17:56,352.79,INR,deposit,in-branch,Dunn Ltd,retail,USA,Port Jasminestad,False
+cdfa186c-e3d1-4ef9-87da-12ec0165752b,ac181011-d67b-4e00-90e0-4eb5bdbffa4e,2024-07-26 01:48:54,114.02,GBP,deposit,ATM,Mccall-Wong,retail,UK,Port Sandraport,False
+16a2805a-5a04-46a3-8540-f9dbbf655864,139d0f01-defc-4b05-b500-fdaed776d785,2023-09-27 22:45:44,964.04,INR,purchase,in-branch,Jensen Inc,travel,CANADA,Bakerburgh,False
+fa1818f3-c852-4321-9e92-1f1d0fcecb26,70cfa227-bc5f-46a3-a92e-7483b17c0afd,2023-07-10 22:25:38,1164.67,EUR,purchase,online,Hess LLC,travel,Germany,Lake Suzannemouth,False
+67e7f8ef-74c9-45c6-9f56-1a9eb6871ecf,04ee3c29-5d7a-410a-9f9e-af13dc76e647,2023-01-18 15:41:12,1213.67,EUR,purchase,ATM,"Cain, Li and Hart",retail,CANADA,Frederickland,False
+b39f6082-8be8-41d1-8543-854ffc418995,89631762-5827-4ef2-bfbf-f5ec0d75022e,2023-03-12 20:08:29,445.35,JPY,purchase,ATM,Rodriguez LLC,travel,IND,Port Williamfurt,False
+db68ea19-8722-4c9d-bf51-41885c0fd6b8,818ecc85-81da-4208-9b31-9d0485c6c6dc,2024-03-04 11:26:56,908.82,JPY,purchase,online,Moore Inc,Electronics,USA,Lake Jerryville,False
+d2daa223-5a5d-4cde-8cfe-8fca178f1199,77ead867-39b1-4585-b08c-a1a5158d9fea,2024-06-09 16:36:01,137.89,GBP,withdrawal,ATM,Harris-Mcdonald,retail,UK,Mckenzieberg,False
+c0320385-9485-44c9-b337-8270b8e97954,460da795-88f0-4db1-8480-55e050f8b03e,2024-07-27 23:02:12,1534.89,GBP,purchase,in-branch,Hoffman and Sons,utilities,UK,East Regina,False
+2f6bbff8-18aa-4326-953b-2dfe4f3fffa3,c78dbe01-24d5-462f-bd18-06c0d274ac8f,2023-05-17 09:43:36,692.73,GBP,deposit,online,"Flores, Robbins and Brown",travel,CANADA,Port Kyleside,False
+02e71cb0-073d-4ca2-add6-9dcab1421a32,04ee3c29-5d7a-410a-9f9e-af13dc76e647,2023-01-27 23:05:16,1193.51,INR,withdrawal,online,Mcdonald and Sons,entertainment,USA,Sanchezport,False
+283aa84d-1bfd-49b7-a387-80dac79b65df,fdc43cfb-39dd-4b4c-b1d4-a5c554a6daa1,2024-03-05 19:27:46,856.21,INR,transfer,online,"Davidson, Cherry and Lara",utilities,USA,New Jamesstad,True
+7a649546-094b-40f6-b9a3-305c3c7742af,a3026e8e-f909-4c95-885d-9eb858a9336b,2023-04-23 11:44:44,1995.75,GBP,withdrawal,ATM,"Coffey, Johnson and Reese",entertainment,USA,Port Tonya,False
+45295cd9-b9d7-4cb4-aeae-62d2103e8f82,9fb02bf3-aa6a-416c-a5e5-1fed0f104611,2022-11-02 13:54:58,50.54,GBP,deposit,ATM,Edwards LLC,travel,Japan,Williamsville,False
+a6daf2ca-0084-470e-8ca2-af6313ed7ca9,543c3d58-50f6-4661-a22a-8e931c50fffd,2023-08-09 09:12:58,1592.14,EUR,purchase,in-branch,Walters-Rivera,entertainment,UK,North Travisbury,False
+0b1ca575-984f-4154-8cf7-71d66735c672,e3aec6c8-964f-422c-9191-ebf9f57cc0ca,2023-03-09 04:09:08,668.76,GBP,deposit,in-branch,"Clark, Roy and Cain",entertainment,CANADA,East Tracyton,False
+ac793d7c-3436-4915-bbef-31d56d939dc8,e2b99c06-5928-4d78-83d8-e0e7985cc5f3,2022-10-30 20:55:12,1688.87,EUR,transfer,ATM,"Tanner, Smith and Martin",entertainment,IND,Lake Steve,False
+de82002b-f569-4512-8e6a-0d628871fe30,d4c63589-6465-4b40-b22e-b8c004915b52,2023-03-12 00:41:52,1579.14,USD,purchase,mobile,Sanders Inc,entertainment,UK,Lake Sandraville,False
+fbb43979-0710-45a7-9664-b8780d70f3c7,de5015e3-38a1-4c4a-9672-76ebbda2c8c0,2024-05-21 14:30:55,374.35,USD,transfer,mobile,Rodgers-Garza,entertainment,UK,Lake Cesarland,False
+9a1daf26-42e4-4b0a-b4e4-7a37c38f35a0,572b0866-412b-4fdc-8a1c-c6fb80c8bd08,2024-08-07 18:58:55,1232.99,USD,purchase,online,Mullins and Sons,Electronics,IND,New Tamara,False
+8f4c97d5-ce2f-41a3-9f26-4f70e0042073,13f9e7ba-a28f-43ce-9571-365ac5e3b8ab,2023-02-02 16:49:55,1539.57,JPY,purchase,in-branch,Cook Ltd,utilities,CANADA,Richardstad,False
+9c6e993f-c577-4195-8941-75127e140842,e952ad73-2ad3-471a-89c6-9d4701042f50,2023-12-24 16:26:51,1654.75,USD,transfer,ATM,Gomez-Martin,retail,Japan,Christinaland,False
+e84f4b27-fa01-47c8-b9a9-a3bac8541961,3887a03f-7686-4a79-8f5b-b84197e65307,2023-06-30 12:39:58,212.14,USD,purchase,in-branch,Sanchez-Knox,groceries,CANADA,New Dawnstad,False
+343b7e5a-64ef-47cb-9371-821bcab9c90d,4fb1096e-8fee-425b-995b-62563e5687f7,2022-11-30 14:35:26,1679.8,USD,deposit,in-branch,"Holland, Torres and Andersen",travel,Germany,West Heather,False
+b87bc14e-3232-4fb8-b69e-052f1e3a7b04,956f6f47-628d-4e28-bc67-32e43984a4ce,2024-08-03 18:24:09,50.26,EUR,withdrawal,in-branch,"Tyler, Cherry and Wilson",groceries,IND,Peckborough,False
+0264a590-6d50-4910-b477-16fcddc3b806,41cb877c-9813-44fd-bec9-ed7fba675137,2022-11-06 15:31:48,188.51,INR,withdrawal,mobile,"Jones, Estes and Nichols",utilities,Japan,South Tracyborough,False
+05ac7f98-5be2-43f9-b213-f35cae1dd876,5bcb4eaf-7d44-4951-8108-f0745a838317,2023-10-02 01:06:37,1837.66,INR,transfer,in-branch,Flynn and Sons,utilities,USA,North Ashleytown,False
+fc847108-c16e-4c21-8fc2-d0a330405f26,f3bb75f0-086b-401e-ac4e-f2c369ccdd27,2022-10-30 19:16:23,1775.75,INR,purchase,mobile,Holmes Inc,travel,Japan,Christianmouth,False
+2af802c0-867b-46f9-922c-045f9bd5ff72,45fbedc5-0e10-41cd-aa07-652e932a99dc,2023-12-23 11:39:04,1180.14,JPY,transfer,ATM,Walter Group,utilities,CANADA,New Madison,False
+f693091a-8410-4903-991f-41b1074193e5,b69a7262-ab0a-4ae5-baa6-8f291a0e8fa5,2023-04-15 07:27:57,32.05,JPY,purchase,online,"Foster, Barton and Snow",groceries,Japan,Brendaborough,False
+120a6c9e-2e3b-4b9a-a3eb-229d0fff9c6c,dca2920d-e127-4142-b32a-e4eecbf0ac40,2023-07-17 20:23:51,660.36,INR,deposit,mobile,"Rowe, Fields and Vang",travel,CANADA,Stevensfort,False
+050dbb91-6c5b-49cb-ae2d-8362bad30a15,0fec1200-6c40-4463-aea3-728f02746bff,2023-02-10 03:43:20,919.87,JPY,withdrawal,online,Stewart Inc,retail,IND,Timothyview,False
+3e4b40b8-0636-4910-b329-da6c2d69f199,2a3f7780-47d4-423e-b41c-879b61eaf979,2022-11-20 13:50:41,1777.9,GBP,purchase,online,Gomez-Williams,utilities,UK,Jennifertown,False
+da159d01-9ac0-49b9-ad91-8cd0c832e9ff,af0ba4e1-cff6-4bbf-ac63-047fc960fbd9,2023-04-01 19:37:10,192.5,INR,transfer,in-branch,Paul-Harris,entertainment,USA,Port Christopherborough,False
+224f8d69-2881-4738-a61a-a4dbdb10c57c,c5a14623-bc12-4b07-a1ab-c65bf59f7799,2023-09-30 23:54:12,1887.45,USD,purchase,online,"Johnson, Rivera and Castillo",travel,IND,Lake Cynthia,True
+c9464dbf-79dd-4a96-8fdf-4ab49ab71756,df1a7f25-6b4d-4b49-bed5-1ae775b9e862,2024-01-08 10:34:28,921.18,USD,purchase,ATM,King LLC,travel,CANADA,New Susanhaven,False
+b32eb977-47ba-49b7-af4a-47e75a564345,bcd4cceb-f31f-4d7f-be39-37b6125b4719,2022-12-24 20:52:52,869.34,EUR,deposit,online,"Preston, Jimenez and Thompson",entertainment,Germany,East Lori,False
+453ef02b-2dad-4c34-af7a-51607c2490ff,954752c1-38cc-4f41-b9f2-29720b94fb5c,2024-02-12 01:11:54,1304.55,INR,withdrawal,in-branch,"Mitchell, Robbins and Chambers",Electronics,CANADA,New Marciahaven,False
+1440c732-ab65-4e5b-a79a-8a1078f6787b,1b98c580-b04b-4da2-8010-328d76082909,2023-04-26 11:45:08,1533.4,JPY,purchase,in-branch,Robinson-Phelps,Electronics,USA,Jameston,False
+528a9c55-9095-4014-a0d1-014bbf4e19bd,2294ceb6-f3b6-4c98-98d4-7a5ad2f6d6ce,2023-05-12 09:45:28,664.69,EUR,deposit,online,"Frank, Reed and Hall",travel,Japan,North Annetteburgh,False
+a13e400d-ff6c-429a-ac6e-b6c2c149dabe,3e909f2c-2f08-48e8-aa79-299d6b35ccc4,2024-07-13 08:38:10,18733.9,GBP,withdrawal,ATM,"Barker, Ochoa and Sparks",entertainment,Japan,New Jonathan,True
+e91a44bb-b116-4f56-b579-03c054633837,e7dffe7a-d7f9-4102-9615-e100b383e115,2023-01-30 17:37:28,1610.05,GBP,withdrawal,ATM,Anderson Group,groceries,CANADA,Bookermouth,False
+9efda02c-0276-4ed4-9a2f-42b69e2b1ec2,847480ac-2dfe-41ed-bf13-fc1041b66fa2,2024-06-14 23:05:57,1795.79,USD,purchase,ATM,King-Martin,entertainment,Japan,Youngmouth,False
+1ee96cf2-77e7-4f6d-a93e-cc983096787c,851db6d1-6d21-44e7-ba40-44181635e85b,2023-11-21 02:21:58,465.94,GBP,withdrawal,online,Stevenson LLC,entertainment,CANADA,Hendersonbury,False
+2f591776-8feb-465d-84fb-390d83a1103d,305820d6-7108-4236-8160-724bc5592c2c,2024-05-26 17:12:02,631.02,EUR,purchase,ATM,Myers LLC,Electronics,USA,New Kathleen,False
+77ae4a66-d7b1-4810-a8c0-abc5b244d914,abe8d0a5-16b2-41cc-92a3-973b0d1758bb,2023-11-05 03:01:57,66.03,INR,transfer,in-branch,"White, Boyd and Smith",retail,Japan,Webbfort,False
+b1a3ba47-4bba-43e3-968f-2512c70e66bc,956f6f47-628d-4e28-bc67-32e43984a4ce,2023-04-08 03:03:21,482.63,GBP,purchase,ATM,"Hall, Johnson and Weaver",Electronics,CANADA,West Michael,False
+d644c04d-d407-4b5d-a680-4433bdc8df02,483c9be8-2d79-491b-a816-f4b32df80675,2024-03-15 00:23:38,226.94,GBP,deposit,in-branch,"Wilson, Gonzalez and Mccoy",retail,CANADA,North Stephanieborough,False
+a2aa151d-463a-41b9-a7a8-80516d3b0157,33352c69-ffeb-42fb-90af-edb5da05bfa4,2023-02-05 16:19:10,470.23,INR,deposit,in-branch,Campbell LLC,Electronics,Germany,West Alexis,False
+80d59e71-b355-4166-aebe-4b4695b588d7,ff86d206-502f-495b-80a8-22a7764b2dbd,2024-02-10 03:27:00,1098.39,EUR,deposit,ATM,Clark Group,utilities,CANADA,Paulport,False
+c17e0e2b-757c-415a-a463-d1e7aba28bbd,f228b65a-c3eb-49a6-b25b-8fe1aed09866,2023-02-18 13:03:43,1060.78,EUR,purchase,online,Adams LLC,utilities,CANADA,Brittanyfurt,False
+581960cc-ce9d-41bb-8f56-674e79ac9e88,0965de29-f0aa-467b-871a-6ab10d836fb3,2023-01-05 09:45:06,368.48,GBP,withdrawal,mobile,Williams-Hill,groceries,CANADA,North Rhondaberg,False
+dcd54b44-753f-4cab-b3ae-cd05274b39c5,a63a7abc-becb-42b1-8816-5128534139a8,2022-11-09 12:31:40,15921.5,EUR,withdrawal,online,Burgess Ltd,retail,USA,North Andreashire,True
+c3fe5d49-1637-4c56-a3cb-f1d55677e139,f375e61c-ada5-476c-878c-014fb3e4a98c,2023-01-23 12:36:00,1591.26,GBP,withdrawal,online,Frank-Martinez,entertainment,Germany,Port Lynn,False
+0cb72d7e-8036-40fc-9ded-e91f1092457e,3f0dde54-2295-4e56-8410-d229d2a148cb,2023-10-24 19:26:46,715.55,EUR,deposit,in-branch,Aguilar Ltd,entertainment,USA,Tylerport,False
+be34dd74-3a4a-401e-b98e-6dd04c6357c2,e298abd5-160b-42b1-a40c-58da0a5bade4,2023-02-13 12:33:44,1496.46,EUR,deposit,mobile,Ramirez-Robinson,entertainment,CANADA,Lynnmouth,True
+5854dc11-c805-4e9a-b988-632f646613ba,5ea60bcd-0288-4342-8e4a-9ab19222cc2e,2023-01-05 10:12:12,1484.72,EUR,purchase,mobile,"Simmons, Arnold and Johnson",groceries,UK,Darrellfort,False
+d34a8450-97fb-46de-83d3-046dd2940c5e,55a3c447-6482-454d-beac-b95755d0291b,2022-08-31 15:31:20,956.22,EUR,withdrawal,mobile,"Pollard, Powell and Garcia",utilities,CANADA,Wrightfort,False
+e51932c9-c783-4391-9aad-48d20ff5fa30,823ec0c1-4f02-4923-9a58-6c53c13d7a9c,2022-10-13 09:15:03,899.04,EUR,withdrawal,ATM,Brooks-Robinson,Electronics,Germany,Port Tyler,False
+414fe7a7-7aeb-4b06-840d-b3ffcf3f5ba7,fa8eea02-87a2-4e5d-a34d-0df99649ad8b,2024-07-19 00:54:58,880.73,USD,withdrawal,online,Hogan LLC,retail,Japan,Arieltown,False
+442a0ace-07f9-42f2-acbd-c9f348f30a67,8afa5dfb-4583-4c8d-a0a1-5f2bb4c0acd7,2022-09-22 16:34:46,1047.67,INR,deposit,online,"Graham, Wolfe and West",Electronics,Japan,North Robert,False
+9c063194-473c-4d7d-a896-6ad59ca73c53,4ee80774-e6b9-43d4-a796-38bf996fa21a,2024-03-14 15:36:25,1402.94,INR,withdrawal,mobile,Luna-Hall,retail,USA,Torresborough,False
+485b950b-27fd-4eec-bf7c-94851949eff8,bd6f832d-f4be-4941-bf71-6faa8622f66b,2023-02-03 13:54:59,46.37,EUR,withdrawal,online,Chan LLC,retail,IND,East Kelly,False
+c4847edb-00c6-4718-a6da-8c1bb3ce9768,2fba5d8c-bba9-4268-b8ed-deac2d469d69,2023-04-09 08:02:04,1207.67,JPY,purchase,mobile,Sanders-Cox,groceries,CANADA,South Davidburgh,True
+211f4fd5-8bc2-4818-a505-a627ad136d86,badf879b-bfd1-4741-a15b-18372c7cd6d3,2023-09-29 10:47:34,345.84,INR,deposit,mobile,Mendoza-Kerr,travel,Germany,Andersonchester,False
+1d6c2d7a-2331-463b-aa44-8ccee7d9cbef,29721025-5e35-480f-a7b2-71bf43fd6cdb,2023-09-15 01:42:18,398.74,EUR,transfer,ATM,Smith-Carey,travel,CANADA,Aaronchester,False
+b9103791-0bba-4936-829d-49f3f29ffe67,846fc955-abcd-4399-b2e3-404bc8234498,2023-10-12 23:27:33,414.09,USD,transfer,ATM,Vaughn Group,groceries,IND,Lisaville,False
+ad1b3507-2d20-4a7c-9cb4-0a25ae257e96,2d2518bf-f6f2-4419-90ed-ed608a50f7ea,2023-08-30 13:58:26,1800.0,JPY,transfer,ATM,Page and Sons,retail,Germany,West Richard,False
+86e908b8-5e94-44b1-bdd5-edfcf4f8c9d5,04692706-9dbb-4f5e-89cc-acf289faca5a,2022-12-01 18:57:30,1188.85,INR,deposit,in-branch,Smith Ltd,entertainment,USA,New Andrewbury,False
+f994a85c-9fd7-486e-ac4f-69ae901185a3,06be31d1-c0e6-4f9d-883b-c1649b289509,2022-12-12 04:17:54,90.12,USD,purchase,ATM,Nguyen Inc,travel,USA,South Nancy,False
+9a3f3004-a678-4ab2-81fb-d7f2bcc7161d,483a1c12-c6b0-4133-8a05-afb3eea81aab,2023-05-03 11:48:05,1028.62,INR,deposit,ATM,"Perry, Gomez and Martin",retail,USA,Lake Glenn,False
+91716c18-0278-4024-a42f-f524c57fd953,6db3855a-621e-4c4a-b8ef-d2a70bca6a24,2022-12-12 14:05:31,620.09,GBP,withdrawal,mobile,Anderson-Larson,retail,Japan,Donnamouth,False
+c5097095-ed00-49c3-913b-e45a3269f873,ce7525be-4db3-4f7f-9228-79c8d6a598fb,2023-03-25 04:01:41,1041.2,USD,transfer,mobile,Scott Inc,groceries,IND,Yangville,False
+4d7d356b-7418-4d41-9b53-a14ca6d3396d,91f231d6-7a8b-4cd5-b76f-f1ed8d218b9a,2024-06-18 14:48:27,72.57,USD,deposit,mobile,Johnson PLC,utilities,IND,South Sara,False
+2f327238-5d61-45ff-bbf6-ff6bc365d077,18b67e8a-92f9-4205-ba2a-487583b74f93,2024-04-02 01:54:08,957.46,USD,purchase,ATM,"Martinez, Taylor and Reynolds",travel,IND,Sandersmouth,False
+c91b19d9-4e77-48b4-9a2c-9de7d5ca27ce,946aa9c8-496f-4407-be51-b71f3afe9f38,2023-04-06 17:34:16,1849.32,USD,transfer,online,"Mcbride, Roberts and Berg",retail,IND,East Jeffreyton,False
+36c11419-ec55-48ba-8f0a-fb58ec98e1ae,2413dc5e-8f6d-4332-8207-169e68e9d996,2024-07-17 08:11:29,175.24,EUR,purchase,in-branch,"Barrett, Hill and Lawrence",entertainment,Japan,Mitchellhaven,False
+b39dee7b-86c1-4c7b-8f97-1617ce729a1c,51398aea-0af8-480d-868b-ea8dcaaee27b,2023-07-01 18:50:17,19102.4,EUR,withdrawal,in-branch,Wilson LLC,groceries,CANADA,Barbaraview,True
+a96ca790-772c-4c59-ab19-ae15939609b1,77ead867-39b1-4585-b08c-a1a5158d9fea,2023-12-05 17:35:06,197.69,INR,transfer,in-branch,Murphy-Gomez,entertainment,CANADA,Lewisview,False
+70e5a939-2c97-4e8f-ba2a-0676df81ca82,ed211308-a8b3-44e8-ab1d-14320c29f52d,2024-01-21 22:02:41,378.14,USD,purchase,mobile,Webb-Hall,utilities,IND,Welchstad,False
+a434e90c-e7e6-4295-89dd-20d387683a44,460da795-88f0-4db1-8480-55e050f8b03e,2023-01-21 02:51:03,1094.98,USD,transfer,mobile,"Hoover, Ramirez and Torres",utilities,UK,South Bruce,False
+65e4c865-4724-449d-b474-643a364bbb2d,a06d2250-3be8-4732-99aa-f8da468df16c,2023-07-15 12:39:40,1542.83,EUR,withdrawal,mobile,Boyer PLC,Electronics,USA,Jeffreyfurt,False
+8aa8e468-2849-4b2f-ae83-28239fcbc749,1eb9c5a9-146f-40ef-982c-c5b727672e80,2023-07-25 08:06:30,693.96,EUR,withdrawal,ATM,Murphy LLC,utilities,Germany,North Chelsea,False
+d1581e6f-eaad-4dc9-aacb-4e97e03884f8,4224390a-177e-47aa-9396-e808d008e23a,2023-04-13 05:20:55,1615.62,JPY,withdrawal,mobile,"Holland, Smith and Soto",Electronics,IND,Lunafurt,False
+59fc3fb0-8378-4b75-87f2-6bdc4bb426d6,6df45d39-b970-4f63-97bb-7344c837aa67,2023-01-09 20:00:17,1577.55,INR,purchase,mobile,Vargas LLC,groceries,Japan,New Diane,False
+6d31dab7-70f8-4a21-9d5e-1f61352f45c6,28615ca3-ddeb-4ec0-831d-7d69131500ea,2023-07-16 05:26:53,296.36,EUR,deposit,in-branch,Miller and Sons,utilities,USA,Goodmanborough,False
+822a7e9f-bbbc-4354-84e2-57476771ee18,184f166b-8eca-4a28-9a14-acc564870f7a,2022-11-12 05:55:38,751.22,INR,withdrawal,in-branch,Clark-Benitez,utilities,CANADA,Colemanmouth,False
+06dd7a68-c288-42fd-8ed9-7094a92911c6,4c3541c7-40ea-41cf-a86a-eed2efd251c9,2024-04-17 12:14:04,207.35,INR,purchase,mobile,Smith-Nichols,Electronics,CANADA,East Christineport,False
+377edec6-3d76-43ac-a1e0-81467c7a155d,9639f9c4-7224-45b7-ac1b-060c6c549b48,2023-05-11 19:56:23,830.31,INR,withdrawal,in-branch,"Smith, Wolf and Smith",Electronics,USA,West Patrick,False
+3dd98703-62d8-46c4-b81d-c9588cce07e7,4efd6691-602a-450f-9b06-8207de23584e,2024-02-04 10:11:27,745.57,USD,purchase,ATM,Jensen Inc,retail,Japan,South Christinechester,False
+55526dcc-0292-4855-b0a4-b04d0417f215,8b0c6876-3061-4190-8fc4-db9a9fd5196d,2023-07-03 18:08:12,1173.98,USD,purchase,in-branch,"Campbell, Garner and Vaughn",travel,Japan,East Dana,False
+ed46916e-fea2-409a-b482-044511bc421b,92a62ff2-6499-49c8-9624-a8de5f1afcb8,2023-12-02 06:08:58,501.5,INR,deposit,mobile,Bass-Wright,groceries,USA,North Fred,False
+93c4dc76-20c9-4062-a667-6819027ea44c,ba3b3068-acbf-41fc-b8c8-36b4d70d95c9,2022-10-05 09:59:15,943.3,GBP,purchase,in-branch,Reyes-Byrd,Electronics,USA,Christineland,False
+10b0837c-ab1f-4443-ac9e-06845fe7c242,52c1895c-671a-4596-8269-b1b94efec2fb,2024-07-16 09:28:19,24.93,GBP,purchase,in-branch,Sharp-Stone,Electronics,CANADA,Torresside,False
+45dadd16-48b6-46cc-8c56-fa63078cac4d,47efb8e5-a279-410f-9a93-f473a492bafc,2022-08-20 15:06:00,1477.21,GBP,transfer,in-branch,"Humphrey, Larson and Brown",travel,Japan,South Moniquebury,True
+f7f2a254-cf63-4849-878e-a8c80426aae1,d9835a54-8598-444c-9f57-69a15e826f63,2023-06-27 12:05:51,929.35,INR,purchase,ATM,"Lane, Petty and Rowe",retail,Germany,Lake Ericstad,False
+9460dad1-f5e4-4ff2-b074-a49532a9699f,51734b53-63bc-4f1e-a194-1e343648c849,2023-01-18 22:45:52,1144.14,USD,transfer,online,"Robinson, Peters and Harris",utilities,UK,Daviesport,False
+e5e74dec-e966-4635-9bcf-5aa35e12f01a,946aa9c8-496f-4407-be51-b71f3afe9f38,2024-03-10 12:56:04,1052.36,INR,purchase,ATM,Harris-Shelton,Electronics,USA,Ellisberg,False
+9ab068f6-5c44-4348-bdd9-042218f432b2,e2487474-d182-40d5-8a9f-1cc2bcee509b,2023-12-30 23:16:19,1874.41,INR,purchase,ATM,"Rivas, Watson and Warren",retail,USA,Port Kimberly,False
+15a2c4e9-6d84-435a-a8e2-9feed9ec7d96,79f1e502-f001-4575-82fc-b1e301437412,2023-05-10 21:01:23,330.26,EUR,purchase,in-branch,Davis Ltd,entertainment,Germany,South Martha,False
+c7302f3d-48d0-4175-9cfe-5c3eef0b82d2,fbde8ce9-3022-40db-9528-a4d95affdfd5,2022-09-28 06:33:23,670.86,GBP,purchase,mobile,Roman LLC,Electronics,IND,North Gabriel,False
+f97f9b76-acc7-4ae1-b0ee-20314fe48bed,e19d1ec8-e8e8-4a08-8044-4f666a6878d3,2023-05-29 13:31:14,965.3,INR,transfer,online,"Guzman, Ramirez and Daniels",entertainment,Germany,Mccormickville,False
+e4688c44-a487-4282-92c7-716b9474fe06,a8a1c0bb-e9ee-4b32-838a-0a9089341ceb,2024-01-20 17:58:37,491.35,GBP,purchase,ATM,Taylor Group,entertainment,USA,Alanview,False
+22781085-108e-4342-a9aa-278d6363c181,58328bae-f940-49d4-8188-7bfe5d5039e1,2022-10-30 15:04:14,1639.93,GBP,deposit,online,Valdez-Lynch,groceries,IND,East Donaldhaven,False
+62e4a31a-b9a6-4728-840a-1daf137fe55c,ff7a3334-d013-4a69-92d8-b5aa772810e5,2024-01-18 13:20:04,1753.95,EUR,deposit,in-branch,Flores and Sons,groceries,CANADA,Alanshire,False
+a8129e60-c71c-4797-8402-6d63898da464,e2b99c06-5928-4d78-83d8-e0e7985cc5f3,2023-09-15 21:25:26,1223.55,JPY,purchase,ATM,Brown LLC,entertainment,CANADA,Patriciaview,False
+5125245a-599a-441c-9aae-5b6982665aa7,a095142a-677d-487f-9e95-caa5784d9912,2022-09-09 10:12:18,1353.94,EUR,withdrawal,online,"Smith, Fernandez and Rodriguez",Electronics,UK,Robertport,False
+f8a41f2c-c891-4e61-b3f1-b8a331baa7bc,af3936ef-fd7a-4587-b59a-4203ee21c3c9,2022-11-25 01:57:44,1652.57,EUR,withdrawal,ATM,Fleming-Wilson,entertainment,IND,Huangtown,False
+2cf6bf2f-4f1a-46ed-a1e4-55522ea21b9d,1db3a6c1-a920-4a1b-8ce1-2cdb39be09b7,2023-10-05 23:01:20,1836.92,USD,deposit,in-branch,Warner PLC,utilities,USA,Port Brandi,False
+482a92ea-8af5-4623-86a7-19e27940483f,aede7db4-24c5-4ba4-b0e2-0839e1d0a658,2024-01-21 21:23:09,1433.36,USD,purchase,mobile,"Dean, Werner and Davis",entertainment,IND,Paulshire,False
+4cc734e9-2e30-437b-b466-56f1076f41eb,f68b5d4d-c904-4f3a-a9e2-ff3bbc2bd211,2024-07-01 05:54:32,412.49,JPY,purchase,mobile,Bennett-Lee,utilities,CANADA,West Susan,False
+b7c63f17-aaa3-4d3b-8837-f6e2cc4379cd,64f322b9-2bc2-4ac0-9167-574502557860,2022-09-16 19:09:55,634.5,INR,deposit,mobile,Morgan-Graham,groceries,UK,West Lisatown,False
+f0002d9c-c664-4440-9cfd-4e3e17e4580d,e79fbc29-06aa-483c-b4b5-b351d1895e88,2023-08-06 08:15:34,1044.4,EUR,withdrawal,mobile,Garcia LLC,Electronics,IND,New Margaretport,False
+9d5718d3-703a-4dea-a7bb-14ddca341544,c583caa0-68ff-4a22-a4b5-a6a31c9a1dff,2023-02-17 12:16:09,160.43,USD,purchase,ATM,Williams-Moses,retail,UK,Port Patriciaville,False
+f51055ae-3435-4b33-add2-c77420f144e7,0e91fedc-0c06-4b16-984c-d9870e3ce7c1,2023-02-02 05:08:15,339.74,INR,withdrawal,in-branch,"Meadows, Newman and Harper",entertainment,IND,Randallstad,False
+93abf940-e493-4d5f-b729-191fae0ca2f2,f24a66c9-324e-4e69-ad14-98bf5480d344,2024-03-18 23:10:52,696.25,EUR,transfer,mobile,Spence LLC,travel,UK,West Paulshire,False
+a16082a7-ef25-4707-a1bc-4e1a80028f3d,68016744-1691-4ce9-a0d4-f3729f9c923a,2022-09-13 09:28:05,1358.06,GBP,purchase,mobile,"Anderson, Kim and Arnold",retail,USA,Thomasfort,False
+5436bce2-34e5-4336-a750-5814a7d86ef8,489ae042-b6b3-4793-a663-5a5677e2f706,2022-10-23 10:12:25,1791.5,GBP,purchase,ATM,"Tate, Payne and Carroll",utilities,USA,Kimmouth,False
+6441cd08-691a-4664-8926-c59b55fd4dc1,7054649c-1989-4887-9b5f-e6717ffb5f81,2023-05-04 23:12:24,292.65,JPY,purchase,in-branch,"Gilmore, Carter and Carlson",utilities,CANADA,East Beth,False
+c861649b-dbe9-4f3e-acb5-c7258f9b58ca,df1a7f25-6b4d-4b49-bed5-1ae775b9e862,2023-01-30 00:36:51,125.64,USD,purchase,ATM,Hubbard-Johnson,utilities,Germany,Lake Donaldville,False
+73aa0227-5ee1-412f-b3c4-990a2adc2619,e4ca5aa7-2cdb-4d51-ac5e-07891ce8e848,2022-10-10 20:17:47,1593.98,GBP,deposit,mobile,Smith Inc,utilities,UK,Lake Luketown,False
+0f9091c4-d80d-4f76-8d7c-7798b9a616d3,8afa5dfb-4583-4c8d-a0a1-5f2bb4c0acd7,2024-04-03 19:49:47,869.57,USD,transfer,ATM,Malone-Gregory,travel,Germany,Normanfort,False
+872d709b-b9df-4137-a5cb-c6e6fa7f0e02,fce19e59-55a5-4e15-a7c2-bac0ceab55d1,2023-08-03 12:05:59,1533.11,JPY,purchase,in-branch,"Mcbride, Walker and Hernandez",travel,IND,West Robertmouth,False
+8b0589e7-8ab3-4bad-8890-925ccebe6600,d98133b2-0eba-4bc7-abee-0a62f63836c1,2023-05-22 17:06:37,1893.28,INR,withdrawal,online,"Garza, Stevens and Marshall",entertainment,CANADA,Oscarchester,False
+cdfd73b5-3f20-4cef-a326-1332d18521df,af3936ef-fd7a-4587-b59a-4203ee21c3c9,2023-10-28 18:53:38,689.47,INR,withdrawal,mobile,"Jensen, Tyler and Humphrey",Electronics,Japan,Leestad,False
+994c8aac-d4bb-4bf2-8d50-45f05bc6cc54,82d3e174-1076-40a4-9f01-650e170ce0c4,2022-08-15 11:35:46,1503.66,USD,withdrawal,ATM,Harris-Griffith,utilities,UK,Port Elaine,True
+7d09c5bd-09c3-4352-94a2-cc413f07e261,6dc52e2d-d933-4c9b-ad9e-3a9ae841cb1d,2024-01-22 23:21:48,591.52,EUR,withdrawal,mobile,Wright-Morgan,utilities,IND,Meyerbury,False
+f3420bfb-b490-4bde-a441-6753e86e451a,a078de6c-d12a-4164-ae46-051b5128d6ab,2022-08-25 05:28:06,1802.22,INR,deposit,in-branch,Foster-Mckee,groceries,USA,Robinsonchester,False
+b9e35e0a-7d81-4927-8ce3-164028f24c30,4b1b3572-f841-45d6-ad7b-24422cb94305,2023-07-14 23:41:00,1514.31,USD,purchase,ATM,Lopez Inc,utilities,USA,East Stephanie,False
+6ebdb95e-f04f-4004-bc8c-b7cad424c915,1c4fa53e-38c8-48df-8f2d-bd24566d2bcf,2024-01-19 09:05:27,1638.94,JPY,purchase,in-branch,Brooks Ltd,utilities,Japan,Jamieburgh,False
+67ecb5bb-0543-4777-b56b-7bb18e86a4eb,ce8d5372-4dcd-4bde-b0a7-bc01ca994fcc,2022-12-21 22:29:49,279.33,INR,deposit,ATM,Martin-Bowen,retail,CANADA,Harrisonmouth,False
+7733b192-e13a-44fa-ba74-fc3743f63ebc,51398aea-0af8-480d-868b-ea8dcaaee27b,2024-07-08 22:27:12,1149.5,EUR,purchase,mobile,Roberson Inc,travel,Japan,Emilyton,False
+0c14471d-e4bf-48b1-904b-99b616a60289,7158ca7f-6c00-4ccb-8b5e-e6f0d3a34b52,2022-12-20 06:52:35,1264.88,USD,deposit,in-branch,Wallace-Cortez,entertainment,UK,North Melissahaven,True
+0b278864-54c1-456b-b49e-03b79aca234d,def043e2-6466-43bd-a2b0-9d1182ae6137,2023-09-01 16:36:24,1299.01,JPY,withdrawal,online,Ruiz and Sons,Electronics,UK,Lucasburgh,False
+ded61e26-57fe-433f-b4b1-f4513d605348,0f1326bd-57dc-4df6-834b-54c667c95241,2024-01-24 16:47:18,730.27,INR,withdrawal,mobile,Andersen-Lee,travel,Germany,Port Angela,False
+d5f66c35-99f3-43bb-afa5-ad61941d61ee,06affe50-af33-43aa-aecf-8b308e70c5ee,2024-01-18 11:31:40,1537.39,INR,withdrawal,in-branch,Farrell-Richardson,Electronics,CANADA,South Katrina,False
+46e5fdfe-c208-4c73-8394-dc2a90d3d207,2e2c7f94-dc6e-4315-9659-46f5a98e1dbf,2024-01-14 10:41:09,1514.26,JPY,transfer,mobile,Orr Group,entertainment,Japan,East Tonibury,False
+633ec467-99b5-431b-b767-09c0ce7a6c15,fbde8ce9-3022-40db-9528-a4d95affdfd5,2023-02-04 06:01:12,1194.14,JPY,withdrawal,in-branch,Cooper and Sons,retail,CANADA,Brownburgh,True
+ddc78967-ad35-4c03-ad5a-e707de87a449,f603f06a-8f1a-45cf-b818-0553f22486ad,2024-02-04 03:07:36,538.82,INR,withdrawal,mobile,Holmes Inc,retail,UK,New Julianport,False
+5345a204-f523-4516-b3be-d2bcefb340f9,8dc9b718-e7f5-4b50-8955-86f1aa4514a6,2024-02-16 04:02:11,268.14,JPY,deposit,ATM,"Carter, Munoz and Mclaughlin",retail,CANADA,East Carolyn,False
+c0af3696-db0e-4891-8acd-3e47b35d77e0,dc118f30-da1a-4eca-9fd6-0e0a13c08e11,2024-07-29 03:55:55,1280.41,JPY,transfer,in-branch,"Gamble, Lowe and Weaver",groceries,IND,New Marychester,False
+636bceff-35e0-4334-9edb-1ea5eb236b85,e0808f5c-e38d-4898-9b40-ed6ece4bc86b,2023-01-25 20:26:29,1389.89,EUR,withdrawal,in-branch,Ponce-Smith,entertainment,Japan,Frymouth,False
+637dc239-83c5-4355-8800-3612f477e775,84d18b4b-ade5-4231-9d14-f9d2ea686183,2023-05-03 09:43:42,834.27,EUR,deposit,in-branch,Jones and Sons,travel,USA,North Richardborough,False
+43af569c-b647-439c-86ca-6ab76eaad07e,2b0d77dd-07cd-4fa5-8233-b70688d2baa6,2022-09-25 04:17:53,1045.47,USD,deposit,mobile,Miller PLC,Electronics,Japan,Michellestad,False
+71850852-5b27-4cdb-966b-632c3bb3baeb,e8781bc3-fb06-4ab4-ad29-e9279babe7c2,2022-10-24 21:10:31,285.16,USD,purchase,in-branch,Richardson and Sons,Electronics,Germany,Jacksonborough,False
+56031984-1ac1-4ab2-af5e-0f40fd9a4f67,9b6c5d01-7089-4c33-9ed6-4547b8bb21a1,2023-08-31 16:19:14,106.13,INR,purchase,mobile,Mejia-Brown,Electronics,USA,Lake Monica,False
+2235fee8-42c3-4865-8a0f-8c2235e1f2e2,96ee5453-896c-4050-ae47-9a69f361044f,2023-12-31 14:08:50,687.31,GBP,deposit,in-branch,"Phillips, Mccullough and Olsen",Electronics,IND,Clarkbury,False
+1ac578c8-3015-4f28-ba53-5f98df786446,fdd8864f-7d64-4b10-9e12-6028dd5e4ae8,2023-01-22 19:28:25,1604.29,INR,transfer,online,Cross PLC,retail,Japan,South Erika,False
+4716b30f-4dae-4a34-be1e-a04f0859b663,19c57c62-8485-46c2-83ee-93c93f525f4d,2024-07-04 22:05:02,53.16,GBP,deposit,ATM,Gomez-Ortiz,travel,UK,Lake Amanda,False
+8ec7a8b1-6452-4dbf-8a56-14d410d4dd20,ba3b3068-acbf-41fc-b8c8-36b4d70d95c9,2024-04-29 19:02:24,1378.73,INR,purchase,mobile,Grant-Reyes,travel,CANADA,South Calebborough,False
+2057a114-e776-409d-ab43-c677e12ff2c1,5f933adc-aeee-4c4a-beb3-e38a4951f993,2024-01-20 20:46:58,354.39,GBP,deposit,mobile,"Adkins, Walker and Smith",travel,USA,West Amyview,False
+e17794f1-ae5c-4611-bbe5-254a69ebb0ee,917cabf9-add3-4988-844f-4710ef413a90,2022-09-14 23:20:33,1996.26,GBP,transfer,ATM,Tran and Sons,utilities,CANADA,North Toddtown,False
+68e5bce1-4b70-4686-91c9-0eb17c5f9d95,3dbfd4b6-90a6-4f16-8fef-b712965b1477,2023-05-10 12:45:21,701.46,GBP,purchase,ATM,Frank-Greer,entertainment,IND,North Robertton,False
+d8e0c369-5349-4b8f-b89f-b04a057fd87c,26ae8b9a-0cd9-4eaf-b4f2-3fa844523e5e,2023-07-01 07:47:49,18.63,INR,transfer,ATM,Hughes Group,Electronics,USA,Lucashaven,False
+089543e8-b4d4-415e-878e-b9a4cc5b9efc,1405cd18-91d6-4a1e-bdd9-3ff873edf228,2024-03-28 11:32:01,856.77,INR,deposit,mobile,"Payne, Ramos and Oliver",retail,UK,Lake Melissa,False
+7a6f326c-b591-48fb-826a-de59ce3e1bd1,0fe14ec4-fd82-4c9d-8429-9cd6a55fc899,2023-12-05 04:57:21,510.63,EUR,transfer,mobile,"Kennedy, Monroe and Durham",travel,IND,Smithbury,False
+bc75f180-bf1c-44f9-9398-b27d81199125,734b4291-62d9-4d57-9e7e-01aeaa2535ed,2023-05-21 12:48:20,1814.32,EUR,withdrawal,online,Baker-Mckinney,retail,IND,South Ashleemouth,False
+268522b5-8f16-46fa-8d15-53639860b4b3,f24a66c9-324e-4e69-ad14-98bf5480d344,2023-10-27 14:46:45,1497.04,EUR,withdrawal,mobile,"Thompson, Graham and Giles",travel,USA,East Sara,True
+53848017-312e-45fb-8b94-5b54e125acfb,1e40dc2e-0e10-4a9c-99fa-54cc566cb33e,2023-11-16 06:22:32,1903.66,EUR,deposit,mobile,Norman and Sons,Electronics,UK,South Michelleview,False
+76d4580d-1016-4d7b-aace-2f438ab37f87,4ff5a566-0f08-4313-a418-fd794dc64941,2022-10-07 20:28:45,1374.56,INR,withdrawal,ATM,King LLC,travel,IND,East Matthewside,False
+007fa272-8725-4360-a34d-58c7e0289569,4efd6691-602a-450f-9b06-8207de23584e,2023-09-29 06:10:34,139.02,JPY,transfer,online,"Harvey, Rivera and Russell",entertainment,IND,East Lisa,False
+94308dd1-cbec-441d-b06d-58262a663560,7cfa93fd-11c0-4f11-805a-ff9a1b2e6ef9,2023-04-04 05:20:11,1967.25,JPY,purchase,online,Carey-Ray,travel,Germany,Lake Robertstad,False
+dee4ffb8-3587-4114-8dcd-e1eabf289b4d,24d001f9-b0c8-4864-85a2-d9ec37983261,2022-11-28 20:56:39,637.98,EUR,transfer,online,Williams Ltd,travel,Germany,West Abigail,False
+9b7b3f92-9e04-4bf6-b53a-b5b27f596974,7cea8fc1-6ed6-420d-9cb3-77ec3d6a7c62,2024-06-22 17:35:24,1663.97,EUR,deposit,in-branch,Andrews-Allen,groceries,IND,Burtonshire,False
+9c8db63a-c0cf-42f4-97f0-6ac179e0a5f9,6cf62e20-e5d0-4ed3-bfee-96603a84a7a7,2022-10-03 18:58:46,1756.64,INR,deposit,in-branch,Harvey LLC,retail,USA,Port Melissaside,False
+f2b8d149-99db-47be-ac82-e1b2df998b3f,f0d9843d-5e9e-4075-9222-d6cc50433563,2023-05-16 21:57:08,836.48,EUR,withdrawal,ATM,"Williams, Gonzalez and Maldonado",entertainment,UK,Elizabethmouth,False
+af91985e-1663-4454-b44f-24c510641bf3,abb64ed9-77cd-4570-aee4-5bc64a200de6,2023-11-24 08:29:02,964.54,INR,deposit,in-branch,"Jones, Jacobs and Werner",entertainment,CANADA,New James,False
+ee719472-1d1d-42b7-91e9-e98da6359d98,018ee93e-3268-40ae-ae2d-fc605e2f026f,2023-09-16 10:08:56,1206.34,JPY,deposit,mobile,Aguilar-Hurst,travel,IND,New Cheryl,False
+92a1056c-aa13-4443-8cff-e2ef708263f5,e1cb6901-4606-4bf0-b0b7-141e7f854c19,2024-03-01 16:15:14,763.96,INR,transfer,in-branch,Duncan-Murray,travel,Germany,Lisaport,False
+0659d74b-2ea5-43ed-bd71-7723320cd286,4c297b8a-9b70-4b53-aca4-8d8bc485a169,2023-08-25 03:48:04,1383.24,INR,purchase,online,Rivera LLC,Electronics,Germany,Juliemouth,False
+5d85adce-57da-4153-b600-0a4d48c204ce,e28f7f7b-9028-4a1e-86f9-23bf18d9e139,2023-02-18 23:08:43,795.4,INR,purchase,in-branch,Ward-Robinson,groceries,Japan,East Sophialand,False
+dffe0248-a0f6-429c-8a71-581cb780e08a,bdba1ca6-f3f2-4c95-804a-63f59f37c6d0,2024-03-08 18:03:36,658.08,GBP,transfer,online,Lopez LLC,entertainment,USA,Danielletown,False
+927a7443-dc01-44fd-9433-08fbed36472d,1b8bbf45-9912-42b1-87ac-5f8982c30178,2023-12-19 03:06:10,1298.32,JPY,purchase,in-branch,Goodwin-Watkins,entertainment,USA,Lake Amanda,False
+2a7ac6ec-5754-4041-abcd-9b4aaa1cb756,79dbafbb-3efc-4b83-978a-b2274a9fd76b,2024-04-15 11:34:34,346.49,USD,purchase,mobile,Thompson and Sons,groceries,Germany,Brianside,False
+c340d3b2-2a42-4ab6-a0ad-c8ea7a1bbf48,52a4609a-84f7-46af-9f14-08ff533a2800,2023-03-29 01:14:51,1409.32,GBP,transfer,in-branch,"Taylor, James and Little",groceries,UK,West Michael,False
+58c4971b-9df7-4df7-9b82-779f33a38f25,51734b53-63bc-4f1e-a194-1e343648c849,2023-02-04 11:28:10,1194.83,GBP,deposit,ATM,Riddle Ltd,utilities,USA,Megantown,False
+1327f49f-e828-430f-a430-7ca140f2bf03,e6ae7a35-6dd5-479d-bc98-b2c572ab6fbb,2024-05-25 09:59:47,1122.31,GBP,transfer,mobile,Townsend LLC,entertainment,UK,Pamelafort,False
+7aeb3f7a-381c-48e3-84c0-af4da0d716c5,11d52697-0981-42ac-ba36-339fa0bc70ce,2023-04-07 15:55:50,350.63,GBP,transfer,ATM,Olsen Ltd,retail,Germany,Nicolestad,False
+0725f376-7cef-479e-a743-c0c9a2d4192f,723e04bc-e5f1-4c19-a454-fa691a057a3d,2023-05-22 20:59:54,531.4,EUR,purchase,mobile,Bradley Ltd,Electronics,USA,New Robin,False
+5c9ad6b2-a848-4686-a61c-82fcbbb89907,ff7a3334-d013-4a69-92d8-b5aa772810e5,2022-09-13 09:07:12,1409.22,GBP,deposit,ATM,"Ford, Vega and Williams",retail,Germany,South Warren,False
+95ed35ae-0cec-4b50-b1f3-b6d83aca9058,e6f16214-5997-493e-8a2e-f0414abe47d0,2024-05-05 12:43:10,1177.3,GBP,purchase,mobile,Vega PLC,entertainment,CANADA,Lisamouth,False
+b633c7dd-38bc-492b-8535-8ba214a743cd,cff40e21-fa39-49f1-b8a5-c1228ddee50d,2023-12-08 20:37:19,1092.3,INR,transfer,ATM,"Li, Wells and May",travel,USA,Wardfurt,False
+76037998-6ce9-477c-8e98-6efc64a5b68d,e2716a53-6cc0-4fa8-93ec-97cce8312cfe,2024-06-25 05:38:33,1544.89,JPY,purchase,in-branch,"Adams, Faulkner and Gomez",travel,CANADA,East Jeremiah,False
+ff2d5ed3-0013-400d-a75e-d050add36688,fabfed51-73c3-4150-a715-b21e6527807e,2022-10-27 04:23:52,783.09,USD,transfer,online,"Lewis, Taylor and Grant",Electronics,CANADA,South Maryfurt,False
+0f9ffbf5-6310-4b86-bf49-bea14b8e14a1,22dc6917-c1cc-4287-a1ee-d6bba01b85fc,2024-02-15 21:14:56,49.79,JPY,transfer,ATM,"Nelson, Wright and Mccarthy",utilities,UK,Sanfordport,False
+2c5ae35c-0b0b-4d29-878c-f8049c763767,77868dba-25f3-4573-a0d8-8bf084ff3a87,2023-03-16 01:40:38,1860.97,USD,withdrawal,ATM,Thomas Ltd,entertainment,CANADA,West Gailside,False
+54ee8f12-9c53-42ff-ac30-59658d7d02cc,95a9ce7b-df92-4441-8380-631ea1927468,2022-11-05 01:01:22,1576.52,USD,purchase,in-branch,Carter PLC,utilities,Germany,East Shellymouth,False
+08342106-91eb-446b-b906-94a7e9fcd446,bdba1ca6-f3f2-4c95-804a-63f59f37c6d0,2024-07-31 08:47:16,1492.77,JPY,deposit,online,"Calderon, Mckay and Compton",groceries,CANADA,Anthonyberg,False
+0a7ab9b5-cadc-4065-ac95-68e5f78cf3f8,2341783e-af07-4e71-be22-287b836227b7,2024-08-02 09:20:10,208.29,GBP,deposit,in-branch,"Hunter, Mcgee and Thomas",groceries,CANADA,Gabrielleberg,False
+730f3246-0477-4c25-8566-102dbbc845fb,37e819e4-c139-4c85-8af7-21977974d4ea,2024-03-21 15:06:35,539.92,USD,purchase,mobile,"Kim, Anderson and Cox",Electronics,IND,Port Kennethmouth,False
+c581cd30-50aa-475b-add0-a562c10694e6,b1312188-a293-48cc-a978-1d5b77c03d76,2023-02-01 18:08:59,95.6,USD,withdrawal,ATM,"Mcintyre, Moreno and Dunn",Electronics,USA,Stewartmouth,False
+79676bfd-7c87-4691-8f0f-1636f2f50a1d,c3c9136a-a721-41c7-95be-341cccf90c75,2022-11-13 07:19:05,1604.24,JPY,purchase,in-branch,Hernandez Ltd,Electronics,IND,Robertomouth,False
+2e83bbb6-4257-4542-8a77-bcd946ee43ef,d346eb22-c3bb-40a5-81d9-1658093c9f6f,2024-05-23 00:07:31,1524.07,INR,deposit,mobile,"Brown, Tran and Serrano",retail,IND,West Martha,False
+a225f6f4-468e-4ba3-968f-bd687b57a204,488154e4-8147-452d-bc80-f79f03b145c6,2023-07-31 02:34:56,909.45,INR,withdrawal,ATM,"Cherry, Rhodes and Ellis",groceries,Germany,New Megan,False
+bd50e841-e68e-47f0-8ca8-c98f21d87da7,49ab8b12-4891-47b8-983e-de7f462f6478,2024-08-01 00:06:44,1433.88,JPY,deposit,online,"Mann, Jones and Jones",retail,CANADA,Figueroaberg,False
+f2ab5435-f13e-4b4c-922d-e8b4c9bafad8,613dd66f-f8a3-40a6-94af-c6d50b13b71e,2024-05-19 20:00:33,1329.24,JPY,purchase,online,"Wallace, Cooper and Wheeler",entertainment,UK,North Beverly,False
+5f24c30f-f87a-4c73-99ea-e7530e154ed1,9645d0e8-f80a-4b80-a393-dbbcf26e5c1b,2024-08-05 12:05:33,395.65,USD,deposit,mobile,"Rodriguez, Reynolds and Young",Electronics,UK,Bernardside,False
+65bc1f2c-dd4d-42a8-98c0-2665390f61ae,683477a3-2c8f-4b3c-965a-aeca678dd836,2023-10-12 13:31:23,352.99,JPY,deposit,online,"Carey, Burns and Graham",utilities,IND,Whiteberg,False
+32c5eeaf-c18b-4d2e-8e5b-7ca3e441dfd8,68079da9-3dee-4f23-91a1-a7a183a3d67b,2024-01-11 06:19:43,1518.31,JPY,withdrawal,mobile,Smith-Townsend,retail,Germany,Elizabethtown,False
+9edd90a5-19a3-4ca5-b81c-76dc44a5d5a9,f7b0e0d3-d30c-4adb-bc61-a705842b41f8,2023-06-12 07:03:33,308.89,INR,deposit,online,"Scott, Snow and Lara",groceries,UK,West Kathrynburgh,False
+36fa3783-754a-4520-b048-d08e310cb137,a336937e-7d0a-4b15-ac54-61763e1c23f0,2024-07-12 02:44:32,701.76,INR,transfer,ATM,Hinton Ltd,retail,USA,Lake Davidland,False
+1981ac31-32a5-457f-af11-ab78e4f15f0d,b7e2fe1f-1c5e-4927-bdb4-66bab57afec8,2024-06-28 02:34:58,966.05,GBP,transfer,online,"Valdez, Gutierrez and Pineda",entertainment,Germany,Hensontown,False
+674021c1-d302-48d8-8490-00890c4644af,4ff0cf27-f1b3-42fb-b464-a759ea3ddd6c,2023-04-25 17:51:29,1886.84,USD,withdrawal,online,Ballard and Sons,groceries,UK,New Ashleyhaven,False
+fbbd6428-1407-47d3-a5cd-948f47651fb0,384c0350-d08a-47b8-a304-2da4d0e373c5,2023-02-06 22:12:25,1724.87,USD,withdrawal,mobile,Williams-Hoffman,utilities,IND,Pattersonville,False
+faa84b06-fe88-4860-a870-9055187cb303,c4971298-b4fb-499e-9fac-9fff7dd9c32a,2023-09-04 17:35:36,1934.91,GBP,purchase,online,Boone-Rogers,retail,Germany,Samanthatown,False
+cff76f82-cb1c-482f-91e8-47331679ec0b,2e4d1ed1-05ec-4810-bde8-b3144e8ec82b,2023-08-03 12:50:15,1549.5,INR,purchase,in-branch,Roth-Howard,entertainment,IND,Lake Charles,False
+291f4fe7-e449-44b6-a33a-e78ad27bdf11,269d7c67-9016-45f4-9d1e-0102263a5704,2022-10-08 02:04:31,551.28,JPY,deposit,in-branch,Brewer-Savage,entertainment,USA,Schmidtborough,False
+f6b18ced-2889-4ae9-aa64-1893264fe618,0e07f9cb-cf7f-44ac-b795-d7d9b89d7994,2024-01-12 09:40:15,542.13,INR,transfer,in-branch,Foley PLC,travel,USA,Lindatown,False
+e8701920-d9b7-4e31-aa2b-422730f7061e,a990cc66-d4be-495b-8ba6-71d5938c1e2e,2024-08-07 00:17:41,874.23,EUR,withdrawal,in-branch,"Wood, Cooke and Myers",entertainment,CANADA,Seanmouth,False
+a7b2a319-4948-4113-9034-77d88568be33,4771227c-1426-441c-b454-8b6c2c7eba0d,2023-01-19 19:26:17,290.38,JPY,withdrawal,in-branch,Martin-Garcia,retail,USA,West Josephside,False
+f514247c-0943-4dce-8f6a-6053fc1f06f7,ef0c8323-65bb-4b39-bcb9-70a27518693f,2024-01-05 07:33:09,468.54,JPY,deposit,mobile,Cohen Inc,utilities,CANADA,Cervantesborough,True
+8bb98d95-ad3c-4aa5-b359-a0a78b78fa30,753d7176-545c-4362-9f5e-9592baa341cc,2023-08-29 03:23:49,871.64,INR,deposit,ATM,Powell-Gonzalez,travel,USA,Tiffanyburgh,False
+267616b6-3e60-4018-bd2e-21ad2fad49a0,35ffc092-eee7-4e9e-9143-3b62390a6d46,2023-02-16 05:20:51,1204.49,EUR,withdrawal,ATM,Gill-Coleman,retail,Japan,Marshallhaven,False
